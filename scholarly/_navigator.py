@@ -10,6 +10,8 @@ import hashlib
 import logging
 import random
 import requests
+import time
+
 from stem import Signal
 from stem.control import Controller
 from fake_useragent import UserAgent
@@ -86,6 +88,7 @@ class Navigator(object):
                                    timeout=_TIMEOUT)
                 if resp.status_code == 429:
                     print('Timeout')
+                    print("End " + str(time.time()))
                     session.close()
                     import sys; sys.exit()
 

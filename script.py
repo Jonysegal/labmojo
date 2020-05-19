@@ -1,4 +1,5 @@
 import json
+import time
 from scholarly import scholarly
 
 from fp.fp import FreeProxy
@@ -24,15 +25,13 @@ def save_result(pi, result):
         del pi['scholarly']['_sections']
         del pi['scholarly']['_filled']
         email_host = get_email_host(pi)
-        print("%s @ %s == %s @ %s" % (
+        print("%s == %s" % (
             pi['name'],
-            email_host,
             result.name,
-            result.email
         ))
         f = open('results/results.json','a')
         json.dump(pi, f)
-        f.write('/n')
+        f.write(',')
         f.close()
     except Exception as e:
         print(e)
@@ -84,16 +83,19 @@ def scholarly_search(pi):
     if not 'scholarly' in pi:
         m = open('results/nomatch.json','a')
         json.dump(pi, m)
+        m.write(',')
         m.close()
         print("-----------------Not Found----------------------------")
-        print(pi)
 
 
 if __name__ == "__main__":
     with open('test.json', 'r') as file:
         data = json.load(file)
+        print("Start " + str(time.time()))
         for pi in data['data']:
             scholarly_search(pi)
+            time.sleep(2)
 
         # with Pool(5) as p:
         #     p.map(scholarly_search, data['data'])
+        print("End " + str(time.time()))
