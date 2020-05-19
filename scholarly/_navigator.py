@@ -10,8 +10,6 @@ import hashlib
 import logging
 import random
 import requests
-import time
-
 from stem import Signal
 from stem.control import Controller
 from fake_useragent import UserAgent
@@ -86,11 +84,6 @@ class Navigator(object):
                                    headers=_HEADERS,
                                    cookies=_COOKIES,
                                    timeout=_TIMEOUT)
-                if resp.status_code == 429:
-                    print('Timeout')
-                    print("End " + str(time.time()))
-                    session.close()
-                    import sys; sys.exit()
 
                 if resp.status_code == 200:
                     if self._has_captcha(resp.text):

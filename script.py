@@ -7,7 +7,7 @@ from multiprocessing import Pool
 
 proxies = {'http' : 'socks5://127.0.0.1:9050', 'https': 'socks5://127.0.0.1:9050'}
 
-proxy = FreeProxy(rand=True, timeout=1, country_id=['US', 'CA']).get()
+# proxy = FreeProxy(rand=True, timeout=1, country_id=['US', 'CA']).get()
 
 
 def save_file(pi, file_name):
@@ -91,13 +91,13 @@ def scholarly_search(pi):
 
 
 if __name__ == "__main__":
-    with open('all.json', 'r+') as file:
+    with open('test.json', 'r+') as file:
         new_data = {'data':[{}]}
         data = json.load(file)
         print("Start " + str(time.time()))
         for pi in data['data']:
             scholarly_search(pi)
-            time.sleep(2)
+            # time.sleep(2)
         # with Pool(5) as p:
         #     p.map(scholarly_search, data['data'])
         print("End " + str(time.time()))
