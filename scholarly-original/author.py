@@ -94,13 +94,7 @@ class Author(object):
         while True:
             for row in soup.find_all('tr', class_='gsc_a_tr'):
                 new_pub = Publication(self.nav, row, 'citations')
-                if 'nav' in new_pub.__dict__:
-                    del new_pub.__dict__['nav']
-                if '_sections' in new_pub.__dict__:
-                    del new_pub.__dict__['_sections']
-                if '_filled' in new_pub.__dict__:
-                    del new_pub.__dict__['_filled']
-                self.publications.append(new_pub.__dict__)
+                self.publications.append(new_pub)
             if 'disabled' not in soup.find('button', id='gsc_bpf_more').attrs:
                 pubstart += _PAGESIZE
                 url = '{0}&cstart={1}&pagesize={2}'.format(
@@ -117,14 +111,7 @@ class Author(object):
             new_coauthor.name = row.find(tabindex="-1").text
             new_coauthor.affiliation = row.find(
                 class_="gsc_rsb_a_ext").text
-
-            if 'nav' in new_coauthor.__dict__:
-                del new_coauthor.__dict__['nav']
-            if '_sections' in new_coauthor.__dict__:
-                del new_coauthor.__dict__['_sections']
-            if '_filled' in new_coauthor.__dict__:
-                del new_coauthor.__dict__['_filled']
-            self.coauthors.append(new_coauthor.__dict__)
+            self.coauthors.append(new_coauthor)
 
     def fill(self, sections: list = []):
         """Populate the Author with information from their profile
@@ -132,7 +119,7 @@ class Author(object):
         The `sections` argument allows for finer granularity of the profile
         information to be pulled.
 
-        :param sections:
+        :param sections: 
         The sections of author information that will be filled
         They are broken down as follows:
             'basics' = [name, affiliation, and interests],

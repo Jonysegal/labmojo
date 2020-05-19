@@ -10,8 +10,6 @@ import hashlib
 import logging
 import random
 import requests
-import time
-
 from stem import Signal
 from stem.control import Controller
 from fake_useragent import UserAgent
@@ -49,9 +47,7 @@ if sys.platform.startswith("linux"):
 elif sys.platform.startswith("win"):
     _TOR_SOCK = "socks5://127.0.0.1:9150"
     _TOR_CONTROL = 9151
-else:
-    _TOR_SOCK = "socks5://127.0.0.1:9050"
-    _TOR_CONTROL = 9051
+
 
 class Navigator(object):
     """I did not call it browser because there are other packages with
@@ -88,11 +84,6 @@ class Navigator(object):
                                    headers=_HEADERS,
                                    cookies=_COOKIES,
                                    timeout=_TIMEOUT)
-                if resp.status_code == 429:
-                    print('Timeout')
-                    print("End " + str(time.time()))
-                    session.close()
-                    import sys; sys.exit()
 
                 if resp.status_code == 200:
                     if self._has_captcha(resp.text):
