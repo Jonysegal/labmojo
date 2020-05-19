@@ -10,6 +10,13 @@ proxies = {'http' : 'socks5://127.0.0.1:9050', 'https': 'socks5://127.0.0.1:9050
 proxy = FreeProxy(rand=True, timeout=1, country_id=['US', 'CA']).get()
 
 
+def save_file(pi, file_name):
+    m = open(file_name,'a')
+    json.dump(pi, m)
+    m.write(',')
+    m.close()
+    return
+
 def get_email_host(pi):
     at_pos = pi['email'].find('@')
     return pi['email'][at_pos:]
@@ -21,22 +28,20 @@ def save_result(pi, result):
     try:
         result.fill()
         pi['scholarly'] = result.__dict__
-        del pi['scholarly']['nav']
-        del pi['scholarly']['_sections']
-        del pi['scholarly']['_filled']
+        if 'nav' in pi['scholarly']:
+            del pi['scholarly']['nav']
+        if '_sections' in pi['scholarly']:
+            del pi['scholarly']['_sections']
+        if '_filled' in pi['scholarly']:
+            del pi['scholarly']['_filled']
         email_host = get_email_host(pi)
         print("%s == %s" % (
             pi['name'],
             result.name,
         ))
-        f = open('results/results.json','a')
-        json.dump(pi, f)
-        f.write(',')
-        f.close()
+        save_file(pi, 'results/results.json')
     except Exception as e:
-        print(e)
-        import pdb; pdb.set_trace()
-
+        print("Error: " + str)
 
 def find_best_match(pi, results):
     email_host = get_email_host(pi)
@@ -81,21 +86,18 @@ def scholarly_search(pi):
             results = scholarly.search_author("%s %s" % (names[0][0], lastname))
             new_pi = set_scholarly(pi, results, lastname)
     if not 'scholarly' in pi:
-        m = open('results/nomatch.json','a')
-        json.dump(pi, m)
-        m.write(',')
-        m.close()
+        save_file(pi, 'results/nomatch.json')
         print("-----------------Not Found----------------------------")
 
 
 if __name__ == "__main__":
-    with open('test.json', 'r') as file:
+    with open('all.json', 'r+') as file:
+        new_data = {'data':[{}]}
         data = json.load(file)
         print("Start " + str(time.time()))
         for pi in data['data']:
             scholarly_search(pi)
             time.sleep(2)
-
         # with Pool(5) as p:
         #     p.map(scholarly_search, data['data'])
         print("End " + str(time.time()))

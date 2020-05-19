@@ -94,7 +94,12 @@ class Author(object):
         while True:
             for row in soup.find_all('tr', class_='gsc_a_tr'):
                 new_pub = Publication(self.nav, row, 'citations')
-                del new_pub.__dict__['nav']
+                if 'nav' in new_pub.__dict__:
+                    del new_pub.__dict__['nav']
+                if '_sections' in new_pub.__dict__:
+                    del new_pub.__dict__['_sections']
+                if '_filled' in new_pub.__dict__:
+                    del new_pub.__dict__['_filled']
                 self.publications.append(new_pub.__dict__)
             if 'disabled' not in soup.find('button', id='gsc_bpf_more').attrs:
                 pubstart += _PAGESIZE
@@ -112,7 +117,13 @@ class Author(object):
             new_coauthor.name = row.find(tabindex="-1").text
             new_coauthor.affiliation = row.find(
                 class_="gsc_rsb_a_ext").text
-            del new_coauthor.__dict__['nav']
+
+            if 'nav' in new_coauthor.__dict__:
+                del new_coauthor.__dict__['nav']
+            if '_sections' in new_coauthor.__dict__:
+                del new_coauthor.__dict__['_sections']
+            if '_filled' in new_coauthor.__dict__:
+                del new_coauthor.__dict__['_filled']
             self.coauthors.append(new_coauthor.__dict__)
 
     def fill(self, sections: list = []):
