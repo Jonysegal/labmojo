@@ -1,19 +1,20 @@
 import scholarly
 
 search_query = scholarly.search_author('Steven A. Cholewiak')
-##print(type(search_query))
-##print(len(list(search_query)))
-##author = next(search_query).fill()
-##print("aca");
-###print(author)
+print(type(search_query))
+print(len(list(search_query)))
+
+author = next(search_query).fill()
+print("aca");
+#print(author)
+
+print(author.hindex)
+for key, val in author.publications[0].bib.items():
+   if key == "year":
+       print("awef")
 ##
-##print(author.hindex)
-##for key, val in author.publications[0].bib.items():
-##    if key == "year":
-##        print("awef")
-##        
-##print(author.publications[0].bib["year"])   
-##        
+##print(author.publications[0].bib["year"])
+##
 ## as first run throug, take list of names. search and produce CSV with columns
 ## NAME | Hindex | Pubs 2020 | 2019 ... | 2015| av pubs per year
 ## methodology: foraech name in name {
@@ -40,3 +41,9 @@ names = ["Len Seymour"
 "Andrew Moran"]
 for name in names:
     print(name)
+
+
+def get_pubs_by_year(author):
+    for key, val in author.publications[0].bib.items():
+       if key == "year":
+           print("awef")
