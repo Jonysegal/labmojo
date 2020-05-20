@@ -1,28 +1,5 @@
 {
-  "data": [{
-      "institution": "USC",
-      "image": "https://dornsife.usc.eduhttps://dornsife.usc.edu/assets/js/tinymce2/plugins/imagemanager/stream/index.php?cmd=im.streamFile&path=%7B0%7D%2F1071%2Fimgs%2Fsmith.jpg",
-      "name": "Andrew Smith",
-      "title": "Professor of Biological Sciences",
-      "personal_website": "https://dornsife.usc.edu/bisc/faculty-profile/?Person_ID=1022642",
-      "email": "andrewds@usc.edu",
-      "office": "RRI 408E",
-      "phone": "(213) 821-4142",
-      "discipline": [],
-      "topics": ["Big Data & Network Analysis; Cell & Developmental Biology; Ecology & Evolutionary Biology; Evolution & Population Genetics; Genomics & Epigenetics; "]
-    },
-    {
-      "institution": "USC",
-      "image": "https://dornsife.usc.edu/assets/sites/1071/imgs/prof-pic-3.jpg",
-      "name": "Craig Stanford",
-      "title": "Professor of Biological Sciences and Anthropology",
-      "personal_website": "https://dornsife.usc.edu/bisc/faculty-profile/?Person_ID=1003727",
-      "email": "stanford@usc.edu",
-      "office": "GFS B54",
-      "phone": "(213) 740-1918",
-      "discipline": [],
-      "topics": ["Aquatic, Terrestrial & Ocean Ecology; Environmental Biology"]
-    },
+  "data": [
     {
       "institution": "USC",
       "image": "https://dornsife.usc.edu/assets/sites/1071/imgs/blank-portrait-img.jpg",
