@@ -10,3 +10,7 @@ __pycache__/
 
 scholar.log
 archive/all-duplicate.json
+
+leads/test.json
+noresults/test-results.json
+results/test-results.json
