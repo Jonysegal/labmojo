@@ -286,8 +286,15 @@ if __name__ == "__main__":
             if not 'title' in pi:
                 pi['title'] = ''
 
-            if not 'email' in pi and 'website' in pi:
-                pi['email'] = "@" + urlparse(pi['website']).hostname
+            if not 'email' in pi:
+                if 'website' in pi:
+                    pi['email'] = "@" + urlparse(pi['website']).hostname
+                elif 'lab_website' in pi:
+                    pi['email'] = "@" + urlparse(pi['lab_website']).hostname
+                elif 'personal_website' in pi:
+                    pi['email'] = "@" + urlparse(pi['personal_website']).hostname
+                else:
+                    pass
 
             if 'email' in pi and pi['email'] != None and not 'Lecturer' in pi['title']:
                 # Set some initial data before search
