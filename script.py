@@ -143,6 +143,11 @@ def orient_name(name):
     return cleaned_name.strip()
 
 def remove_crud_at_start(name):
+    # Remove a first initial
+    first_word = name.split()[0]
+    if len(first_word) == 2 and '.' in first_word:
+        name.replace(first_word, '').strip()
+
     remove_list = [
         'Dr.',
     ]
@@ -189,7 +194,7 @@ def get_queries(pi):
     query_set = set()
     for q in queries:
         query_set.add(q)
-    return list(queries)
+    return list(query_set)
 
 def scholarly_search(pi):
     for x in get_queries(pi):
@@ -257,6 +262,17 @@ def set_email_host(pi):
     return pi
 
 
+def create_email_from_website(pi):
+    if 'website' in pi:
+        pi['email'] = "@" + urlparse(pi['website']).hostname
+    elif 'lab_website' in pi:
+        pi['email'] = "@" + urlparse(pi['lab_website']).hostname
+    elif 'personal_website' in pi:
+        pi['email'] = "@" + urlparse(pi['personal_website']).hostname
+    else:
+        pass
+    return
+
 ################################################################################
 # Set Data
 ################################################################################
@@ -286,15 +302,13 @@ if __name__ == "__main__":
             if not 'title' in pi:
                 pi['title'] = ''
 
+            # If missing, give a url for the email
             if not 'email' in pi:
-                if 'website' in pi:
-                    pi['email'] = "@" + urlparse(pi['website']).hostname
-                elif 'lab_website' in pi:
-                    pi['email'] = "@" + urlparse(pi['lab_website']).hostname
-                elif 'personal_website' in pi:
-                    pi['email'] = "@" + urlparse(pi['personal_website']).hostname
-                else:
-                    pass
+                create_email_from_website(pi)
+            elif pi['email'] == "":
+                create_email_from_website(pi)
+            else:
+                pass
 
             if 'email' in pi and pi['email'] != None and not 'Lecturer' in pi['title']:
                 # Set some initial data before search
