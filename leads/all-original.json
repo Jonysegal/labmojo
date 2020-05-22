@@ -24604,429 +24604,476 @@
       "topics": ["Genetics", " Neurobiology          "]
     },
     {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/abreu.jpg",
-      "name": "Eladio Abreu",
-      "title": "Lecturer",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=410",
-      "email": "Rollins 2013",
-      "description": "404-727-7948"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/antia.jpg",
-      "name": "Rustom Antia",
-      "title": "Samuel C. Dobbs Professor",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=17",
-      "email": "Rollins 1107",
-      "description": "404-727-1015"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/arbilly.jpg",
-      "name": "Michal Arbilly",
-      "title": "Lecturer",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=429",
-      "email": "Rollins 2127",
-      "description": "404-727-0815"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/beck.jpg",
-      "name": "Chris Beck",
-      "title": "Professor of Pedagogy",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=19",
-      "email": "Rollins 1105",
-      "description": "404-712-9012"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/berman.jpg",
-      "name": "Gordon Berman",
-      "title": "Assistant Professor",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=423",
-      "email": "Rollins 2107",
-      "description": "404-727-0071"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/cafferty.jpg",
-      "name": "Patrick Cafferty",
-      "title": "Senior Lecturer",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=345",
-      "email": "Rollins 2011",
-      "description": "404-727-7587"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/calabrese.jpg",
-      "name": "Ronald Calabrese, Senior Associate Dean for Research",
-      "title": "Samuel C. Dobbs Professor",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=20",
-      "email": "Rollins 2113",
-      "description": "404-727-0319"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/campbell.jpg",
-      "name": "Kathleen Campbell",
-      "title": "Senior Lecturer",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=21",
-      "email": "Rollins 1025",
-      "description": "404-727-2937"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/civitello.jpg",
-      "name": "Dave Civitello",
-      "title": "Assistant Professor",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=459",
-      "email": "Rollins 1011",
-      "description": "404-727-3336"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/cole.jpg",
-      "name": "Megan Cole",
-      "title": "Senior Lecturer",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=363",
-      "email": "1462 Bldg. Room 104",
-      "description": "404-727-4210"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/corbett.jpg",
-      "name": "Anita Corbett",
-      "title": "Professor",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=444",
-      "email": "Rollins 1021",
-      "description": "404-727-4546"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/crouse.jpg",
-      "name": "Gray Crouse, Emeritus",
-      "title": "Professor",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=23",
-      "email": "Rollins 1009",
-      "description": "404-727-4236"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/deroode.jpg",
-      "name": "Jaap De Roode",
-      "title": "Professor",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=24",
-      "email": "Rollins 1113",
-      "description": "404-727-2340"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/deal.jpg",
-      "name": "Roger Deal",
-      "title": "Associate Professor",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=339",
-      "email": "Rollins 2017",
-      "description": "404-727-8087"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/eisen.jpg",
-      "name": "Arri Eisen",
-      "title": "Professor of Pedagogy",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=25",
-      "email": "Rollins 1001C",
-      "description": "404-727-8724"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/escobar.jpg",
-      "name": "Alexander Escobar",
-      "title": "Senior Lecturer",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=26",
-      "email": "Rollins 1103",
-      "description": "404-727-7525"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/fritz.jpg",
-      "name": "Andreas Fritz",
-      "title": "Associate Professor",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=28",
-      "email": "Rollins 1119",
-      "description": "404-727-9012"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/gerardo.jpg",
-      "name": "Nicole Gerardo",
-      "title": "Professor",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=29",
-      "email": "Rollins 1111",
-      "description": "404-727-0394"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/hickman.jpg",
-      "name": "Meleah Hickman",
-      "title": "Assistant Professor",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=407",
-      "email": "Rollins 1027",
-      "description": "404-727-6491"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/jaeger.jpg",
-      "name": "Dieter Jaeger",
-      "title": "Professor",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=30",
-      "email": "Rollins 2129",
-      "description": "404-727-8139"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/jones.jpg",
-      "name": "George H. Jones, Emeritus",
-      "title": "Goodrich C. White Professor",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=31",
-      "email": "Rollins 2001",
-      "description": "404-727-0712"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/kelly.jpg",
-      "name": "William Kelly",
-      "title": "Professor",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=32",
-      "email": "Rollins 2029",
-      "description": "404-727-6461"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/koelle.jpg",
-      "name": "Katia Koelle",
-      "title": "Associate Professor",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=471",
-      "email": "Rollins 1015",
-      "description": "katia.koelle@emory.edu"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/lhernault.jpg",
-      "name": "Steven L'Hernault, Chairman",
-      "title": "Professor",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=163",
-      "email": "Rollins 2001C",
-      "description": "404-727-4234"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/levin.jpg",
-      "name": "Bruce Levin",
-      "title": "Samuel C. Dobbs Professor",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=34",
-      "email": "Rollins 1109",
-      "description": "404-727-2826"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/liu.jpg",
-      "name": "Robert Liu",
-      "title": "Professor",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=35",
-      "email": "Rollins 2131",
-      "description": "404-727-5274"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/luchessi.jpg",
-      "name": "John Lucchesi, Emeritus",
-      "title": "Asa G. Candler Professor",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=36",
-      "email": "Rollins 1011",
-      "description": "404-291-9924"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/lynn.jpg",
-      "name": "David Lynn",
-      "title": "Professor",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=37",
-      "email": "Emerson Hall E409",
-      "description": "404-727-9348"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/marsteller.jpg",
-      "name": "Pat Marsteller",
-      "title": "Professor of Practice",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=361",
-      "email": "Rollins 1101",
-      "description": "404-727-9696"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/morran.jpg",
-      "name": "Levi Morran",
-      "title": "Assistant Professor",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=381",
-      "email": "Rollins 1029",
-      "description": "404-727-7092"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/murugan.jpg",
-      "name": "Malavika Murugan",
-      "title": "Assistant Professor",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=526",
-      "email": "Rollins 2101",
-      "description": "malavika.murugan@gmail.com"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/nemenman.jpg",
-      "name": "Ilya Nemenman",
-      "title": "Professor",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=283",
-      "email": "Math & Science Center N240",
-      "description": "404-727-9286"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/otoole.jpg",
-      "name": "Kate O'Toole",
-      "title": "Lecturer",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=408",
-      "email": "Rollins 2009",
-      "description": "404-727-7679"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/orloff.jpg",
-      "name": "Gregg Orloff, Emeritus",
-      "title": "Senior Lecturer",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=7",
-      "email": "gregg.orloff@emory.edu",
-      "description": "I teach Biology 141, 143, 350 and 415. My interests outside of the classroom include cancer education using my website, CancerQuest (www.cancerquest.org)."
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/prinz.jpg",
-      "name": "Astrid Prinz",
-      "title": "Associate Professor",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=39",
-      "email": "Rollins 2105",
-      "description": "404-727-5191"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/real.jpg",
-      "name": "Leslie Real, Emeritus",
-      "title": "Asa G. Candler Professor",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=40",
-      "email": "Rollins 1001A",
-      "description": "404-727-4099"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/rieder.jpg",
-      "name": "Leila Rieder",
-      "title": "Assistant Professor",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=500",
-      "email": "Coming to Emory Spring 2019",
-      "description": "leila.rieder@emory.edu"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/shepherd.jpg",
-      "name": "Iain Shepherd",
-      "title": "Associate Professor",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=42",
-      "email": "Rollins 1131",
-      "description": "404-727-2632"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/siegler.jpg",
-      "name": "Melody Siegler, Emeritus",
-      "title": "Associate Professor",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=43",
-      "email": "msiegle@emory.edu",
-      "description": "Our research concerns the developmental events that give rise to the mature nervous system, specifically the interplay of lineage and extrinsic influences in the formation of neural circuits."
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/sober.jpg",
-      "name": "Sam Sober",
-      "title": "Associate Professor",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=302",
-      "email": "Rollins 2103",
-      "description": "404-727-5846"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/spell.jpg",
-      "name": "Rachelle Spell",
-      "title": "Professor of Pedagogy",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=44",
-      "email": "Rollins 2015",
-      "description": "404-727-5828"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/starnes.jpg",
-      "name": "Amanda Starnes",
-      "title": "Senior Lecturer",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=45",
-      "email": "Rollins 2125",
-      "description": "404-727-6932"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/stokes.jpg",
-      "name": "Darrell Stokes, Emeritus",
-      "title": "Professor",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=46",
-      "email": "Rollins 2127",
-      "description": "404-727-4213"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/vega.jpg",
-      "name": "Nic Vega",
-      "title": "Assistant Professor",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=470",
-      "email": "Rollins 2019",
-      "description": "857-207-1050"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/weissman.jpg",
-      "name": "Daniel Weissman",
-      "title": "Assistant Professor",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=468",
-      "email": "Math & Science Center N244",
-      "description": "404-727-4296"
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/yedvobnick.jpg",
-      "name": "Barry Yedvobnick, Emeritus",
-      "title": "Professor",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=48",
-      "email": "barry.yedvobnick@emory.edu",
-      "description": "Notch is a major signaling pathway within metazoa that has been implicated in an array of developmental and disease mechanisms.  Using genetic and molecular methods, our lab has been screening for novel loci that contribute to Notch signaling."
-    },
-    {
-      "institution": "Emory",
-      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/yokoyama.jpg",
-      "name": "Shozo Yokoyama, Emeritus",
-      "title": "Asa G. Candler Professor",
-      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=49",
-      "email": "shozo.yokoyama@emory.edu",
-      "description": "We study the molecular genetics and adaptive evolution of color and dim-light vision in various vertebrate species.  To elucidate the molecular mechanisms of these adaptive events, we use methods of molecular/cell biology, protein modeling, quantum chemistry, psychophysics, and molecular evolution."
-    },
-    {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/abreu.jpg",
+  "name": "Eladio Abreu",
+  "title": "Lecturer",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=410",
+  "email": "eladio.b.abreu@emory.edu",
+  "description": "My research has focused on understanding the consequences of epigenetic silencing on primary ciliogenesis. I am currently shifting my research interests toward pedagogy. More specifically, I\u00bfm interested in the application of active learning in science education. My aim is to teach scientific concepts in an engaging manner that captivates my students. I design my lectures in a way that encourages students to ponder these concepts outside of my classroom.",
+  "office": "Rollins 2013",
+  "phone": "404-727-7948"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/antia.jpg",
+  "name": "Rustom Antia",
+  "title": "Samuel C. Dobbs Professor",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=17",
+  "email": "rustom.antia@emory.edu",
+  "description": "I am interested in developing a quantitative understanding of the dynamics of pathogens and immune responses.",
+  "office": "Rollins 1107",
+  "phone": "404-727-1015"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/arbilly.jpg",
+  "name": "Michal Arbilly",
+  "title": "Lecturer",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=429",
+  "email": "michal.arbilly@emory.edu",
+  "description": "I am a behavioral ecologist, and I use theoretical models to try and understand how cognition and behavior evolve. I'm especially interested in how group-living shapes learning and decision-making processes.",
+  "office": "Rollins 2127",
+  "phone": "404-727-0815"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/beck.jpg",
+  "name": "Chris Beck",
+  "title": "Professor of Pedagogy",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=19",
+  "email": "christopher.beck@emory.edu",
+  "description": "I am working on improving inquiry-based learning in laboratory classes by developing the bean beetle as a new model system for teaching.",
+  "office": "Rollins 1105",
+  "phone": "404-712-9012"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/berman.jpg",
+  "name": "Gordon Berman",
+  "title": "Assistant Professor",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=423",
+  "email": "gordon.berman@emory.edu",
+  "description": "Our lab attempts to reveal new insights into animal behavior through developing novel theoretical and computational techniques.  We have a particular emphasis on data-driven approaches, pursuing quantitative understanding into entire repertoires of behaviors and aiming to make connections to the genetics, neurobiology, and evolutionary histories that underlie them.",
+  "office": "Rollins 2107",
+  "phone": "404-727-0071"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/cafferty.jpg",
+  "name": "Patrick Cafferty",
+  "title": "Senior Lecturer",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=345",
+  "email": "patrick.w.cafferty@emory.edu",
+  "description": "The ultimate goal for my classes is to make learning biology interesting, engaging, and fun.  Over the years, I have worked with excellent athletic coaches who provided assistance, encouragement, and helped to plan my training.  I approach classroom teaching with the qualities of these coaches in mind as I aim to guide my students through problems using active learning methods.",
+  "office": "Rollins 2011",
+  "phone": "404-727-7587"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/calabrese.jpg",
+  "name": "Ronald Calabrese, Senior Associate Dean for Research",
+  "title": "Samuel C. Dobbs Professor",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=20",
+  "email": "ronald.calabrese@emory.edu",
+  "description": "We are interested in how rhythmic motor patterns are generated and modulated by the central nervous system. We study the heartbeat network of medicinal leeches as a model because the interneurons and motor neurons that control the hearts have been identified and are experimentally accessible for electrophysiological analyses, and the quantitative data generated lends itself to computational modeling and hybrid-systems analyses.",
+  "office": "Rollins 2113",
+  "phone": "404-727-0319"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/campbell.jpg",
+  "name": "Kathleen Campbell",
+  "title": "Senior Lecturer",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=21",
+  "email": "kathleen.campbell@emory.edu",
+  "description": "My teaching responsibilities run from a freshman seminar course on DNA and forensics, to the introductory biology series, and upper division microbiology lectures and labs.  The focus is introducing concepts, giving real life examples, and understanding how all of these pieces of the puzzle fit together and make up the exciting field of biology.",
+  "office": "Rollins 1025",
+  "phone": "404-727-2937"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/civitello.jpg",
+  "name": "Dave Civitello",
+  "title": "Assistant Professor",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=459",
+  "email": "david.james.civitello@emory.edu",
+  "description": "Why do epidemics grow large in some places but not others? Our current research aims to build new theory for disease outbreaks that can explain parasite transmission and reproduction in heterogeneous populations and dynamic environments. We combine field surveys, experiments, and mathematical modeling to improve predictions and control of disease outbreaks that are relevant for biodiversity conservation and human health.",
+  "office": "Rollins 1011",
+  "phone": "404-727-3336"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/cole.jpg",
+  "name": "Megan Cole",
+  "title": "Senior Lecturer",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=363",
+  "email": "megan.f.cole@emory.edu",
+  "description": "I strive to engage intro bio students in real research experiences where, with some guidance, they can design and implement their own lab experiments. I hope this early exposure to the true nature of scientific research, with all its complexity and confusion, instills a deeper appreciation for the excitement and creativity inherent to the study of biological systems.",
+  "office": "1462 Bldg. Room 104",
+  "phone": "404-727-4210"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/corbett.jpg",
+  "name": "Anita Corbett",
+  "title": "Professor",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=444",
+  "email": "acorbe2@emory.edu",
+  "description": "Research in our laboratory primarily focuses on determining the function of evolutionarily-conserved RNA binding proteins. These RNA binding proteins play critical roles at many steps in gene expression. Interestingly, mutations in genes that encode ubiquitously expressed RNA binding proteins often lead to tissue-specific diseases.",
+  "office": "Rollins 1021",
+  "phone": "404-727-4546"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/crouse.jpg",
+  "name": "Gray Crouse, Emeritus",
+  "title": "Professor",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=23",
+  "email": "gcrouse@emory.edu",
+  "description": "We study processes that cause DNA damage and mutation in the cell, and processes that repair the damage before it can cause mutations.  Our particular interest is in oxidative damage and we use that most perfect of model organisms, yeast.",
+  "office": "Rollins 1009",
+  "phone": "404-727-4236"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/deroode.jpg",
+  "name": "Jaap De Roode",
+  "title": "Professor",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=24",
+  "email": "jacobus.deroode@emory.edu",
+  "description": "We study the evolution of parasites and their hosts. One of our main questions is how environmental conditions can select for more or less harmful parasites.",
+  "office": "Rollins 1113",
+  "phone": "404-727-2340"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/deal.jpg",
+  "name": "Roger Deal",
+  "title": "Associate Professor",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=339",
+  "email": "roger.deal@emory.edu",
+  "description": "Our research is driven by a desire to understand the fundamental mechanisms of chromatin-based gene regulation. We strive to elucidate how these mechanisms are used to shape the gene expression profiles of individual cell types during cell differentiation and organ formation.",
+  "office": "Rollins 2017",
+  "phone": "404-727-8087"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/eisen.jpg",
+  "name": "Arri Eisen",
+  "title": "Professor of Pedagogy",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=25",
+  "email": "arri.eisen@emory.edu",
+  "description": "I am especially interested in letting students, majors and non, experience the many amazing aspects of biology beyond the purely pre-med perspective.",
+  "office": "Rollins 1001C",
+  "phone": "404-727-8724"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/escobar.jpg",
+  "name": "Alexander Escobar",
+  "title": "Senior Lecturer",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=26",
+  "email": "alexander.escobar@emory.edu",
+  "description": "Life is dynamic. I try to bring the cell to life using the many animations and 3-D models available today so students can experience this for themselves.",
+  "office": "Rollins 1103",
+  "phone": "404-727-7525"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/fritz.jpg",
+  "name": "Andreas Fritz",
+  "title": "Associate Professor",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=28",
+  "email": "andreas.fritz@emory.edu",
+  "description": "The highly reproducible development of complex organisms from a single cell is one of the most amazing biological processes.  We use the zebrafish model system to investigate the genetic and molecular requirements underlying embryonic patterning and development.",
+  "office": "Rollins 1119",
+  "phone": "404-727-9012"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/gerardo.jpg",
+  "name": "Nicole Gerardo",
+  "title": "Professor",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=29",
+  "email": "nicole.gerardo@emory.edu",
+  "description": "Our lab is interested in how host and microbial traits shape the evolution of both beneficial and harmful associations. We are particularly interested in how host immune responses differ upon introduction of beneficial versus harmful microbes, and how\nthe presence of protective microbes alters host investment in immunity. We utilize insect microbe associations amenable to experimental manipulation.",
+  "office": "Rollins 1111",
+  "phone": "404-727-0394"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/hickman.jpg",
+  "name": "Meleah Hickman",
+  "title": "Assistant Professor",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=407",
+  "email": "meleah.hickman@emory.edu",
+  "description": "The Hickman lab investigates the strategies yeast species employ to generate genetic and phenotypic variation that facilitate environmental adaptation. We primarily focus on the genomic plasticity of Candida albicans, the leading fungal pathogen of humans and its ability to rapidly acquire resistance to antifungal drugs.",
+  "office": "Rollins 1027",
+  "phone": "404-727-6491"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/jaeger.jpg",
+  "name": "Dieter Jaeger",
+  "title": "Professor",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=30",
+  "email": "djaeger@emory.edu",
+  "description": "We study detailed realistic single cell models in conjunction with slice and in vivo electrophysiology to examine computational properties of cerebellar and basal ganglia networks.",
+  "office": "Rollins 2129",
+  "phone": "404-727-8139"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/jones.jpg",
+  "name": "George H. Jones, Emeritus",
+  "title": "Goodrich C. White Professor",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=31",
+  "email": "george.h.jones@emory.edu",
+  "description": "We are interested in the biochemistry and evolution of RNA degradation pathways in bacteria and the relationship of RNA degradation to antibiotic biosynthesis in Streptomyces . We are particulary interested in RNA polyadenylation in various bacterial species and in the role of double strand specific endoribonucleases in regulating antibiotic production. We utilize biochemical, genetic, and bioinformatic approaches to study these systems.",
+  "office": "Rollins 2001",
+  "phone": "404-727-0712"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/kelly.jpg",
+  "name": "William Kelly",
+  "title": "Professor",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=32",
+  "email": "william.kelly@emory.edu",
+  "description": "We study highly conserved and presumably ancient mechanisms that operate in the germ line to protect and maintain the integrity of the genome across generations. We have identified several of these mechanisms and study them using the nematode C. elegans as a model system.",
+  "office": "Rollins 2029",
+  "phone": "404-727-6461"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/koelle.jpg",
+  "name": "Katia Koelle",
+  "title": "Associate Professor",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=471",
+  "email": "katia.koelle@emory.edu",
+  "description": "We study the ecological, evolutionary, and within-host dynamics of RNA viruses. Our focus is on viruses affecting humans, particularly influenza and dengue viruses.",
+  "office": "Rollins 1015",
+  "phone": ""
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/lhernault.jpg",
+  "name": "Steven L'Hernault, Chairman",
+  "title": "Professor",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=163",
+  "email": "bioslh@emory.edu",
+  "description": "We study how the vesicular trafficking pathway in developing sperm alters the cell surface to allow it to interact with the egg surface.  Our studies are done in the nematode Caenorhabditis elegans using genetic, molecular and biochemical techniques.",
+  "office": "Rollins 2001C",
+  "phone": "404-727-4234"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/levin.jpg",
+  "name": "Bruce Levin",
+  "title": "Samuel C. Dobbs Professor",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=34",
+  "email": "blevin@emory.edu",
+  "description": "We do theoretical and empirical studies of the population biology and evolution of bacteria and their accessory genetic elements and the population dynamics, evolution, and control of infectious disease.",
+  "office": "Rollins 1109",
+  "phone": "404-727-2826"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/liu.jpg",
+  "name": "Robert Liu",
+  "title": "Professor",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=35",
+  "email": "robert.liu@emory.edu",
+  "description": "",
+  "office": "Rollins 2131",
+  "phone": "404-727-5274"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/luchessi.jpg",
+  "name": "John Lucchesi, Emeritus",
+  "title": "Asa G. Candler Professor",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=36",
+  "email": "jclucch@emory.edu",
+  "description": "Chromatin is the complex of DNA and protein that makes up chromosomes. We study the chemical and structural changes that occur in chromatin in order to initiate and maintain gene expression.",
+  "office": "Rollins 1011",
+  "phone": "404-291-9924"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/lynn.jpg",
+  "name": "David Lynn",
+  "title": "Professor",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=37",
+  "email": "dlynn2@emory.edu",
+  "description": "My research interests include chemical biology, self-assembly, and signal transduction in cellular development and pathogenesis, conformation and molecular evolution, nanostructural synthesis and self-assembly, molecular skeletons for storing and reading information, and the origins of life.",
+  "office": "Emerson Hall E409",
+  "phone": "404-727-9348"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/marsteller.jpg",
+  "name": "Pat Marsteller",
+  "title": "Professor of Practice",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=361",
+  "email": "pmars@emory.edu",
+  "description": "I am currently a Professor of Practice in Biology and a half time Associate Dean.  I love teaching at all levels. With my dean hat, I help faculty find funding for undergraduate research and help faculty with curriculum grants.",
+  "office": "Rollins 1101",
+  "phone": "404-727-9696"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/morran.jpg",
+  "name": "Levi Morran",
+  "title": "Assistant Professor",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=381",
+  "email": "levi.morran@emory.edu",
+  "description": "We study sex and coevolution. We want to know why sex is so common in nature and how interactions between species alter the course of evolution.",
+  "office": "Rollins 1029",
+  "phone": "404-727-7092"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/murugan.jpg",
+  "name": "Malavika Murugan",
+  "title": "Assistant Professor",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=526",
+  "email": "malavika.murugan@gmail.com",
+  "description": "Social behavior is arguably one of the most essential sets of behaviors of all mammals (including humans). In our lab we are interested in understanding how the brain represents social sensory information and how this information is transformed to enable appropriate social interactions. By incorporating a wide range of techniques- cellular resolution imaging, electrophysiology, optogenetics, advanced analytical methods, and novel rodent behavioral paradigms - we aim to provide a comprehensive and mechanistic understanding of neural circuits underlying social behaviors.",
+  "office": "Rollins 2101",
+  "phone": ""
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/nemenman.jpg",
+  "name": "Ilya Nemenman",
+  "title": "Professor",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=283",
+  "email": "ilya.nemenman@emory.edu",
+  "description": "My group is applying methods of theoretical physics and information theory to understand how biological systems, such as molecular circuits, entire cellular networks, single neurons, whole brains, and entire populations learn from their surrounding environment and respond to it.",
+  "office": "Math & Science Center N240",
+  "phone": "404-727-9286"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/otoole.jpg",
+  "name": "Kate O'Toole",
+  "title": "Lecturer",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=408",
+  "email": "kate.k.otoole@emory.edu",
+  "description": "The biological world is amazing and learning about it should be interesting, and fun, and accessible to everyone. As an undergraduate biology lecturer, I strive to establish a student-centered learning environment in order to reach people with different learning preferences and different kinds of minds.",
+  "office": "Rollins 2009",
+  "phone": "404-727-7679"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/orloff.jpg",
+  "name": "Gregg Orloff, Emeritus",
+  "title": "Senior Lecturer",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=7",
+  "email": "gregg.orloff@emory.edu",
+  "description": "I teach Biology 141, 143, 350 and 415. My interests outside of the classroom include cancer education using my website, CancerQuest (www.cancerquest.org).",
+  "office": "gregg.orloff@emory.edu",
+  "phone": ""
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/prinz.jpg",
+  "name": "Astrid Prinz",
+  "title": "Associate Professor",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=39",
+  "email": "astrid.prinz@emory.edu",
+  "description": "We combine experimental and computational methods to study pattern generation, synchronization, and homeostasis in small neuronal networks. Our work relies on the collaboration of researchers from diverse backgrounds, including biologists, neuroscientists, physicists, engineers, computer scientists, and mathematicians.",
+  "office": "Rollins 2105",
+  "phone": "404-727-5191"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/real.jpg",
+  "name": "Leslie Real, Emeritus",
+  "title": "Asa G. Candler Professor",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=40",
+  "email": "lreal@emory.edu",
+  "description": "Interaction of genetic structure of populations and the ecological dynamics of infectious diseases; molecular evolution in rabies viruses.",
+  "office": "Rollins 1001A",
+  "phone": "404-727-4099"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/rieder.jpg",
+  "name": "Leila Rieder",
+  "title": "Assistant Professor",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=500",
+  "email": "leila.rieder@emory.edu",
+  "description": "Multiple meters of DNA are packaged into the nucleus of each cell, requiring highly interactive levels of organization. Our research focuses on how elegant genome organization, with emphasis on nuclear domains, leads to efficient and precise gene regulation.",
+  "office": "Coming to Emory Spring 2019",
+  "phone": ""
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/shepherd.jpg",
+  "name": "Iain Shepherd",
+  "title": "Associate Professor",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=42",
+  "email": "iain.shepherd@emory.edu",
+  "description": "My lab studies the genetic basis of the development of the enteric nervous system (ENS) - the nervous system of the intestine. We use genetic, cell biological, and embryological experimental techniques in our studies. These studies are clinically important. Hirschsprung's disease is a pediatric ENS condition that affects 1 in 5000 live births, the cause of which is only partly understood.",
+  "office": "Rollins 1131",
+  "phone": "404-727-2632"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/siegler.jpg",
+  "name": "Melody Siegler, Emeritus",
+  "title": "Associate Professor",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=43",
+  "email": "msiegle@emory.edu",
+  "description": "Our research concerns the developmental events that give rise to the mature nervous system, specifically the interplay of lineage and extrinsic influences in the formation of neural circuits.",
+  "office": "msiegle@emory.edu",
+  "phone": ""
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/sober.jpg",
+  "name": "Sam Sober",
+  "title": "Associate Professor",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=302",
+  "email": "samuel.j.sober@emory.edu",
+  "description": "Work in my lab uses the songbird vocal control system to investigate how the brain controls vocal behavior and learns from experience.",
+  "office": "Rollins 2103",
+  "phone": "404-727-5846"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/spell.jpg",
+  "name": "Rachelle Spell",
+  "title": "Professor of Pedagogy",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=44",
+  "email": "rachelle.spell@emory.edu",
+  "description": "I help students learn; I help teachers teach. I strive to both help my students develop as\nscientists and support faculty develop as educators.  My work on faculty and curriculum development has launched a research emphasis on how institutional factors can affect teaching practices.",
+  "office": "Rollins 2015",
+  "phone": "404-727-5828"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/starnes.jpg",
+  "name": "Amanda Starnes",
+  "title": "Senior Lecturer",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=45",
+  "email": "amanda.starnes@emory.edu",
+  "description": "Maintaining student interest (in \"Comparative Vertebrate Anatomy\" and \"The Biology of Parasites\") is a principle teaching goal. Using an organismal approach, students are encouraged to offer answers to class questions and their knowledge is further enhanced through student-led presentations.",
+  "office": "Rollins 2125",
+  "phone": "404-727-6932"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/stokes.jpg",
+  "name": "Darrell Stokes, Emeritus",
+  "title": "Professor",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=46",
+  "email": "darrell.stokes@emory.edu",
+  "description": "My laboratory has focused on structural, biochemical, and biophysical studies of insect and crustacean muscles.",
+  "office": "Rollins 2127",
+  "phone": "404-727-4213"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/vega.jpg",
+  "name": "Nic Vega",
+  "title": "Assistant Professor",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=470",
+  "email": "nicole.marie.vega@emory.edu",
+  "description": "Our lab is interested in microbial ecology in the host environment, and we use a combination of experiments and modeling to understand these complex systems. We are particularly interested in understanding the assembly and evolution of commensal microbial communities and in determining the factors that make host-associated communities resilient to stress, including antibiotic perturbation and invasion by pathogens. To this end, we use the nematode worm C. elegans as a tractable experimental system for microbial community assembly.",
+  "office": "Rollins 2019",
+  "phone": ""
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/weissman.jpg",
+  "name": "Daniel Weissman",
+  "title": "Assistant Professor",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=468",
+  "email": "dbweissman@gmail.com",
+  "description": "We want to have a theory of evolution that will predict how populations will evolve from a reasonable set of measurements. Towards this goal, we work on how populations explore the fitness landscape, and how evolutionary dynamics can be inferred from sequencing data from natural and experimental populations.",
+  "office": "Math & Science Center N244",
+  "phone": "404-727-4296"
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/yedvobnick.jpg",
+  "name": "Barry Yedvobnick, Emeritus",
+  "title": "Professor",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=48",
+  "email": "barry.yedvobnick@emory.edu",
+  "description": "Notch is a major signaling pathway within metazoa that has been implicated in an array of developmental and disease mechanisms.  Using genetic and molecular methods, our lab has been screening for novel loci that contribute to Notch signaling.",
+  "office": "barry.yedvobnick@emory.edu",
+  "phone": ""
+}, {
+  "institution": "Emory",
+  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/yokoyama.jpg",
+  "name": "Shozo Yokoyama, Emeritus",
+  "title": "Asa G. Candler Professor",
+  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=49",
+  "email": "shozo.yokoyama@emory.edu",
+  "description": "We study the molecular genetics and adaptive evolution of color and dim-light vision in various vertebrate species.  To elucidate the molecular mechanisms of these adaptive events, we use methods of molecular/cell biology, protein modeling, quantum chemistry, psychophysics, and molecular evolution.",
+  "office": "shozo.yokoyama@emory.edu",
+  "phone": ""
+}, {
       "institution": "UCLA",
       "name": "Dan Cohn",
       "personal_website": "https://www.mcdb.ucla.edu/indivfaculty/?faculty=Cohn",
