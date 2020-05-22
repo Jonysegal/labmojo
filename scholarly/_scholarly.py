@@ -1,11 +1,11 @@
 """scholarly.py"""
 import requests
+from .author import _CITATIONAUTH
 from ._navigator import Navigator
 
 _AUTHSEARCH = '/citations?hl=en&view_op=search_authors&mauthors={0}'
 _KEYWORDSEARCH = '/citations?hl=en&view_op=search_authors&mauthors=label:{0}'
 _PUBSEARCH = '/scholar?hl=en&q={0}'
-
 
 class _Scholarly(object):
     """docstring for scholarly"""
@@ -13,8 +13,8 @@ class _Scholarly(object):
         self.nav = Navigator()
 
     def use_proxy(self, http: str, https: str):
-        self.nav._use_proxy(http, https)        
-        
+        self.nav._use_proxy(http, https)
+
     def search_pubs(self, query, patents=True, citations=True, year_low=None, year_high=None):
         """
         Searches by query and returns a generator of Publication objects
@@ -63,3 +63,8 @@ class _Scholarly(object):
         """Search by custom URL and return a generator of Author objects
         URL should be of the form '/citation?q=...'"""
         return self.nav.search_authors(url)
+
+    def search_author_custom_url(self, id):
+        """Search by author ID and return a single Author object"""
+        url = _CITATIONAUTH.format(requests.utils.quote(id))
+        return self.nav.search_author_id(url)

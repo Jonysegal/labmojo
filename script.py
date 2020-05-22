@@ -4,7 +4,9 @@ from scholarly import scholarly
 from urllib.parse import urlparse
 
 
-name = 'all'
+
+
+name = 'test'
 LEADS = 'leads/%s.json' % name
 RESULTS = 'results/%s-results.json' % name
 NO_RESULTS = 'noresults/%s-noresults.json' % name
@@ -313,7 +315,9 @@ if __name__ == "__main__":
                     pi = set_initial_data(pi)
                     # Check before searching
                     if has_two_names(pi):
-                        # Search Scholarly
+                        # Search Google Scholar
                         scholarly_search(pi)
+
+                        # Then search Scopus
 
         print("End")

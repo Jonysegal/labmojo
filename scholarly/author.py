@@ -21,7 +21,6 @@ class Author(object):
                           'counts',
                           'coauthors',
                           'publications'}
-
         if isinstance(__data, str):
             self.id = __data
         else:
