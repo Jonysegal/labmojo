@@ -8,3 +8,6 @@ free-proxy==1.0.1
 PySocks==1.7.1
 stem==1.8.0
 fake-useragent==0.1.11
+
+decorator==4.4.2
+validators==0.15.0

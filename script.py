@@ -1,5 +1,6 @@
 import json
 import time
+import validators
 from scholarly import scholarly
 from urllib.parse import urlparse
 
@@ -263,13 +264,13 @@ def set_email_host(pi):
 
 
 def create_email_from_website(pi):
-    if 'website' in pi and pi.get('website') != "" and 'http' in pi.get('website'):
+    if 'website' in pi and pi.get('website') != "" and validators.url(pi.get('website')):
         pi['email'] = "@" + urlparse(pi['website']).hostname
 
-    elif 'lab_website' in pi and pi.get('lab_website') != "" and 'http' in pi.get('lab_website'):
+    elif 'lab_website' in pi and pi.get('lab_website') != "" and validators.url(pi.get('lab_website')):
         pi['email'] = "@" + urlparse(pi['lab_website']).hostname
 
-    elif 'personal_website' in pi and pi.get('personal_website') != "" and 'http' in pi.get('personal_website'):
+    elif 'personal_website' in pi and pi.get('personal_website') != "" and validators.url(pi.get('personal_website')):
         pi['email'] = "@" + urlparse(pi['personal_website']).hostname
     else:
         pass
