@@ -1,5 +1,4 @@
 import json
-import time
 import validators
 from scholarly import scholarly
 from urllib.parse import urlparse
@@ -295,14 +294,10 @@ if __name__ == "__main__":
         new_data = {'data':[{}]}
         data = json.load(file)
         # Need to add something to replace any null fields with "", currently doing this manually
-        print("Start " + str(time.time()))
         for pi in data['data']:
 
-            if pi.get('name'):
-
-                # Make sure there is an Email, and skip Lecturers
-                if not 'title' in pi:
-                    pi['title'] = ''
+            # Filter out the ones without a name and not Lectureres/ Emeritus
+            if pi.get('name') and not 'Lecturer' in pi.get('title') and not 'Emeritus' in pi.get('title'):
 
                 # If missing, give a url for the email
                 if not 'email' in pi:
@@ -312,7 +307,8 @@ if __name__ == "__main__":
                 else:
                     pass
 
-                if 'email' in pi and pi['email'] != None and not 'Lecturer' in pi['title']:
+                # If do not have some sort of email, then adios
+                if pi.get('email'):
                     # Set some initial data before search
                     pi = set_initial_data(pi)
                     # Check before searching
@@ -320,4 +316,4 @@ if __name__ == "__main__":
                         # Search Scholarly
                         scholarly_search(pi)
 
-        print("End " + str(time.time()))
+        print("End")
