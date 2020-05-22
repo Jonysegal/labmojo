@@ -8,7 +8,7 @@ from urllib.parse import urlparse
 name = 'all'
 LEADS = 'leads/%s.json' % name
 RESULTS = 'results/%s-results.json' % name
-NO_RESULTS = 'noresults/%s-results.json' % name
+NO_RESULTS = 'noresults/%s-noresults.json' % name
 
 ################################################################################
 # Master File Writing function
@@ -264,16 +264,12 @@ def set_email_host(pi):
 
 
 def create_email_from_website(pi):
-    if 'website' in pi and pi.get('website') != "" and validators.url(pi.get('website')):
-        pi['email'] = "@" + urlparse(pi['website']).hostname
-
-    elif 'lab_website' in pi and pi.get('lab_website') != "" and validators.url(pi.get('lab_website')):
-        pi['email'] = "@" + urlparse(pi['lab_website']).hostname
-
-    elif 'personal_website' in pi and pi.get('personal_website') != "" and validators.url(pi.get('personal_website')):
-        pi['email'] = "@" + urlparse(pi['personal_website']).hostname
-    else:
-        pass
+    sites = ['website', 'lab_website', 'personal_website']
+    while not pi.get('website') and len(sites):
+        for site in sites:
+            if pi.get(site) and validators.url(pi.get(site)):
+                pi['email'] = "@" + urlparse(pi[site]).hostname
+            sites.remove(site)
     return
 
 ################################################################################
@@ -301,24 +297,27 @@ if __name__ == "__main__":
         # Need to add something to replace any null fields with "", currently doing this manually
         print("Start " + str(time.time()))
         for pi in data['data']:
-            # Make sure there is an Email, and skip Lecturers
-            if not 'title' in pi:
-                pi['title'] = ''
 
-            # If missing, give a url for the email
-            if not 'email' in pi:
-                create_email_from_website(pi)
-            elif pi['email'] == "":
-                create_email_from_website(pi)
-            else:
-                pass
+            if pi.get('name'):
 
-            if 'email' in pi and pi['email'] != None and not 'Lecturer' in pi['title']:
-                # Set some initial data before search
-                pi = set_initial_data(pi)
-                # Check before searching
-                if has_two_names(pi):
-                    # Search Scholarly
-                    scholarly_search(pi)
+                # Make sure there is an Email, and skip Lecturers
+                if not 'title' in pi:
+                    pi['title'] = ''
+
+                # If missing, give a url for the email
+                if not 'email' in pi:
+                    create_email_from_website(pi)
+                elif pi['email'] == "":
+                    create_email_from_website(pi)
+                else:
+                    pass
+
+                if 'email' in pi and pi['email'] != None and not 'Lecturer' in pi['title']:
+                    # Set some initial data before search
+                    pi = set_initial_data(pi)
+                    # Check before searching
+                    if has_two_names(pi):
+                        # Search Scholarly
+                        scholarly_search(pi)
 
         print("End " + str(time.time()))
