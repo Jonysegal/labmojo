@@ -1,1663 +1,5 @@
 {
-  "data": [
-    {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/22_Anastasiadis_Panagiotis_Z_17N.jpg",
-  "name": "Panagiotis Anastasiadis, Ph.D.",
-  "title": "Professor of Cancer Biology",
-  "email": "Anastasiadis.Panos@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/anastasiadis-panagiotis-z-ph-d/bio-00092576"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/21_Auton_Matthew_T_17O.jpg",
-  "name": "Matthew Auton, Ph.D.",
-  "title": "Assistant Professor of Biochemistry and Molecular Biology",
-  "email": "Auton.Matthew@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/auton-matthew-t-ph-d/bio-20115971"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/20_Baker_Darren_J_16MY.jpg",
-  "name": "Darren Baker, M.S., Ph.D.",
-  "title": "Assistant Professor of Biochemistry and Molecular Biology",
-  "email": "Baker.Darren@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/baker-darren-j-m-s-ph-d/bio-00027985"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/19_Bergen_Harold_R_19J.jpg",
-  "name": "Bob Bergen, III, Ph.D.",
-  "title": "Associate Professor of Biochemistry and Molecular Biology",
-  "email": "Bergen.Bob@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/bergen-h-robert-bob-iii-ph-d/bio-00027671"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/18_Billadeau_Daniel_D_15N.jpg",
-  "name": "Daniel Billadeau, Ph.D.",
-  "title": "Professor of Biochemistry and Molecular Biology",
-  "email": "Billadeau.Daniel@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/billadeau-daniel-d-ph-d/bio-00027415"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/16_Cattaneo_Roberto_19F.jpg",
-  "name": "Roberto Cattaneo, Ph.D.",
-  "title": "Professor of Biochemistry and Molecular Biology",
-  "email": "Cattaneo.Roberto@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/cattaneo-roberto-ph-d/bio-00027692"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/15_Copland_John_A_06JU-2.jpg",
-  "name": "John Copland, III, Ph.D.",
-  "title": "Associate Professor of Biochemistry and Molecular Biology",
-  "email": "Copland.John@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/copland-john-a-iii-ph-d/bio-00028205"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/14_Couch_Fergus_J_18M.jpg",
-  "name": "Fergus Couch, Ph.D.",
-  "title": "Professor of Laboratory Medicine And Pathology",
-  "email": "Couch.Fergus@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/couch-fergus-j-ph-d/bio-00027515"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/doles_jason-512px.jpg",
-  "name": "Jason Doles, Ph.D.",
-  "title": "Assistant Professor of Biochemistry and Molecular Biology",
-  "email": "doles.jason@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/doles-jason-d-ph-d/bio-20197380"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/13_Ekker_Stephen_C_17JU.jpg",
-  "name": "Stephen Ekker, Ph.D.",
-  "title": "Professor of Biochemistry and Molecular Biology",
-  "email": "Ekker.Stephen@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/ekker-stephen-c-ph-d/bio-00096027"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/12_Federspiel_Mark_J_15JL.jpg",
-  "name": "Mark Federspiel, Ph.D.",
-  "title": "Associate Professor of Biochemistry and Molecular Biology",
-  "email": "federspiel.mark@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/federspiel-mark-j-ph-d/bio-00027290"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/11_Fernandez_Zapico_Martin_E_19JU.jpg",
-  "name": "Martin Fernandez-Zapico, M.D.",
-  "title": "Professor of Pharmacology",
-  "email": "FernandezZapico.Martin@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/fernandez-zapico-martin-e-m-d/bio-00027450"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/biochemistry-molecular-biology-folmes-clifford-512x512.jpg",
-  "name": "Clifford Folmes, Ph.D.",
-  "title": "Assistant Professor of Biochemistry and Molecular Biology",
-  "email": "folmes.clifford@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/folmes-clifford-d-ph-d/bio-20037426"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/10_Galardy_Paul_J_16JL.jpg",
-  "name": "Paul Galardy, M.D.",
-  "title": "Assistant Professor of Biochemistry and Molecular Biology",
-  "email": "Galardy.Paul@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/galardy-paul-j-m-d/bio-00095323"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/10_Galardy_Paul_J_16JL.jpg",
-  "name": "Sandra Gendler, Ph.D.",
-  "title": "Professor of Biochemistry and Molecular Biology",
-  "email": "gendler.sandra@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/gendler-sandra-j-ph-d/bio-00085552"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/08_Gores_Gregory_J_16S.jpg",
-  "name": "Gregory Gores, M.D.",
-  "title": "Professor of Medicine",
-  "email": "gores.gregory@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/gores-gregory-j-m-d/bio-00078325"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/07_Grande_Joseph_P_19MY.jpg",
-  "name": "Joseph Grande, M.D., Ph.D.",
-  "title": "Professor of Laboratory Medicine And Pathology",
-  "email": "grande@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/grande-joseph-p-m-d-ph-d/bio-00077700"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/06_Guo_Yi_16D.jpg",
-  "name": "Yi Guo, Ph.D.",
-  "title": "Assistant Professor of Biochemistry and Molecular Biology",
-  "email": "Guo.Yi@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/guo-yi-ph-d/bio-00055186"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/05_Harris_Peter_C_19N.jpg",
-  "name": "Peter Harris, Ph.D.",
-  "title": "Professor of Medicine",
-  "email": "Harris.Peter@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/harris-peter-c-ph-d/bio-00027798"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/04_Hawse_John_R_17JU.jpg",
-  "name": "John Hawse, IV, Ph.D.",
-  "title": "Associate Professor of Biochemistry and Molecular Biology",
-  "email": "Hawse.John@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/hawse-john-r-iv-ph-d/bio-00093391"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/03_Horazdovsky_Bruce_F_17O.jpg",
-  "name": "Bruce Horazdovsky, Ph.D.",
-  "title": "Associate Professor of Biochemistry and Molecular Biology",
-  "email": "Horazdovsky.Bruce@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/horazdovsky-bruce-f-ph-d/bio-00028142"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/02_Hu_Jinghua_17O.jpg",
-  "name": "Jinghua Hu, Ph.D.",
-  "title": "Associate Professor of Biochemistry and Molecular Biology",
-  "email": "Hu.Jinghua@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/hu-jinghua-ph-d/bio-00096594"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/01_Huang_Haojie_16JL.jpg",
-  "name": "Haojie Huang, Ph.D.",
-  "title": "Professor of Biochemistry and Molecular Biology",
-  "email": "Huang.Haojie@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/huang-haojie-ph-d/bio-00027429"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/47_Jenkins_Robert_B_17MY.jpg",
-  "name": "Robert Jenkins, M.D., Ph.D.",
-  "title": "Professor of Laboratory Medicine And Pathology",
-  "email": "rjenkins@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/jenkins-robert-b-m-d-ph-d/bio-00077489"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/46_Ji_Baoan_16J.jpg",
-  "name": "Baoan Ji, M.D., Ph.D.",
-  "title": "Assistant Professor of Biochemistry and Molecular Biology",
-  "email": "Ji.Baoan@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/ji-baoan-m-d-ph-d/bio-00055190"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/45_Katzmann_David_J_17JL.jpg",
-  "name": "David Katzmann, Ph.D.",
-  "title": "Associate Professor of Biochemistry and Molecular Biology",
-  "email": "Katzmann.David@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/katzmann-david-j-ph-d/bio-00077198"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/44_Kaufmann_Scott_H_19S.jpg",
-  "name": "Scott Kaufmann, M.D., Ph.D.",
-  "title": "Professor of Medicine",
-  "email": "kaufmann.scott@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/kaufmann-scott-h-m-d-ph-d/bio-00027216"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/43_Kocher_Jean-Pierre_A_15S.jpg",
-  "name": "Jean-Pierre Kocher, Ph.D.",
-  "title": "Professor of Biomedical Informatics",
-  "email": "Kocher.JeanPierre@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/kocher-jean-pierre-a-ph-d/bio-00094538"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/42_Kumar_Rajiv_18O.jpg",
-  "name": "Rajiv Kumar, M.D.",
-  "title": "Professor of Biochemistry and Molecular Biology",
-  "email": "rkumar@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/kumar-rajiv-m-d/bio-00077270"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/41_La-Russo_Nicholas_F_15MY.jpg",
-  "name": "Nicholas LaRusso, M.D.",
-  "title": "Professor of Biochemistry and Molecular Biology",
-  "email": "larusso.nicholas@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/larusso-nicholas-f-m-d/bio-00025975"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/39_Limper_Andrew_H_16MY.jpg",
-  "name": "Andrew Limper, M.D.",
-  "title": "Professor of Biochemistry and Molecular Biology",
-  "email": "limper.andrew@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/limper-andrew-h-m-d/bio-00077534"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/38_Ling_Kun_17O.jpg",
-  "name": "Kun Ling, Ph.D.",
-  "title": "Associate Professor of Biochemistry and Molecular Biology",
-  "email": "Ling.Kun@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/ling-kun-ph-d/bio-00096582"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/37_Loftus_Joseph_C_12AP.jpg",
-  "name": "Joseph Loftus, Ph.D.",
-  "title": "Professor of Biochemistry and Molecular Biology",
-  "email": "loftus.joseph@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/loftus-joseph-c-ph-d/bio-00027446"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/36_Lupu_Ruth_18O.jpg",
-  "name": "Ruth Lupu, Ph.D.",
-  "title": "Professor of Laboratory Medicine And Pathology",
-  "email": "Lupu.Ruth@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/lupu-ruth-ph-d/bio-00096927"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/35_Macura_Slobodan_I_15S.jpg",
-  "name": "Slobodan Macura, Ph.D.",
-  "title": "Professor of Biochemistry and Molecular Biology",
-  "email": "macura@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/macura-slobodan-i-ph-d/bio-00083855"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/34_Maher_Louis_J_15JL.jpg",
-  "name": "Jim Maher III, Ph.D.",
-  "title": "Professor of Biochemistry and Molecular Biology",
-  "email": "maher@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/maher-louis-jim-j-iii-ph-d/bio-00027304"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/33_McCormick_Daniel_J_19A.jpg",
-  "name": "Daniel McCormick, Ph.D.",
-  "title": "Professor of Biochemistry and Molecular Biology",
-  "email": "mccormick.daniel@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/mccormick-daniel-j-ph-d/bio-00078365"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/32_McNiven_Mark_A_19JU.jpg",
-  "name": "Mark McNiven, Ph.D.",
-  "title": "Professor of Biochemistry and Molecular Biology",
-  "email": "mmcniven@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/mcniven-mark-a-ph-d/bio-00026682"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/31_Mer_Georges_16D.jpg",
-  "name": "Georges Mer, Ph.D.",
-  "title": "Professor of Biochemistry and Molecular Biology",
-  "email": "Mer.Georges@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/mer-georges-ph-d/bio-00028048"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/30_Miller_Laurence_J_19MY.jpg",
-  "name": "Laurence Miller, M.D.",
-  "title": "Professor of Medicine",
-  "email": "ljm@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/miller-laurence-j-m-d/bio-00077289"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/29_Misra_Sanjay_15JU.jpg",
-  "name": "Sanjay Misra, M.D.",
-  "title": "Professor of Radiology",
-  "email": "Misra.Sanjay@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/misra-sanjay-m-d/bio-00085024"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/28_Mukhopadhyay_Debabrata_18S.jpg",
-  "name": "Dev Mukhopadhyay, Ph.D.",
-  "title": "Professor of Biochemistry and Molecular Biology",
-  "email": "Mukhopadhyay.Debabrata@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/mukhopadhyay-debabrata-dev-ph-d/bio-00092616"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/26_Patel_Robin_16MY.jpg",
-  "name": "Robin Patel, M.D.",
-  "title": "Professor of Medicine",
-  "email": "patel.robin@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/patel-robin-m-d/bio-00026595"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/25_Patel_Tushar_11J.jpg",
-  "name": "Tushar Patel, M.B., Ch.B.",
-  "title": "Professor of Cancer Biology",
-  "email": "Patel.Tushar@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/patel-tushar-c-m-b-ch-b/bio-00078142"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/24_Pittelkow_Mark_R_19JU.jpg",
-  "name": "Mark Pittelkow, M.D.",
-  "title": "Professor of Dermatology",
-  "email": "pittelkow.mark@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/pittelkow-mark-r-m-d/bio-00078318"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/23_Radisky_Evette_S_18D.jpg",
-  "name": "Evette Radisky, Ph.D.",
-  "title": "Professor of Cancer Biology",
-  "email": "Radisky.Evette@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/radisky-evette-s-ph-d/bio-00094471"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/69_Radisky_Derek_C_10S.jpg",
-  "name": "Derek Radisky, Ph.D.",
-  "title": "Professor of Cancer Biology",
-  "email": "Radisky.Derek@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/radisky-derek-c-ph-d/bio-00094478"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/68_Ramirez_Alvarado_Marina_17F.jpg",
-  "name": "Marina Ramirez-Alvarado, Ph.D.",
-  "title": "Professor of Biochemistry and Molecular Biology",
-  "email": "RamirezAlvarado.Marina@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/ramirez-alvarado-marina-ph-d/bio-00028052"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/67_Romero_Michael_F_16A.jpg",
-  "name": "Michael Romero, Ph.D.",
-  "title": "Professor of Physiology",
-  "email": "Romero.Michael@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/romero-michael-f-ph-d/bio-00095232"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/66_Salisbury_Jeffrey_L_19JU.jpg",
-  "name": "Jeffrey Salisbury, Ph.D.",
-  "title": "Professor of Biochemistry and Molecular Biology",
-  "email": "salisbury@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/salisbury-jeffrey-l-ph-d/bio-00078259"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/schellenberg_matthew-512px.jpg",
-  "name": "Matthew Schellenberg, Ph.D.",
-  "title": "Assistant Professor of Biochemistry and Molecular Biology",
-  "email": "Schellenberg.Matthew@mayo.edu",
-  "personal_website": null
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/65_Shah_Vijay_18JL.jpg",
-  "name": "Vijay Shah, M.D.",
-  "title": "Professor of Medicine",
-  "email": "Shah.Vijay@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/shah-vijay-m-d/bio-00083665"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/64_Shridhar_Vijayalakshmi_18J.jpg",
-  "name": "Viji Shridhar, Ph.D.",
-  "title": "Professor of Laboratory Medicine And Pathology",
-  "email": "Shridhar.Vijayalakshmi@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/shridhar-vijayalakshmi-viji-ph-d/bio-00027546"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/singh-vijay-512px.jpg",
-  "name": "Vijay Singh, M.B.B.S.",
-  "title": "Associate Professor of Medicine",
-  "email": "Singh.Vijay@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/singh-vijay-p-m-b-b-s/bio-20111292"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/63_Smith_David_I_16N.jpg",
-  "name": "David Smith, Ph.D.",
-  "title": "Professor of Laboratory Medicine And Pathology",
-  "email": "Smith.David@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/smith-david-i-ph-d/bio-00027439"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/62_Storz_Peter_11JU.jpg",
-  "name": "Peter Storz, Ph.D.",
-  "title": "Professor of Cancer Biology",
-  "email": "Storz.Peter@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/storz-peter-ph-d/bio-00094409"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/61_Sussman_Caroline_R_16JU.jpg",
-  "name": "Carli Sussman, Ph.D.",
-  "title": "Assistant Professor of Physiology",
-  "email": "Sussman.Carli@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/sussman-caroline-carli-r-ph-d/bio-00095375"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/60_Thibodeau_Stephen_N_16D.jpg",
-  "name": "Stephen Thibodeau, Ph.D.",
-  "title": "Professor of Laboratory Medicine And Pathology",
-  "email": "sthibodeau@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/thibodeau-stephen-n-ph-d/bio-00026384"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/59_Thompson_E_Aubrey_11MY.jpg",
-  "name": "E. Aubrey Thompson, Ph.D.",
-  "title": "Professor of Cancer Biology",
-  "email": "Thompson.Aubrey@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/thompson-e-aubrey-ph-d/bio-00028180"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/56_Van_Wijnen_Andre_J_17JU.jpg",
-  "name": "Andre van Wijnen, Ph.D.",
-  "title": "Professor of Orthopedics",
-  "email": "vanWijnen.Andre@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/van-wijnen-andre-j-ph-d/bio-20014240"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/55_Wang_Junwen_J_16F.jpg",
-  "name": "Junwen Wang, Ph.D.",
-  "title": "Professor of Biomedical Informatics",
-  "email": "Wang.Junwen@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/wang-junwen-ph-d/bio-20207988"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/54_Weinshilboum_Richard_19O.jpg",
-  "name": "Richard Weinshilboum, M.D.",
-  "title": "Professor of Medicine",
-  "email": "weinshilboum.richard@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/weinshilboum-richard-m-d/bio-00025916"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/53_Westendorf_Jennifer-Jane_17F.jpg",
-  "name": "Jennifer Westendorf, Ph.D.",
-  "title": "Professor of Biochemistry and Molecular Biology",
-  "email": "Westendorf.Jennifer@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/westendorf-jennifer-jane-jennifer-ph-d/bio-00083267"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/52_Wieben_Eric_D_18JL.jpg",
-  "name": "Eric Wieben, Ph.D.",
-  "title": "Professor of Biochemistry and Molecular Biology",
-  "email": "wieben.eric@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/wieben-eric-d-ph-d/bio-00077507"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/51_Wolfram_Joy_E_17M.jpg",
-  "name": "Joy Wolfram, Ph.D.",
-  "title": "Assistant Professor of Medicine",
-  "email": "Wolfram.Joy@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/wolfram-joy-emelie-joy-v-ph-d/bio-20317915"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/50_Xu_Xiaolei_18O.jpg",
-  "name": "Xiaolei Xu, Ph.D.",
-  "title": "Professor of Biochemistry and Molecular Biology",
-  "email": "Xu.Xiaolei@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/xu-xiaolei-ph-d/bio-00092623"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/49_Yang_Yanan_17JL.jpg",
-  "name": "Yanan Yang, Ph.D.",
-  "title": "Assistant Professor of Biochemistry and Molecular Biology",
-  "email": "Yang.Yanan@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/yang-yanan-ph-d/bio-10007284"
-}, {
-  "institution": "Mayo Clinic",
-  "image": "https://college.mayo.edu/media/mccms/content-assets/academics/biomedical-research-training/phd-program/faculty-list-images---biochem-amp-biomedical-eng/48_Zhu_Shizhen_18MY.jpg",
-  "name": "Jane Zhu, M.D., Ph.D.",
-  "title": "Assistant Professor of Biochemistry and Molecular Biology",
-  "email": "Zhu.Shizhen@mayo.edu",
-  "personal_website": "https://www.mayo.edu/research/faculty/zhu-shizhen-jane-m-d-ph-d/bio-20035146"
-},
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/baizabal-manuel-ca2019.jpg",
-      "name": "Manuel Baizabal",
-      "title": "Assistant Professor, Biology",
-      "email": "mbaizaba@iu.edu",
-      "office": "Jordan Hall A309",
-      "phone": "(812) 856-0111",
-      "topics": ["functional genomics of mammalian brain development; epigenetic control of neurogenesis and neuronal fate specification; evolution of transcriptional regulation in neural stem cells"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/bashey-visser1.jpg",
-      "name": "Farrah Bashey-Visser",
-      "title": "Assistant Scientist, Biology",
-      "email": "fbasheyv@indiana.edu",
-      "office": "Sycamore Hall 039",
-      "phone": "(812) 855-1962",
-      "topics": ["ecology, evolution, microbial interactions and pathogenesis"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/bell-steve_mar28-2017.jpg",
-      "name": "Stephen Bell",
-      "title": "Professor, Biology",
-      "email": "stedbell@indiana.edu",
-      "office": "Simon Hall 405A",
-      "phone": "(812) 856 2331",
-      "topics": ["molecular biology of the archaea; mechanistic and regulatory parameters that govern DNA replication, gene transcription and cell division"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/brendel.jpg",
-      "name": "Volker Brendel",
-      "title": "Professor, Biology",
-      "email": "vbrendel@indiana.edu",
-      "office": "Simon Hall 205C",
-      "phone": "(812) 855-7074",
-      "topics": ["genome informatics as related to plant transcriptional control and pre-mRNA splicing and computational infrastructure (cyberinfrastructure) for genome studies"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/calvi.jpg",
-      "name": "Brian Calvi",
-      "title": "Professor, Biology",
-      "email": "bcalvi@indiana.edu",
-      "office": "Jordan Hall 361B",
-      "phone": "(812) 855-5450",
-      "topics": ["cell cycle control of DNA replication and genome stability"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/dalia.jpg",
-      "name": "Ankur Dalia",
-      "title": "Associate Professor, Biology",
-      "email": "ankdalia@indiana.edu",
-      "office": "Jordan Hall 469A",
-      "phone": "(812) 856-1895",
-      "topics": ["mechanisms of biofilm formation, horizontal gene transfer by natural transformation, and metabolism in the model facultative pathogen Vibrio cholerae"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/danthi.jpg",
-      "name": "Pranav Danthi",
-      "title": "Associate Professor, Biology",
-      "email": "pdanthi@indiana.edu",
-      "office": "Simon Hall 220B",
-      "phone": "(812) 856-2449",
-      "topics": ["reovirus-host interactions"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/delph.jpg",
-      "name": "Lynda Delph",
-      "title": "Distinguished Professor, Biology",
-      "email": "ldelph@indiana.edu",
-      "office": "Jordan Hall 119B",
-      "phone": "(812) 855-1831",
-      "topics": ["evolutionary genetics and ecology; plant reproductive biology"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/demas-greg-2015.jpg",
-      "name": "Gregory E. Demas",
-      "title": "Chair, Biology",
-      "email": "gdemas@indiana.edu",
-      "office": "Jordan Hall 265",
-      "phone": "812-856-0158",
-      "topics": ["behavioral endocrinology, neuroendocrine-immune interactions, aggression, biological rhythms, seasonality"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/fuqua-clay.jpg",
-      "name": "Clay Fuqua",
-      "title": "Professor, Biology",
-      "email": "cfuqua@indiana.edu",
-      "office": "Jordan Hall 425E",
-      "phone": "(812) 856-6005",
-      "topics": ["attachment, biofilm formation, multicellularity and disease ecology of Agrobacterium tumefaciens"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/hahn-matt-2018.jpg",
-      "name": "Matthew Hahn",
-      "title": "Professor, Biology",
-      "email": "mwh@indiana.edu",
-      "office": "Jordan Hall 249B",
-      "phone": "(812) 856-7001",
-      "topics": ["computational and evolutionary genomics; evolution of transcriptional regulation; molecular population genetics"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/hall-spencer-aug14-2017.jpg",
-      "name": "Spencer Hall",
-      "title": "Professor, Biology",
-      "email": "sprhall@indiana.edu",
-      "office": "Jordan Hall 239B",
-      "phone": "(812) 855-6009",
-      "topics": ["ecology of infectious disease and food web interactions in freshwater environments"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/hangarter.jpg",
-      "name": "Roger Hangarter",
-      "title": "Distinguished Professor, Biology",
-      "email": "rhangart@indiana.edu",
-      "office": "Myers Hall 352",
-      "phone": "(812) 855-5456",
-      "topics": ["plant physiology: environmental sensory-response systems and plant development"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/hardy.jpg",
-      "name": "Richard Hardy",
-      "title": "Professor, Biology",
-      "email": "rwhardy@indiana.edu",
-      "office": "Simon Hall 220E",
-      "phone": "(812) 856-0652",
-      "topics": ["eukaryotic cell biology, cytoskeleton and signaling, virology, genome functions of RNA viruses and the roles of trans-acting factors"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/hu.jpg",
-      "name": "Ke Hu",
-      "title": "Professor, Biology",
-      "email": "kehu@indiana.edu",
-      "office": "Myers Hall 216A",
-      "phone": "(812) 855-0166",
-      "topics": ["cytoskeletal biogenesis of apicomplexan parasites"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/hurley.jpg",
-      "name": "Laura Hurley",
-      "title": "Professor, Biology",
-      "email": "lhurley@indiana.edu",
-      "office": "Jordan Hall 243",
-      "phone": "(812) 856-1991",
-      "topics": ["serotonin as a social neuromodulator of auditory processing"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/innes-roger-2017.jpg",
-      "name": "Roger Innes",
-      "title": "Distinguished Professor, Biology",
-      "email": "rinnes@indiana.edu",
-      "office": "Myers Hall 316B",
-      "phone": "(812) 855-2219",
-      "topics": ["molecular genetics of plant/pathogen interactions"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/kaufman.jpg",
-      "name": "Thom Kaufman",
-      "title": "Distinguished Professor, Biology",
-      "email": "kaufman@indiana.edu",
-      "office": "Jordan Hall A508",
-      "phone": "(812) 855-3033",
-      "topics": ["cytogenetics, developmental genetics, and molecular genetics of drosophila"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/kearns-dan-mar22-2017.jpg",
-      "name": "Daniel Kearns",
-      "title": "Professor, Biology",
-      "email": "dbkearns@indiana.edu",
-      "office": "Jordan Hall 469",
-      "phone": "(812) 856-2523",
-      "topics": ["bacterial multicellular behavior"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/kehoe-david-nov2018.jpg",
-      "name": "David Kehoe",
-      "title": "Professor, Biology",
-      "email": "dkehoe@indiana.edu",
-      "office": "Jordan Hall A413A",
-      "phone": "(812) 856-4715",
-      "topics": ["environmental regulation of gene expression in bacteria"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/ketterson1.jpg",
-      "name": "Ellen D. Ketterson",
-      "title": "Distinguished Professor, Biology",
-      "email": "ketterso@indiana.edu",
-      "office": "Jordan Hall 149",
-      "phone": "(812) 855-6837",
-      "topics": ["behavioral, physiological, and evolutionary ecology; hormones and behavior; avian biology, mating systems and parental care; physiological basis of trade-offs in life histories; adaptation and constraint; avian migration"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/knox.jpg",
-      "name": "Eric Knox",
-      "title": "Director, IU Herbarium",
-      "email": "eknox@indiana.edu",
-      "office": "Jordan Hall A313",
-      "phone": "(812) 855-9601",
-      "topics": ["plant evolution; speciation; phylogenetic systematics; chloroplast genome evolution; horizontal gene transfer; flora of Indiana"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/kumar-justin2017.jpg",
-      "name": "Justin Kumar",
-      "title": "Professor, Biology",
-      "email": "jkumar@indiana.edu",
-      "office": "Myers Hall 202A",
-      "phone": "(812) 856-2621",
-      "topics": ["Regulation of tissue/organ specification and patterning"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/lacefield-soni2017.jpg",
-      "name": "Soni Lacefield",
-      "title": "Associate Professor, Biology",
-      "email": "sonil@indiana.edu",
-      "office": "Jordan Hall A315B",
-      "phone": "(812) 856-2429",
-      "topics": ["mitotic and meiotic cell cycle regulation"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/landeta-cris-2019.jpg",
-      "name": "Cristina Landeta",
-      "title": "Assistant Scientist, Biology",
-      "email": "clandeta@iu.edu",
-      "office": "Jordan Hall 418A",
-      "phone": "",
-      "topics": ["disulfide bond formation in pathogenic bacteria and microbial communities; antimicrobial discovery by high throughput screening"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/lau-jennifer.jpg",
-      "name": "Jennifer Lau",
-      "title": "Associate Professor, Biology",
-      "email": "jenlau@iu.edu",
-      "office": "Jordan Hall 159B",
-      "phone": "--",
-      "topics": ["community ecology and evolutionary ecology: how plant populations respond to human-caused environmental change, the ecology and evolution of species interactions, and natural selection in the wild"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/ledon-rettig-cris.jpg",
-      "name": "Cris Led\u00f3n-Rettig",
-      "title": "Assistant Research Scientist",
-      "email": "crisledo@indiana.edu",
-      "office": "Myers Hall 102A",
-      "phone": "(812) 855-8821",
-      "topics": ["the role of developmental and behavioral plasticity in adaptive evolution"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/lennon.jpg",
-      "name": "Jay T. Lennon",
-      "title": "Professor, Biology",
-      "email": "lennonj@indiana.edu",
-      "office": "Jordan Hall 261B",
-      "phone": "(812) 856-0962",
-      "topics": ["microbial ecology and evolution"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/lively-curt-Mar2017.jpg",
-      "name": "Curt Lively",
-      "title": "Distinguished Professor, Biology",
-      "email": "clively@indiana.edu",
-      "office": "Jordan Hall 117B",
-      "phone": "(812) 855-1842",
-      "topics": ["evolution and coevolution; sex, virulence and genetic diversity in host-parasite interactions"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/mckinlay.jpg",
-      "name": "Jake McKinlay",
-      "title": "Associate Professor, Biology",
-      "email": "jmckinla@indiana.edu",
-      "office": "Jordan Hall 447D",
-      "phone": "(812) 855-0359",
-      "topics": ["microbial metabolism and its role in cell physiology, the environment, and biotechnology"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/michaels_scott_mar28-2017.jpg",
-      "name": "Scott Michaels",
-      "title": "Associate Chair for Research and Facilities, Biology",
-      "email": "michaels@indiana.edu",
-      "office": "Myers Hall 316C",
-      "phone": "(812) 856-0302",
-      "topics": ["regulation of chromatin structure and gene expression by epigenetic modifications"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/moczek-armin-2017.jpg",
-      "name": "Armin Moczek",
-      "title": "Professor, Biology",
-      "email": "armin@indiana.edu",
-      "office": "Myers Hall 102D",
-      "phone": "(812) 856-1468",
-      "topics": ["evolutionary and ecological developmental biology, origins of novel complex traits; developmental plasticity; host-microbiome interactions; niche construction; allometry; insect genomics and endocrinology; natural history of Onthophagus beetles"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/moyle.jpg",
-      "name": "Leonie Moyle",
-      "title": "Professor, Biology",
-      "email": "lmoyle@indiana.edu",
-      "office": "Jordan Hall 325C",
-      "phone": "(812) 856-7027",
-      "topics": ["genetics of speciation and adaptation; comparative genomics; evolutionary ecology; plant reproduction"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/mukhopadhyay-tuli-mar28-2017.jpg",
-      "name": "Tuli Mukhopadhyay",
-      "title": "Professor, Biology",
-      "email": "sumukhop@indiana.edu",
-      "office": "Simon Hall 220C",
-      "phone": "(812) 856-3686",
-      "topics": ["virus assembly and spread"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/newton-irene.jpg",
-      "name": "Irene Garcia Newton",
-      "title": "Associate Professor, Biology",
-      "email": "irnewton@indiana.edu",
-      "office": "Jordan Hall 221C",
-      "phone": "(812) 855-3883",
-      "topics": ["functional and evolutionary genomics of symbiosis"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/patton-john.jpg",
-      "name": "John Patton",
-      "title": "Professor, Biology",
-      "email": "jtpatton@iu.edu",
-      "office": "Simon Hall 220D",
-      "phone": "(812) 855-5211",
-      "topics": ["rotavirus replication and assembly, viral inhibition of innate immune responses"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/phillips.jpg",
-      "name": "Richard Phillips",
-      "title": "Professor, Biology",
-      "email": "rpp6@indiana.edu",
-      "office": "Jordan Hall 247",
-      "phone": "(812) 856-0593",
-      "topics": ["ecosystem ecology and biogeochemistry; consequences of human-accelerated environmental change on plant-soil-microbial interactions"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/pikaard-craig-2017.jpg",
-      "name": "Craig Pikaard",
-      "title": "Distinguished Professor, Biology/Molecular and Cellular Biochemistry",
-      "email": "cpikaard@indiana.edu",
-      "office": "Myers Hall 300B",
-      "phone": "(812) 855-1874",
-      "topics": ["mechanisms of RNA-mediated gene silencing and large-scale epigenetic control"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/ragsdale.jpg",
-      "name": "Erik Ragsdale",
-      "title": "Assistant Professor, Biology",
-      "email": "ragsdale@indiana.edu",
-      "office": "Myers Hall 100C",
-      "phone": "(812) 856-1946",
-      "topics": ["genetic regulation and evolution of developmental plasticity"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/reynolds-heather-2017.jpg",
-      "name": "Heather Reynolds",
-      "title": "Associate Professor, Biology",
-      "email": "hlreynol@indiana.edu",
-      "office": "Jordan Hall 155A",
-      "phone": "(812) 855-0792",
-      "topics": ["ecology; microbial interactions and pathogenesis"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/rosvall.jpg",
-      "name": "Kimberly Rosvall",
-      "title": "Assistant Professor, Biology",
-      "email": "krosvall@indiana.edu",
-      "office": "Jordan Hall A318A",
-      "phone": "(812) 856-2375",
-      "topics": ["evolution of behavior; neuroendocrine mechanisms of behavior; physiological mechanisms of phenotypic plasticity and adaptation; sexual selection; behavioral genomics; behavioral ecology"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/rowe-magnus-dean-20190607-er.jpg",
-      "name": "Dean Rowe-Magnus",
-      "title": "Associate Professor, Biology",
-      "email": "drowemag@indiana.edu",
-      "office": "Jordan Hall 451",
-      "phone": "(812) 855-8514",
-      "topics": ["integrons and super-integrons; biofilm formation; c-di-GMP signalling pathways; natural competence; ecology and pathogenesis in the vibrionaceae"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/shaw.jpg",
-      "name": "Sidney Shaw",
-      "title": "Associate Professor, Biology",
-      "email": "sishaw@indiana.edu",
-      "office": "Myers Hall 354",
-      "phone": "(812) 856-5001",
-      "topics": ["microtubule dynamics and cellular morphogenesis in arabidopsis"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/smith-g-troy-mar2017.jpg",
-      "name": "G. Troy Smith",
-      "title": "Associate Professor, Biology",
-      "email": "getsmith@indiana.edu",
-      "office": "Jordan Hall 270E",
-      "phone": "(812) 856-0109",
-      "topics": ["neural and hormonal control of sexually dimorphic behavior; evolution of communication signals"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/sokol_nick_mar22-2017.jpg",
-      "name": "Nicholas Sokol",
-      "title": "Associate Professor, Biology",
-      "email": "nsokol@indiana.edu",
-      "office": "Jordan Hall 337A",
-      "phone": "(812) 856-6812",
-      "topics": ["regulatory RNA pathways in stem cells and differentiation"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/tennessen1.jpg",
-      "name": "Jason Tennessen",
-      "title": "Associate Professor, Biology",
-      "email": "jtenness@indiana.edu",
-      "office": "Jordan Hall 343B",
-      "phone": "(812) 855-9803",
-      "topics": ["developmental mechanisms and regulation in eukaryotic systems"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/tracey_dan-2017.jpg",
-      "name": "W. Dan Tracey",
-      "title": "Professor, Biology",
-      "email": "dtracey@indiana.edu",
-      "office": "Multidisciplinary Science Bldg. II 204",
-      "phone": "(812) 856-2574",
-      "topics": ["behavior; developmental mechanisms and regulation in eukaryotic systems; eukaryotic cell biology; cytoskeleton and signaling"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/van-kessel.jpg",
-      "name": "Julia van Kessel",
-      "title": "Assistant Professor, Biology",
-      "email": "jcvk@indiana.edu",
-      "office": "Jordan Hall 425K",
-      "phone": "(812) 856-2235",
-      "topics": ["bacterial cell-cell communication (quorum sensing), gene regulation, bacterial development, microbial genetics and biochemistry"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/wade_mike-2017.jpg",
-      "name": "Michael J. Wade",
-      "title": "Distinguished Professor, Biology",
-      "email": "mjwade@indiana.edu",
-      "office": "Jordan Hall 131C",
-      "phone": "(812) 856-4680",
-      "topics": ["behavior; evolution; microbial interactions and pathogenesis"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/wang-xindan-2017.jpg",
-      "name": "Xindan Wang",
-      "title": "Assistant Professor, Biology",
-      "email": "xindan@indiana.edu",
-      "office": "Jordan Hall 221C",
-      "phone": "(812) 855-5584",
-      "topics": ["chromosome dynamics, bacterial cell biology"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/weaver-lesley.jpg",
-      "name": "Lesley Weaver",
-      "title": "Assistant Professor, Biology",
-      "email": "lnweaver@iu.edu",
-      "office": "Jordan Hall 333A",
-      "phone": "",
-      "topics": ["physiological control of reproduction through inter-organ communication"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/winkler.jpg",
-      "name": "Malcolm Winkler",
-      "title": "Professor, Biology",
-      "email": "winklerm@indiana.edu",
-      "office": "Jordan Hall A414",
-      "phone": "(812) 856-1318",
-      "topics": ["physiology, molecular genetics, and pathogenesis of the bacterium ", " (pneumococcus); genomics and bioinformatics, microbial cell biology; environmental responses; microbial interactions and pathogenesis"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/zelhof1.jpg",
-      "name": "Andrew Zelhof",
-      "title": "Associate Professor, Biology",
-      "email": "azelhof@indiana.edu",
-      "office": "Jordan Hall 357A",
-      "phone": "(812) 855-0294",
-      "topics": ["developmental mechanisms and regulation in eukaryotic systems; eukaryotic cell biology; cytoskeleton and signaling evolution"]
-    },
-    {
-      "institution": "Indiana U",
-      "image": "https://biology.indiana.edu/images/profiles/profiles-768x768/zentner-gabe2017.jpg",
-      "name": "Gabriel Zentner",
-      "title": "Assistant Professor, Biology",
-      "email": "gzentner@indiana.edu",
-      "office": "Myers Hall 216B",
-      "phone": "(812) 856-7377",
-      "topics": ["epigenomic analysis of transcriptional regulation"]
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/2b439b6a-605a-4290-85ce-c0827a61909f",
-      "name": "James E Rothman",
-      "title": "Chair",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/james_rothman/",
-      "topics": ["Biochemistry", "Biophysics", "Chemistry", "Cell Biology", "Golgi Apparatus", "Membrane Fusion", "Synaptic Transmission", "Vesicular Transport Proteins"]
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/56f7157c-0574-45fc-bb73-009fdf4ee18f",
-      "name": "Christopher Burd",
-      "title": "Deputy Chair",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/christopher_burd/",
-      "topics": []
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/d3d4f9e6-1dc0-4196-a476-bce16fefd61c",
-      "name": "Joerg Bewersdorf",
-      "title": "Professor of Cell Biology and of Biomedical Engineering",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/joerg_bewersdorf/",
-      "topics": ["Cell Nucleus", "Endoplasmic Reticulum", "Microscopy, Fluorescence", "Microscopy, Confocal", "Cellular Structures"]
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/f85620a7-8453-4692-8cdf-e78a6ea05556",
-      "name": "Daniel Alfonso Col\u00f3n-Ramos",
-      "title": "Dorys McConnell Duberg Professor of Neuroscience and Cell Biology",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/daniel_colon-ramos/",
-      "topics": ["Behavior", "Brain", "Cell Biology", "Neurons"]
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/105a3421-0312-4f64-9b2b-86db97b75e28",
-      "name": "Pietro De Camilli",
-      "title": "John Klingenstein Professor of Neuroscience and Professor of Cell Biology; Investigator, Howard Hughes Medical Institute; Chair, Department of Neuroscience; Director, Kavli Institute for Neuroscience and Program in Cellular Neuroscience, Neurodegeneration and Repair (CNNR)",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/pietro_decamilli/",
-      "topics": ["Alzheimer Disease", "Cell Membrane", "Cell Biology", "Endocytosis", "Neurosciences", "Parkinson Disease", "Synapses", "Lipid Metabolism", "Neuroacanthocytosis"]
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/828afdd0-35dc-44a7-a254-e8f5a60178c5",
-      "name": "Shawn Ferguson",
-      "title": "Associate Professor of Cell Biology and of Neuroscience",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/shawn_ferguson/",
-      "topics": ["Alzheimer Disease", "Axonal Transport", "Lysosomes", "Parkinson Disease", "Tauopathies", "TDP-43 Proteinopathies", "Frontotemporal Dementia"]
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/f631450e-6e73-4777-a188-294e65c1c831",
-      "name": "Fred Sanford Gorelick",
-      "title": "Henry J. and Joan W. Binder Professor of Medicine (Digestive Diseases) and of Cell Biology; Director Investivative Gastroenterology NIH T32, Internal Medicine; Deputy Director, Yale M.D., Ph.D. Program",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/fred_gorelick/",
-      "topics": ["Autophagy", "Cell Biology", "Digestive System Diseases", "Gastrointestinal Diseases", "Pancreatic Diseases", "Pancreatitis", "Pancreas, Exocrine", "AMP-Activated Protein Kinases", "Proteolysis"]
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/429ce6fc-e8dd-4378-b99e-78c716599d19",
-      "name": "Shangqin Guo",
-      "title": "Assistant Professor of Cell Biology",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/shangqin_guo/",
-      "topics": ["Cell Biology", "Hematopoietic Stem Cells", "Leukemia, Experimental", "Cellular Reprogramming"]
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/c4e49819-a1cf-455b-b62a-29d98f3261a7",
-      "name": "Kallol Gupta",
-      "title": "Assistant Professor of Cell Biology",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/kallol_gupta/",
-      "topics": ["Biophysics", "Cell Membrane", "Cell Membrane Permeability", "Mass Spectrometry", "Membrane Transport Proteins", "Chemicals and Drugs"]
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/24fda0f0-f856-4696-b2f3-c4a0d3bb2f58",
-      "name": "Megan C. King",
-      "title": "Associate Professor of Cell Biology and of Molecular, Cellular and Development Biology; Co-Leader, Radiobiology and Radiotherapy, Yale Cancer Center",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/megan_king/",
-      "topics": ["Cell Nucleus", "Cell Biology", "DNA Repair", "Microtubules", "Nuclear Envelope", "Telomere"]
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/e3066ced-e46c-4eb9-ba70-3ae7c7395b1a",
-      "name": "Chenxiang Lin",
-      "title": "Associate Professor of Cell Biology",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/chenxiang_lin/",
-      "topics": ["Biophysics", "Cell Membrane", "Cell Biology", "DNA", "Lipid Bilayers", "Membrane Fusion", "Membranes, Artificial", "Reference Standards", "Nucleic Acid Probes", "Biosensing Techniques", "Nuclear Pore", "Nanotechnology", "Nanostructures"]
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/d19df00c-42b2-4e7a-be6b-0fd843a61b6e",
-      "name": "Haifan Lin",
-      "title": "Eugene Higgins Professor of Cell Biology, and Professor of Genetics and of Obstetrics, Gynecology, and Reproductive Sciences; Director, Yale Stem Cell Center",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/haifan_lin/",
-      "topics": ["Cell Biology", "Genetics", "Gynecology", "RNA Processing, Post-Transcriptional", "Stem Cells", "Embryonic Stem Cells", "Argonaute Proteins"]
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/c33ae426-f03c-441a-8167-f078a8dff7f0",
-      "name": "C. Patrick Lusk",
-      "title": "Associate Professor of Cell Biology",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/patrick_lusk/",
-      "topics": ["Chromatin", "Chromosomes", "Nuclear Envelope", "Nuclear Pore", "Nuclear Pore Complex Proteins"]
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/9b88ab6e-452c-4e02-b972-55f9d073c98b",
-      "name": "Malaiyalam Mariappan",
-      "title": "Associate Professor in Cell Biology",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/malaiyalam_mariappan/",
-      "topics": ["Endoplasmic Reticulum", "Quality Control", "Neurodegenerative Diseases", "Unfolded Protein Response"]
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/7abf01d2-c70f-485a-8e76-a6e8c42b5f51",
-      "name": "Thomas Melia",
-      "title": "Associate Professor in Cell Biology",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/thomas_melia/",
-      "topics": ["Autophagy", "Cell Biology", "Lysosomes", "Phagosomes", "Protein Aggregates"]
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/2b7d3488-9db7-4f49-b117-1d5de6d679dc",
-      "name": "Karin Reinisch",
-      "title": "David W. Wallace Professor of Cell Biology and of Molecular Biophysics and Biochemistry; Director of Graduate Studies",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/karin_reinisch/",
-      "topics": []
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/fd75a54a-3185-40a0-b43f-c3d7f9b9c465",
-      "name": "Martin Schwartz",
-      "title": "Robert W. Berliner Professor of Medicine (Cardiology) and Professor of Biomedical Engineering and of Cell Biology",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/martin_schwartz/",
-      "topics": []
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/0f4b5a78-6c30-421c-9b90-55ddafdcef8c",
-      "name": "Xiaolei Su",
-      "title": "Assistant Professor of Cell Biology",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/xiaolei_su/",
-      "topics": []
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/6adc0e99-bc7d-4c8b-b842-5678d8e8171e",
-      "name": "Peter Takizawa",
-      "title": "Assistant Professor of Cell Biology; Director, Medical Studies",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/peter_takizawa/",
-      "topics": []
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/b2e44fcb-171c-4260-a8a7-e30425806c5e",
-      "name": "Derek Toomre",
-      "title": "Professor of Cell Biology; Director of the YALE 'CINEMA' Laboratory (Cellular Imaging using New Microscopy Approaches)",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/derek_toomre/",
-      "topics": ["Biology", "Biophysics", "Biotechnology", "Chemistry", "Nanotechnology", "Optics and Photonics"]
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/d42b16d6-db86-438f-a0e8-6d978d1bbe89",
-      "name": "Julia von Blume",
-      "title": "Associate Professor in Cell Biology",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/julia_vonblume/",
-      "topics": []
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/9922b89f-9eb8-4b16-9db1-0323fdf7e551",
-      "name": "Min Wu",
-      "title": "Associate Professor in Cell Biology",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/wu_min/",
-      "topics": []
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/95942055-184e-455d-b565-65ee1d332c88",
-      "name": "Yongli Zhang",
-      "title": "Associate Professor of Cell Biology and of Moleculary Biophysics and Biochemistry",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/yongli_zhang/",
-      "topics": ["Exocytosis", "Membrane Fusion", "Synaptic Transmission", "Protein Folding", "Chromatin Assembly and Disassembly", "SNARE Proteins", "Synaptotagmins", "Munc18 Proteins", "Optical Tweezers"]
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/1560b121-7f5e-40c6-9625-4cea94ece911",
-      "name": "Julien Berro",
-      "title": "",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/julien_berro/",
-      "topics": ["Biophysics", "Cell Biology", "Cytoskeleton", "Endocytosis", "Kinetics", "Microscopy", "Microscopy, Fluorescence", "Models, Theoretical", "Schizosaccharomyces", "Nonlinear Dynamics", "Microscopy, Confocal", "Mechanics", "Systems Biology", "Mathematical Concepts", "Machine Learning", "Single Molecule Imaging"]
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/b9de7598-eeed-4828-97ac-0233f7a34712",
-      "name": "Jonathan Bogan",
-      "title": "",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/jonathan_bogan/",
-      "topics": ["Cell Biology", "Diabetes Mellitus, Type 2", "Endocrinology", "Glucose", "Metabolic Diseases", "Protein Transport"]
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/b0626bde-80af-4803-9e91-415fe205e767",
-      "name": "David Calderwood",
-      "title": "",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/david_calderwood/",
-      "topics": ["Biochemistry", "Cardiovascular Diseases", "Cell Adhesion", "Cell Biology", "Cytoskeleton", "Pharmacology", "Integrins", "Transcellular Cell Migration"]
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/8a07d442-8959-4584-8f31-461a94053d9e",
-      "name": "Michael Caplan",
-      "title": "",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/michael_caplan/",
-      "topics": ["Cell Biology", "Epithelial Cells", "Kidney", "Polycystic Kidney Diseases", "Physiology", "Ion Pumps"]
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/cc390127-d357-4c14-a0a6-1a7408c6af8c",
-      "name": "Lynn Cooley",
-      "title": "",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/lynn_cooley/",
-      "topics": ["Biology", "Cell Biology", "Drosophila", "Genetics", "Actin Cytoskeleton", "Molecular Biology", "Oogenesis"]
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/69a70eab-b95a-4c42-ad6d-f77ef458ee87",
-      "name": "Peter Cresswell",
-      "title": "",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/peter_cresswell/",
-      "topics": ["Biology", "Cell Biology", "Endoplasmic Reticulum", "Immunity", "Major Histocompatibility Complex"]
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/c172115f-3828-4c0e-b170-7a9faa1cb5ae",
-      "name": "Jorge Gal\u00e1n",
-      "title": "",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/jorge_galan/",
-      "topics": ["Campylobacter", "Cell Biology", "Immunity, Innate", "Inflammation", "Microbiology", "Microscopy", "Microscopy, Fluorescence", "Salmonella", "Cryoelectron Microscopy", "Host-Pathogen Interactions", "Microbiota", "Type III Secretion Systems"]
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/f3392888-65f0-4cde-b639-d03fa00925e8",
-      "name": "Valentina Greco",
-      "title": "",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/valentina_greco/",
-      "topics": ["Cell Biology", "Dermatology", "Genetics", "Neoplasms by Histologic Type", "Regeneration", "Stem Cells", "Stem Cell Niche"]
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/9a60aba3-7b54-428a-a527-683ff94602e5",
-      "name": "Diane Krause",
-      "title": "",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/diane_krause/",
-      "topics": ["Cell Biology", "Hematology", "Leukemia", "Pathology", "Stem Cells", "Medical Laboratory Science", "Gene Expression", "Bone Marrow Transplantation"]
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/05683cb8-0faf-4249-9c4d-2609de1f294e",
-      "name": "Jun Liu",
-      "title": "",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/jliu/",
-      "topics": ["Signal Transduction", "Cryoelectron Microscopy"]
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/a9d6da9d-c001-49b6-afe1-c034f761a064",
-      "name": "Vincent Marchesi",
-      "title": "",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/vincent_marchesi/",
-      "topics": ["Alzheimer Disease", "Autoantibodies", "Cell Biology", "Pathology", "Protein Folding"]
-    },
-    {
-      "institution": "Yale",
-      "image": "",
-      "name": "Mark Mooseker",
-      "title": "",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/mark_mooseker/",
-      "topics": []
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/49e536b9-d40b-43af-b90f-1fa5b6cad7b3",
-      "name": "Michael Nathanson",
-      "title": "",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/michael_nathanson/",
-      "topics": ["Cell Nucleus", "Cell Biology", "Digestive System Diseases", "Liver", "Calcium Signaling", "Hepatocytes"]
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/dc4273ce-4ba0-4e57-84c1-f21ca198c5e7",
-      "name": "Karla M Neugebauer",
-      "title": "",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/karla_neugebauer/",
-      "topics": ["Biochemistry", "Biophysics", "Cell Nucleus", "Cell Biology", "Molecular Biology", "RNA Splicing", "Saccharomyces cerevisiae", "Schizosaccharomyces", "Transcription, Genetic", "Zebrafish", "Alternative Splicing", "Genomics", "Nuclear Cap-Binding Protein Complex"]
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/df23d2bc-1b48-406c-8386-6ae29fd8c727",
-      "name": "Thomas Pollard",
-      "title": "",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/thomas_pollard/",
-      "topics": ["Cell Biology", "Molecular Biology", "Myosins", "Cytokinesis"]
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/8e4a0b5b-bade-4cef-b5ff-74cd317a0309",
-      "name": "Christian Schlieker",
-      "title": "",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/christian_schlieker/",
-      "topics": ["Biochemistry", "Biophysics", "Cell Biology", "Congenital, Hereditary, and Neonatal Diseases and Abnormalities"]
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/a6a5ab94-3baf-468d-9a51-5c1f06da1c60",
-      "name": "Siyuan (Steven) Wang",
-      "title": "",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/siyuan_wang/",
-      "topics": ["Biophysics", "Biotechnology", "Cell Biology", "Genetics", "Inventions"]
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/963f07f6-0e56-427a-92c0-d44b7269158a",
-      "name": "Shaul Yogev",
-      "title": "",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/shaul_yogev/",
-      "topics": ["Axonal Transport", "Cell Biology", "Cytoskeleton", "Neurons", "Synapses", "Motor Neuron Disease"]
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/67ce93d8-9768-4a37-beb4-2539a5c10acf",
-      "name": "Carl Hashimoto",
-      "title": "Professor Emeritus of Cell Biology",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/carl_hashimoto/",
-      "topics": ["Cells", "Cell Biology", "Education, Medical", "Endocrine System Diseases", "Genetics", "Molecular Biology", "Tissues", "Developmental Biology", "Serpins", "Neurodegenerative Diseases", "Intercellular Signaling Peptides and Proteins", "Proteolysis"]
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/dc6a546a-dd72-4c33-94fd-4f5665ef9041",
-      "name": "Thomas Lentz",
-      "title": "Professor Emeritus of Cell Biology",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/thomas_lentz/",
-      "topics": []
-    },
-    {
-      "institution": "Yale",
-      "image": "https://ysm-res.cloudinary.com/image/upload/c_fill,f_auto,q_auto:best,w_650/v1/yms/prod/be9868c3-c132-4611-bc21-459319818bd1",
-      "name": "Sandra Wolin",
-      "title": "Professor Emeritus of Cell Biology",
-      "personal_website": "https://medicine.yale.edu/cellbio/profile/sandra_wolin/",
-      "topics": []
-    },
-    {
-      "name": "Ahmed, Shawn",
-      "website": "http://labs.bio.unc.edu/Ahmed/",
-      "email": "mailto:shawn@med.unc.edu",
-      "description": "Our research group utilizes the nematode C. elegans to investigate germ cell immortality: mechanisms that allow germ cells remain eternally youthful as they are transmitted from one generation to the next. We also study how telomerase functions at chromosome termini, as well as the consequences of telomere dysfunction.",
-      "discipline": ["Biology", "Genetics & Molecular Biology"],
-      "topics": ["Cancer Biology", "Developmental Biology", "Genetics", "Genomics", "Molecular Biology"]
-    },
-    {
-      "name": "Ainslie, Kristy M.",
-      "website": "http://ainslielab.web.unc.edu/",
-      "email": "mailto:ainsliek@email.unc.edu",
-      "description": "We have several areas of research interest broadly in the area of immunomodulation using micro/nanoparticles and other carrier systems. This can include development of traditional vaccines, therapeutic autoimmune vaccines and classic drug delivery platforms targeted to bacterial, viral or parasitic host cells. To this end, we also seek to develop new materials and platforms optimal for use in modulating immune responses as well as developing scalable production of micro/nanoparticles.",
-      "discipline": ["Microbiology & Immunology", "Pharmaceutical Sciences"],
-      "topics": ["Biomaterials", "Drug Delivery", "Immunology", "Nanomedicine"]
-    },
-    {
-      "name": "Amelio, Antonio L.",
-      "website": "https://www.ameliolab.org/",
-      "email": "mailto:Antonio_amelio@unc.edu",
-      "description": "Our laboratory is broadly interested in understanding the molecular mechanisms of transcriptional regulation by cell signaling pathways and the role of pathway cross-talk in cancer biology. In particular, the cAMP signaling cascade directs adaptive cellular responses to a variety of stress stimuli via a combination of acute affects arising from G",
-      "discipline": ["Cell Biology & Physiology", "Genetics & Molecular Biology", "Oral & Craniofacial Biomedicine", "Pharmacology"],
-      "topics": ["Cancer Biology", "Cell Biology", "Cell Signaling", "Genetics", "Genomics", "Virology"]
-    },
-    {
-      "name": "Anselmo, Aaron C.",
-      "website": "https://pharmacy.unc.edu/news/directory/aanselmo/",
-      "email": "mailto:aanselmo@email.unc.edu",
-      "description": "The human body coexists with communities of microbes and bacteria called microbiota, and the balance of these microbes regulates both health and disease. In some cases, imbalances in microbiota have been linked to diseases, such as cancer and diabetes. My group will develop approaches and formulations to deliver specific compounds and microbes to modulate microbiota composition towards healthy states. Other research interests include the development of cell-mediated delivery systems, synthetic cells and nanoparticle drug-delivery systems for applications in vascular disease and cancer.",
-      "discipline": ["Pharmaceutical Sciences"],
-      "topics": ["Biomaterials", "Drug Delivery", "Nanomedicine", "Translational Medicine"]
-    },
-    {
-      "name": "Anton, Eva",
-      "website": "http://antonlab.org/",
-      "email": "mailto:eva_anton@med.unc.edu",
-      "description": "Laminar organization of neurons in cerebral cortex is critical for normal brain function. Two distinct cellular events guarantee the emergence of laminar organization\u2013 coordinated sequence of neuronal migration, and generation of radial glial cells that supports neurogenesis and neuronal migration. Our goal is to understand the cellular and molecular mechanisms underlying neuronal migration and layer formation in the mammalian cerebral cortex. Towards this goal, we are studying the following three related questions: 1. What are the signals that regulate the establishment, development and differentiation of radial glial cells, a key substrate for neuronal migration and a source of new neurons in cerebral cortex?2. What are the signals for neuronal migration that determine how neurons reach their appropriate positions in the developing cerebral cortex?3. What are the specific cell-cell adhesion related mechanisms that determine how neurons migrate and coalesce into distinct layers in the developing cerebral cortex?",
-      "discipline": ["Cell Biology & Physiology", "Neuroscience"],
-      "topics": ["Cell Biology", "Developmental Biology", "Genetics", "Molecular Biology", "Neurobiology"]
-    },
-    {
-      "name": "Arthur, Janelle C.",
-      "website": "https://www.med.unc.edu/microimm/directory/janelle-arthur/",
-      "email": "mailto:janelle_arthur@med.unc.edu",
-      "description": "The Arthur lab is interested in mechanisms by which inflammation alters the functional capabilities of the microbiota, with the long-term goal of targeting resident microbes as a preventative and therapeutic strategy to lessen inflammation and reduce the risk of colorectal cancer. We utilize a unique and powerful ",
-      "discipline": ["Microbiology & Immunology"],
-      "topics": ["Cancer Biology", "Immunology", "Molecular Medicine", "Pathogenesis & Infection", "Translational Medicine"]
-    },
-    {
-      "name": "Aubé, Jeffrey",
-      "website": "https://pharmacy.unc.edu/news/directory/jaube/",
-      "email": "mailto:jaube@email.unc.edu",
-      "description": "Our lab develops new chemistry, and chemical agents as biological probes and drug discovery candidates. Current interests include the discovery of unconventional opioid agents, anti-tuberculosis drugs, and basic biochemistry of androgen biosynthesis inhibitors.",
-      "discipline": ["Chemistry", "Pharmaceutical Sciences"],
-      "topics": ["Drug Discovery", "Pharmacology", "Translational Medicine"]
-    },
-    {
-      "name": "Azcarate-Peril, M. Andrea",
-      "website": "https://www.med.unc.edu/microbiome/research/",
-      "email": "mailto:azcarate@med.unc.edu",
-      "description": "We are interested in determining the mechanisms involved in the beneficial modulation of the gut microbiota by prebiotics (functional foods that stimulate growth of gut native beneficial bacteria) and probiotics (live bacteria that benefit their host). Specifically, we aim to develop prebiotic and probiotic interventions as alternatives to traditional treatments for microbiota-health related conditions, and to advance microbiota-based health surveillance methods.",
-      "discipline": ["Microbiology & Immunology", "Nutrition"],
-      "topics": ["Bacteriology", "Bioinformatics", "Genomics", "Molecular Biology", "Systems Biology"]
-    },
-    {
-      "name": "Bahnson, Edward Moreira",
-      "website": "http://bahnsonlab.web.unc.edu/",
-      "email": "mailto:Edward_bahnson@med.unc.edu",
-      "description": "We are interested in studying diabetic vasculopathies. Patients with type 2 diabetes mellitus or metabolic syndrome have aggressive forms of vascular disease, possessing a greater likelihood of end-organ ischemia, as well as increased morbidity and mortality following vascular interventions. Our long term research aims to change the way we treat arterial disease in diabetes by:",
-      "discipline": ["Cell Biology & Physiology", "Pathobiology & Translational Science", "Pharmacology"],
-      "topics": ["Cardiovascular Biology", "Cell Biology", "Drug Delivery", "Nanomedicine", "Translational Medicine"]
-    },
-    {
-      "name": "Baker, Rick",
-      "website": "https://www.rickbakerlab.org",
-      "email": "mailto:baker@med.unc.edu",
-      "description": "Our lab is interested in the mechanisms of membrane trafficking in eukaryotic cells. Using a combination of biochemistry, in vitro reconstitution, and structural biology, we seek to understand how protein complexes assemble to bend and perturb membranes during vesicle budding (endocytosis) and vesicle fusion (exocytosis). Our group also specializes in cryo-electron microscopy (cryo-EM) and we use semi-native substrates (nanodiscs, liposomes) to visualize complexes engaged with the membrane.",
-      "discipline": ["Biochemistry & Biophysics"],
-      "topics": ["Biochemistry", "Biophysics", "Cancer Biology", "Molecular Biology", "Structural Biology"]
-    },
-    {
-      "name": "Baldwin, Albert S.",
-      "website": "http://baldwinlab.web.unc.edu/",
-      "email": "mailto:albert_baldwin@med.unc.edu",
-      "description": "Our laboratory studies an amazing regulatory factor known as NF-kappaB. This transcription factor controls key developmental and immunological functions and its dysregulation lies at the heart of virtually all major human diseases.",
-      "discipline": ["Cell Biology & Physiology", "Pathobiology & Translational Science"],
-      "topics": ["Cancer Biology", "Cell Biology", "Genetics", "Molecular Biology", "Molecular Medicine"]
-    },
-    {
-      "name": "Batrakova, Elena",
-      "website": "https://pharmacy.unc.edu/directory/batrakov/",
-      "email": "mailto:batrakov@email.unc.edu",
-      "description": "What if you can target and deliver a drug directly to the side of disease in the body? It is possible, when you use smart living creatures pro-inflammatory response cells, such as monocytes, T-lymphocytes or dendritic cells. You can load these cells with the drug and inject these carriers into the blood stream. They will migrate to the inflammation site (for example, across the blood brain barrier) and release the drug. Thus, you can reduce the inflammation and protect the cells (for example, neurons) in patients with Parkinson\u2019s and Alzheimer diseases.",
-      "discipline": ["Pharmaceutical Sciences"],
-      "topics": ["Drug Delivery", "Nanomedicine", "Neurobiology"]
-    },
-    {
-      "name": "Bautch, Victoria",
-      "website": "http://biology.unc.edu/people/faculty/bautch/",
-      "email": "mailto:bautch@med.unc.edu",
-      "description": "Blood vessel formation in cancer and development; use mouse culture (stem cell derived vessels) and in vivo models (embryos and tumors); genetic, cell and molecular biological tools; how do vessels assemble and pattern?, dynamic image analysis.",
-      "discipline": ["Biology", "Cell Biology & Physiology", "Genetics & Molecular Biology"],
-      "topics": ["Cancer Biology", "Cardiovascular Biology", "Cell Biology", "Developmental Biology", "Genetics"]
-    },
-    {
-      "name": "Bear, James E.",
-      "website": "https://www.med.unc.edu/cellbiophysio/directory/james-bear-phd/",
-      "email": "mailto:jbear@email.unc.edu",
-      "description": "Our lab uses a combination of genetics, high-resolution cellular and animal imaging, animal tumor models and microfluidic approaches to study the problems of cell motility and cytoskeletal organization. We are particularly interested in 1) How cells sense cues in their environment and respond with directed migration, 2) How the actin cytoskeleton is organized at the leading edge of migrating cells and 3) How these processes contribute to tumor metastasis.",
-      "discipline": ["Bioinformatics & Computational Biology", "Cell Biology & Physiology", "Pharmacology"],
-      "topics": ["Biochemistry", "Cancer Biology", "Cell Biology", "Cell Signaling", "Molecular Biology", "Systems Biology"]
-    },
-    {
-      "name": "Beck, Melinda A.",
-      "website": "http://sph.unc.edu/profiles/melinda-beck/",
-      "email": "mailto:melinda_beck@unc.edu",
-      "description": "My laboratory studies the relationship between host nutrition and the immune response to infectious disease. Using a mouse model of obesity, we are exploring the mechanism(s) for high mortality from influenza infection in obese mice compared with lean mice. We also have an ongoing clinical research study designed to understand the mechanism(s) involved that impair the influenza vaccine response in obese adults compared with healthy weight adults. We have also demonstrated that host deficiencies in antioxidant nutrients can lead to viral mutations resulting in an avirulent pathogen becoming virulent, suggesting that the host nutritional status can be a driving force for the evolution of viruses.",
-      "discipline": ["Nutrition"],
-      "topics": ["Immunology", "Pathogenesis & Infection", "Virology"]
-    },
-    {
-      "name": "Belger, Aysenil",
-      "website": "http://nirl.web.unc.edu/lab-members/",
-      "email": "mailto:aysenil_belger@med.unc.edu",
-      "description": "Dr. Belger\u2019s research focuses on studies of the cortical circuits underlying attention and executive function in the human brain, as well as the breakdown in these functions in neuropsychiatric and neurodevelopment disorders such as schizophrenia and autism. Her research also examines changes in cortical circuits and their physiological properties in individuals at high risk for psychotic disorders. Dr. Belger combines functional magnetic resonance imaging, electrophysiological scalp recording, experimental psychology and neuropsychological assessment techniques to explore the behavioral and neurophysiological dimensions of higher order executive functions. Her most recent research projects have begun focusing on electrophysiological abnormalities in young autistic children and individuals at high risk for schizophrenia.",
-      "discipline": ["Neuroscience"],
-      "topics": ["Behavior", "Bioinformatics", "Developmental Biology", "Neurobiology"]
-    },
-    {
-      "name": "Berg, Jonathan",
-      "website": "http://www.med.unc.edu/genetics/berglab",
-      "email": "mailto:jonathan_berg@med.unc.edu",
-      "description": "My research group is broadly interested in the application of sequencing technologies in medical genetics and genomics, using a combination of wet lab and computational approaches. As a clinician, I am actively involved in the care of patients with hereditary disorders, and the research questions that my group investigates have direct relevance to patient care. One project uses genome sequencing in families with likely hereditary cancer susceptibility in order to identify novel genes that may be involved in monogenic forms of cancer predisposition. Another major avenue of investigation examines the use of genome-scale sequencing in clinical medicine, ranging from diagnostic testing to newborn screening, to screening in healthy adults.",
-      "discipline": ["Genetics & Molecular Biology"],
-      "topics": ["Bioinformatics", "Cancer Biology", "Genetics", "Genomics", "Translational Medicine"]
-    },
-    {
-      "name": "Bergmeier, Wolfgang",
-      "website": "http://bergmeierlab.web.unc.edu/",
-      "email": "mailto:bergmeie@email.unc.edu",
-      "description": "Our research focuses on the adhesion mechanisms of platelets and neutrophils to sites of vascular injury/ activation. For successful adhesion, both cell types rely on activation-dependent receptors (integrins) expressed on the cell surface. We are particularly interested in the role of calcium (Ca2+) as a signaling molecule that regulates the inside-out activation of integrin receptors. Our studies combine molecular and biochemical approaches with microfluidics and state-of-the-art in vivo imaging (intravital microscopy) techniques.",
-      "discipline": ["Biochemistry & Biophysics", "Cell Biology & Physiology"],
-      "topics": ["Biochemistry", "Cardiovascular Biology", "Cell Biology", "Cell Signaling", "Translational Medicine"]
-    },
-    {
-      "name": "Besheer, Joyce",
-      "website": "http://www.med.unc.edu/alcohol/faculty-research/joyce-besheer-ph.d",
-      "email": "mailto:jbesheer@med.unc.edu",
-      "description": "Research in my lab examines the neurobiological mechanisms underlying alcoholism and addiction. At present studies are focused on the interaction between stress-related systems and sensitivity to alcohol, in order to better understand the mechanisms that underlie increased alcohol drinking during stressful episodes. We use an array of behavioral (e.g., operant self-administration, drug discrimination) and behavioral pharmacology techniques, including targeted brain regional drug injections, to functionally evaluate the role of specific molecular targets. In parallel to the behavioral studies, we use immunohistochemistry and Western blot techniques to examine alterations in the expression of various molecular targets following stress exposure. We are also applying these techniques to examine and integrate the study of depression that emerges following stress hormone exposure.",
-      "discipline": ["Neuroscience"],
-      "topics": ["Behavior", "Neurobiology", "Pharmacology"]
-    },
-    {
-      "name": "Bloom, Kerry",
-      "website": "http://www.bio.unc.edu/faculty/bloom/lab/",
-      "email": "mailto:Kerry_bloom@unc.edu",
-      "description": "Our objective is to understand the dynamic and structural properties of chromosomes during mitosis. We use live cell imaging techniques to address how kinetochores are assembled, capture microtubules and promote faithful segregation of chromosomes.",
-      "discipline": ["Biochemistry & Biophysics", "Bioinformatics & Computational Biology", "Biology", "Cell Biology & Physiology", "Genetics & Molecular Biology"],
-      "topics": ["Biophysics", "Cell Biology", "Genetics", "Molecular Biology"]
-    },
-    {
-      "name": "Boettiger, Charlotte",
-      "website": "http://cablab.web.unc.edu/",
-      "email": "mailto:cab@unc.edu",
-      "description": "My lab uses a cognitive neuroscience approach to understand the neurobiology of drug addiction in humans. The tools we use include fMRI, cognitive testing, physiological monitoring, pharmacology, and genetic testing. We specifically seek to determine 1) how the brain learns new stimulus-response associations and replaces learned associations, 2) the neurobiological mechanisms underlying the tendency to select immediate over delayed rewards, and 3) the neural bases of addiction-related attentional bias.",
-      "discipline": ["Neuroscience"],
-      "topics": ["Behavior", "Neurobiology", "Pharmacology", "Physiology", "Systems Biology"]
-    },
-    {
-      "name": "Bourret, Bob",
-      "website": "https://www.med.unc.edu/microimm/directory/robert-b-bourret/",
-      "email": "mailto:Bourret@med.unc.edu",
-      "description": "Our long-term goal is to define the molecular mechanisms of two-component regulatory systems, which are utilized for signal transduction by bacteria, archaea, eukaryotic microorganisms, and plants. Our current focus is to identify and understand the features that control the rates of several different types of protein phosphorylation and dephosphorylation reactions. The kinetics of phosphotransfer reactions can vary dramatically between different pathways and reflect the need to synchronize biological responses (e.g. behavior, development, physiology, virulence) to environmental stimuli. Member of the Molecular & Cellular Biophysics Training Program.",
-      "discipline": ["Microbiology & Immunology"],
-      "topics": ["Bacteriology", "Biochemistry", "Biophysics", "Genetics", "Structural Biology"]
-    },
-    {
-      "name": "Bowers, Albert A.",
-      "website": "http://pharmacy.unc.edu/Directory/abower2",
-      "email": "mailto:abower2@email.com",
-      "description": "Research in the Bowers lab focuses on investigation of structure activity relationships and mechanisms of action of natural product-derived small molecule therapeutics.  We employ a variety of methods to build and modify compounds of interest, including manipulation of natural product biosynthesis, chemical synthesis, and semi-synthesis.  One major area of research in the lab is the rationale engineering of biosynthetic pathways to make bacterial drug factories.  Compounds targeting transcriptional regulation of cancer as well as multi-drug resistant venereal infections are currently under investigation in the lab.",
-      "discipline": ["Pharmaceutical Sciences"],
-      "topics": ["Biochemistry", "Chemical Biology", "Drug Discovery", "Pharmacology", "Translational Medicine"]
-    },
-    {
-      "name": "Braunstein, Miriam",
-      "website": "http://www.med.unc.edu/microimm/braunsteinlab",
-      "email": "mailto:braunste@med.unc.edu",
-      "description": "Our research focuses on understanding the virulence mechanisms of Mycobacterium tuberculosis, the bacterium responsible for the disease tuberculosis.",
-      "discipline": ["Microbiology & Immunology"],
-      "topics": ["Bacteriology", "Genetics", "Immunology", "Pathogenesis & Infection", "Pathology"]
-    },
-    {
-      "name": "Brenman, Jay",
-      "website": "https://www.med.unc.edu/cellbiophysio/directory/jay-brenman-phd/",
-      "email": "mailto:brenman@med.unc.edu",
-      "description": "The Brenman lab studies how a universal energy and stress sensor, AMP-activated protein kinase (AMPK) regulates cellular function and signaling. AMPK is proposed to be a therapeutic target for Type 2 diabetes and Metabolic syndrome (obesity, insulin resistance, cardiovascular disease). In addition, AMPK can be activated by LKB1, a known human tumor suppressor. Thus AMPK signaling is not only relevant to diabetes but also cancer. We are interested in molecular genetic and biochemical approaches to understand how AMPK contributes to neurodegeneration, metabolism/cardiac disease and cancer.",
-      "discipline": ["Cell Biology & Physiology", "Neuroscience"],
-      "topics": ["Cell Biology", "Developmental Biology", "Genetics", "Molecular Biology", "Neurobiology"]
-    },
-    {
-      "name": "Brennwald, Patrick",
-      "website": "https://www.med.unc.edu/cellbiophysio/directory/patrick-brennwald-phd/",
-      "email": "mailto:pjbrennw@med.unc.edu",
-      "description": "We are interested in the mechanism by which eukaryotic cells are polarized and the role of vesicle transport plays in the determination and regulation of cell polarity and tumorigenesis.",
-      "discipline": ["Cell Biology & Physiology", "Genetics & Molecular Biology"],
-      "topics": ["Cancer Biology", "Cell Biology", "Genetics", "Molecular Biology", "Structural Biology"]
-    },
-    {
-      "name": "Bressan, Michael",
-      "website": "http://www.bressanlab.com/",
-      "email": "mailto:Michael_Bressan@med.unc.edu",
-      "description": "Oscillatory behaviors are seen at multiple scales throughout biology and fundamentally require both a biochemical process capable of sustained, repetitive, state transitions and a system to functionally interpret each state. Multicellular organ systems routinely utilize such biorhythmic electrochemicaloscillators to coordinate and order physiological processes. Or group\u2019s primary research interests are focused on: i) the developmental mechanisms that specify autonomous rhythmic signal generation, and ii) the cellular and biophysical processes that allow for effective downstream transmission of these signals. To address these topics we combine classical experimental embryological approaches with state-of-the-art live cell imaging to investigate the physiological development of the electrical system of the heart.",
-      "discipline": ["Cell Biology & Physiology"],
-      "topics": ["Cardiovascular Biology", "Cell Biology", "Cell Signaling", "Developmental Biology", "Physiology"]
-    },
-    {
-      "name": "Broaddus, Russell",
-      "website": "https://www.med.unc.edu/pathology/faculty-2/biosketch-of-dr-broaddus/",
-      "email": "mailto:rbroaddus@med.unc.edu",
-      "description": "My research lab focuses on the molecular pathogenesis of endometrial cancer, the most common gynecologic cancer in the Western world. Current projects include developing molecular diagnostics for predicting endometrial cancer histotype, stage, and recurrence; developing clinical and lab-based algorithms for the identification of patients with hereditary endometrial cancer (Lynch Syndrome); discovering novel molecular mediators of endometrial cancer invasion and metastasis; identifying signaling pathways important in the pathogenesis of endometrial cancer; and identifying molecular determinants of health disparities in endometrial cancer.",
-      "discipline": ["Pathobiology & Translational Science"],
-      "topics": ["Cancer Biology", "Cell Biology", "Molecular Medicine", "Pathology", "Translational Medicine"]
-    },
-    {
-      "name": "Brouwer, Kim",
-      "website": "https://pharmacy.unc.edu/directory/kbrouwer/",
-      "email": "mailto:kbrouwer@unc.edu",
-      "description": "Research in the Brouwer laboratory is focused on: (1) hepatic transport of xenobiotics, including mechanisms of uptake, translocation, and biliary excretion; (2) development/refinement of in vitro model systems to predict in vivo hepatobiliary disposition, drug interactions, and hepatotoxicity; (3) influence of disease (e.g., NASH, kidney disease) on hepatobiliary drug disposition; and (4) pharmacokinetics.",
-      "discipline": ["Toxicology"],
-      "topics": ["Pharmacology", "Physiology", "Toxicology", "Translational Medicine"]
-    },
-    {
-      "name": "Brown, Nicholas",
-      "website": "https://www.med.unc.edu/pharm/people/primaryfaculty/nicholas-brown/nicholas-g-brown",
-      "email": "mailto:nbrown1@med.unc.edu",
-      "description": "Our research group uses several biochemical and structural techniques (e.g. enzyme assays, X-ray crystallography, and cryo-EM) to understand how molecular machines drive the cell cycle. Dysregulation of these enzymes results in numerous cancer types.",
-      "discipline": ["Pharmacology"],
-      "topics": ["Biochemistry", "Biophysics", "Cancer Biology", "Pharmacology", "Structural Biology"]
-    },
-    {
-      "name": "Bryant, Kirsten",
-      "website": "https://proxy.qualtrics.com/proxy/?url=https%3A%2F%2Fwww.med.unc.edu%2Fpharm%2Fdirectory%2Fkirsten-bryant-phd%2F&token=lWPQDSPCJpAUpHWjxuSPogLuqI%2F1S183tlpbtJhj3jY%3D",
-      "email": "mailto:bryantkl@email.unc.edu",
-      "description": "The overall goal of our lab is to perform research that contributes to a better understanding of pancreatic cancer biology and leads to improved treatments for this disease. One major focus of our studies is the metabolic activity, autophagy, which is a self-degradation process whereby cells can orderly clear defective organelles and recycle macromolecules as a nutrient source. Current projects are focused on further advancing autophagy inhibition as an anti-RAS therapeutic approach, as well as delineating other metabolic consequences of RAF-MEK-ERK MAPK inhibition.",
-      "discipline": ["Pharmacology"],
-      "topics": ["Cancer Biology", "Cell Signaling", "Metabolism", "Pharmacology", "Translational Medicine"]
-    },
-    {
-      "name": "Bultman, Scott",
-      "website": "https://www.med.unc.edu/genetics/directory/scott-bultman-phd/",
-      "email": "mailto:Scott_Bultman@med.unc.edu",
-      "description": "Our lab is interested in the role of chromatin-modifying factors and epigenetics in mammalian development and disease. We are particularly interested in two major areas both of which make use of mouse models: (1) the role of BRG1 and SWI/SNF nucleosome-remodeling complexes in various aspects of hematopoiesis including regulation of globin gene expression and inflammation; (2) the role of dietary fiber and gut microflora on histone modifications, CpG methylation, and prevention of colorectal cancer.",
-      "discipline": ["Genetics & Molecular Biology"],
-      "topics": ["Bacteriology", "Cancer Biology", "Developmental Biology", "Genetics", "Genomics"]
-    },
-    {
-      "name": "Burch, Christina",
-      "website": "http://biology.unc.edu/people/faculty/burch/",
-      "email": "mailto:cburch@bio.unc.edu",
-      "description": "Experimental Evolution of Viruses. We use both computational and experimental approaches to understand how viruses adapt to their host environment. Our research attempts to determine how genome complexity constrains adaptation, and how virus ecology and genetics interact to determine whether a virus will shift to utilizing new host. In addition, we are trying to develop a framework for predicting which virus genes will contribute to adaptation in particular ecological scenarios such as frequent co-infection of hosts by multiple virus strains. For more information, and for advice on applying to graduate school at UNC, check out my lab website www.unc.edu/~cburch/lab.",
-      "discipline": ["Biology"],
-      "topics": ["Computational Biology", "Evolutionary Biology", "Genetics", "Genomics", "Virology"]
-    },
-    {
-      "name": "Burks, Wesley",
-      "website": "https://childrensresearch.unc.edu/research/researchers-at-cri/wesley-burks-md/",
-      "email": "mailto:wesley.burks@unc.edu",
-      "description": "The UNC Food Allergy Institute (UNCFAI) was established in 2012 to address the growing needs of children and adults with food allergy. Program investigators study the biologic basis of food allergy in the laboratory and in clinical research studies seeking to better understand the role of allergen-specific IgE and the mechanism of allergen immunotherapy. The Institute provides comprehensive, family-centered patient care for food allergy, food-related anaphylaxis, and other related disorders like atopic dermatitis and eosinophilic esophagitis.",
-      "discipline": ["Cell Biology & Physiology", "Microbiology & Immunology"],
-      "topics": ["Biochemistry", "Cell Signaling", "Drug Discovery", "Immunology", "Translational Medicine"]
-    },
-    {
-      "name": "Button, Brian",
-      "website": "https://proxy.qualtrics.com/proxy/?url=https%3A%2F%2Fwww.med.unc.edu%2Fbiochem%2Fdirectory%2Fbrian_button%2F&token=lbgi73iKL38IzFQ550X5DunafOY2yMUwkEZoYJZ58p4%3D",
-      "email": "mailto:bbutton@med.unc.edu",
-      "description": "The Button lab in the Department of Biochemistry and Biophysics is part of the Marsico Lung Institute. Our lab is actively involved in projects that are designed to define the pathogenesis of muco-obstructive pulmonary disorders and to identify therapies that could be used to improve the quality of life in persons afflicted by these diseases. In particular, our research works to understand the biochemical and biophysical properties of mucin biopolymers, which give airway mucus its characteristic gel-like properties, and how they are altered in diseases such as Asthma, COPD, and cystic fibrosis.",
-      "discipline": ["Biochemistry & Biophysics"],
-      "topics": ["Biochemistry", "Biomaterials", "Biophysics", "Cell Biology", "Cell Signaling", "Drug Delivery", "Drug Discovery", "Nanomedicine", "Pathology", "Physiology", "Systems Biology", "Translational Medicine"]
-    },
-    {
-      "name": "Cairns, Bruce A.",
-      "website": "https://www.med.unc.edu/microimm/directory/bruce-cairns/",
-      "email": "mailto:bruce_cairns@med.unc.edu",
-      "description": "The immune system of severely burned patients becomes extremely suppressed after injury. An overwhelming number of patients die from wound infection and sepsis. However, we are unable to graft these patients with skin from other donors as their immune system is still able to reject the graft efficiently. Our inability to cover the wound site leaves the patients further open to bacterial and fungal infections. Our laboratory investigates the translational immune mechanisms for these devastating consequences of burn within mouse models and burn patients. Focuses in the lab include 1) investigation of innate molecule control of both the innate and adaptive immune systems after burn injury, 2) Role of innate signaling to Damage Associated Molecular Patterns in Immune Dysfunction after burn / inhalational injury,focusing on mTOR-mediated Immunomodulation 3) Using NRF2/KEAP1-Targeted Therapy to Prevent Pneumonitis and Immune Dysfunction After Radiation or Combined Burn-Radiation Injury and 4) Investigating sex-specific disparities in Immune Dysfunction after trauma / transplantation. \u200b",
-      "discipline": ["Microbiology & Immunology", "Toxicology"],
-      "topics": ["Developmental Biology", "Immunology", "Molecular Biology", "Pathology", "Physiology"]
-    },
-    {
+  "data": [{
       "name": "Calabrese, J. Mauro",
       "website": "http://www.med.unc.edu/pharm/calabreselab",
       "email": "mailto:jmcalabr@med.unc.edu",
@@ -6798,476 +5140,476 @@
       "topics": ["Genetics", " Neurobiology          "]
     },
     {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/abreu.jpg",
-  "name": "Eladio Abreu",
-  "title": "Lecturer",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=410",
-  "email": "eladio.b.abreu@emory.edu",
-  "description": "My research has focused on understanding the consequences of epigenetic silencing on primary ciliogenesis. I am currently shifting my research interests toward pedagogy. More specifically, I\u00bfm interested in the application of active learning in science education. My aim is to teach scientific concepts in an engaging manner that captivates my students. I design my lectures in a way that encourages students to ponder these concepts outside of my classroom.",
-  "office": "Rollins 2013",
-  "phone": "404-727-7948"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/antia.jpg",
-  "name": "Rustom Antia",
-  "title": "Samuel C. Dobbs Professor",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=17",
-  "email": "rustom.antia@emory.edu",
-  "description": "I am interested in developing a quantitative understanding of the dynamics of pathogens and immune responses.",
-  "office": "Rollins 1107",
-  "phone": "404-727-1015"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/arbilly.jpg",
-  "name": "Michal Arbilly",
-  "title": "Lecturer",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=429",
-  "email": "michal.arbilly@emory.edu",
-  "description": "I am a behavioral ecologist, and I use theoretical models to try and understand how cognition and behavior evolve. I'm especially interested in how group-living shapes learning and decision-making processes.",
-  "office": "Rollins 2127",
-  "phone": "404-727-0815"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/beck.jpg",
-  "name": "Chris Beck",
-  "title": "Professor of Pedagogy",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=19",
-  "email": "christopher.beck@emory.edu",
-  "description": "I am working on improving inquiry-based learning in laboratory classes by developing the bean beetle as a new model system for teaching.",
-  "office": "Rollins 1105",
-  "phone": "404-712-9012"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/berman.jpg",
-  "name": "Gordon Berman",
-  "title": "Assistant Professor",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=423",
-  "email": "gordon.berman@emory.edu",
-  "description": "Our lab attempts to reveal new insights into animal behavior through developing novel theoretical and computational techniques.  We have a particular emphasis on data-driven approaches, pursuing quantitative understanding into entire repertoires of behaviors and aiming to make connections to the genetics, neurobiology, and evolutionary histories that underlie them.",
-  "office": "Rollins 2107",
-  "phone": "404-727-0071"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/cafferty.jpg",
-  "name": "Patrick Cafferty",
-  "title": "Senior Lecturer",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=345",
-  "email": "patrick.w.cafferty@emory.edu",
-  "description": "The ultimate goal for my classes is to make learning biology interesting, engaging, and fun.  Over the years, I have worked with excellent athletic coaches who provided assistance, encouragement, and helped to plan my training.  I approach classroom teaching with the qualities of these coaches in mind as I aim to guide my students through problems using active learning methods.",
-  "office": "Rollins 2011",
-  "phone": "404-727-7587"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/calabrese.jpg",
-  "name": "Ronald Calabrese, Senior Associate Dean for Research",
-  "title": "Samuel C. Dobbs Professor",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=20",
-  "email": "ronald.calabrese@emory.edu",
-  "description": "We are interested in how rhythmic motor patterns are generated and modulated by the central nervous system. We study the heartbeat network of medicinal leeches as a model because the interneurons and motor neurons that control the hearts have been identified and are experimentally accessible for electrophysiological analyses, and the quantitative data generated lends itself to computational modeling and hybrid-systems analyses.",
-  "office": "Rollins 2113",
-  "phone": "404-727-0319"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/campbell.jpg",
-  "name": "Kathleen Campbell",
-  "title": "Senior Lecturer",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=21",
-  "email": "kathleen.campbell@emory.edu",
-  "description": "My teaching responsibilities run from a freshman seminar course on DNA and forensics, to the introductory biology series, and upper division microbiology lectures and labs.  The focus is introducing concepts, giving real life examples, and understanding how all of these pieces of the puzzle fit together and make up the exciting field of biology.",
-  "office": "Rollins 1025",
-  "phone": "404-727-2937"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/civitello.jpg",
-  "name": "Dave Civitello",
-  "title": "Assistant Professor",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=459",
-  "email": "david.james.civitello@emory.edu",
-  "description": "Why do epidemics grow large in some places but not others? Our current research aims to build new theory for disease outbreaks that can explain parasite transmission and reproduction in heterogeneous populations and dynamic environments. We combine field surveys, experiments, and mathematical modeling to improve predictions and control of disease outbreaks that are relevant for biodiversity conservation and human health.",
-  "office": "Rollins 1011",
-  "phone": "404-727-3336"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/cole.jpg",
-  "name": "Megan Cole",
-  "title": "Senior Lecturer",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=363",
-  "email": "megan.f.cole@emory.edu",
-  "description": "I strive to engage intro bio students in real research experiences where, with some guidance, they can design and implement their own lab experiments. I hope this early exposure to the true nature of scientific research, with all its complexity and confusion, instills a deeper appreciation for the excitement and creativity inherent to the study of biological systems.",
-  "office": "1462 Bldg. Room 104",
-  "phone": "404-727-4210"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/corbett.jpg",
-  "name": "Anita Corbett",
-  "title": "Professor",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=444",
-  "email": "acorbe2@emory.edu",
-  "description": "Research in our laboratory primarily focuses on determining the function of evolutionarily-conserved RNA binding proteins. These RNA binding proteins play critical roles at many steps in gene expression. Interestingly, mutations in genes that encode ubiquitously expressed RNA binding proteins often lead to tissue-specific diseases.",
-  "office": "Rollins 1021",
-  "phone": "404-727-4546"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/crouse.jpg",
-  "name": "Gray Crouse, Emeritus",
-  "title": "Professor",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=23",
-  "email": "gcrouse@emory.edu",
-  "description": "We study processes that cause DNA damage and mutation in the cell, and processes that repair the damage before it can cause mutations.  Our particular interest is in oxidative damage and we use that most perfect of model organisms, yeast.",
-  "office": "Rollins 1009",
-  "phone": "404-727-4236"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/deroode.jpg",
-  "name": "Jaap De Roode",
-  "title": "Professor",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=24",
-  "email": "jacobus.deroode@emory.edu",
-  "description": "We study the evolution of parasites and their hosts. One of our main questions is how environmental conditions can select for more or less harmful parasites.",
-  "office": "Rollins 1113",
-  "phone": "404-727-2340"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/deal.jpg",
-  "name": "Roger Deal",
-  "title": "Associate Professor",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=339",
-  "email": "roger.deal@emory.edu",
-  "description": "Our research is driven by a desire to understand the fundamental mechanisms of chromatin-based gene regulation. We strive to elucidate how these mechanisms are used to shape the gene expression profiles of individual cell types during cell differentiation and organ formation.",
-  "office": "Rollins 2017",
-  "phone": "404-727-8087"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/eisen.jpg",
-  "name": "Arri Eisen",
-  "title": "Professor of Pedagogy",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=25",
-  "email": "arri.eisen@emory.edu",
-  "description": "I am especially interested in letting students, majors and non, experience the many amazing aspects of biology beyond the purely pre-med perspective.",
-  "office": "Rollins 1001C",
-  "phone": "404-727-8724"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/escobar.jpg",
-  "name": "Alexander Escobar",
-  "title": "Senior Lecturer",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=26",
-  "email": "alexander.escobar@emory.edu",
-  "description": "Life is dynamic. I try to bring the cell to life using the many animations and 3-D models available today so students can experience this for themselves.",
-  "office": "Rollins 1103",
-  "phone": "404-727-7525"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/fritz.jpg",
-  "name": "Andreas Fritz",
-  "title": "Associate Professor",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=28",
-  "email": "andreas.fritz@emory.edu",
-  "description": "The highly reproducible development of complex organisms from a single cell is one of the most amazing biological processes.  We use the zebrafish model system to investigate the genetic and molecular requirements underlying embryonic patterning and development.",
-  "office": "Rollins 1119",
-  "phone": "404-727-9012"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/gerardo.jpg",
-  "name": "Nicole Gerardo",
-  "title": "Professor",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=29",
-  "email": "nicole.gerardo@emory.edu",
-  "description": "Our lab is interested in how host and microbial traits shape the evolution of both beneficial and harmful associations. We are particularly interested in how host immune responses differ upon introduction of beneficial versus harmful microbes, and how\nthe presence of protective microbes alters host investment in immunity. We utilize insect microbe associations amenable to experimental manipulation.",
-  "office": "Rollins 1111",
-  "phone": "404-727-0394"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/hickman.jpg",
-  "name": "Meleah Hickman",
-  "title": "Assistant Professor",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=407",
-  "email": "meleah.hickman@emory.edu",
-  "description": "The Hickman lab investigates the strategies yeast species employ to generate genetic and phenotypic variation that facilitate environmental adaptation. We primarily focus on the genomic plasticity of Candida albicans, the leading fungal pathogen of humans and its ability to rapidly acquire resistance to antifungal drugs.",
-  "office": "Rollins 1027",
-  "phone": "404-727-6491"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/jaeger.jpg",
-  "name": "Dieter Jaeger",
-  "title": "Professor",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=30",
-  "email": "djaeger@emory.edu",
-  "description": "We study detailed realistic single cell models in conjunction with slice and in vivo electrophysiology to examine computational properties of cerebellar and basal ganglia networks.",
-  "office": "Rollins 2129",
-  "phone": "404-727-8139"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/jones.jpg",
-  "name": "George H. Jones, Emeritus",
-  "title": "Goodrich C. White Professor",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=31",
-  "email": "george.h.jones@emory.edu",
-  "description": "We are interested in the biochemistry and evolution of RNA degradation pathways in bacteria and the relationship of RNA degradation to antibiotic biosynthesis in Streptomyces . We are particulary interested in RNA polyadenylation in various bacterial species and in the role of double strand specific endoribonucleases in regulating antibiotic production. We utilize biochemical, genetic, and bioinformatic approaches to study these systems.",
-  "office": "Rollins 2001",
-  "phone": "404-727-0712"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/kelly.jpg",
-  "name": "William Kelly",
-  "title": "Professor",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=32",
-  "email": "william.kelly@emory.edu",
-  "description": "We study highly conserved and presumably ancient mechanisms that operate in the germ line to protect and maintain the integrity of the genome across generations. We have identified several of these mechanisms and study them using the nematode C. elegans as a model system.",
-  "office": "Rollins 2029",
-  "phone": "404-727-6461"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/koelle.jpg",
-  "name": "Katia Koelle",
-  "title": "Associate Professor",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=471",
-  "email": "katia.koelle@emory.edu",
-  "description": "We study the ecological, evolutionary, and within-host dynamics of RNA viruses. Our focus is on viruses affecting humans, particularly influenza and dengue viruses.",
-  "office": "Rollins 1015",
-  "phone": ""
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/lhernault.jpg",
-  "name": "Steven L'Hernault, Chairman",
-  "title": "Professor",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=163",
-  "email": "bioslh@emory.edu",
-  "description": "We study how the vesicular trafficking pathway in developing sperm alters the cell surface to allow it to interact with the egg surface.  Our studies are done in the nematode Caenorhabditis elegans using genetic, molecular and biochemical techniques.",
-  "office": "Rollins 2001C",
-  "phone": "404-727-4234"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/levin.jpg",
-  "name": "Bruce Levin",
-  "title": "Samuel C. Dobbs Professor",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=34",
-  "email": "blevin@emory.edu",
-  "description": "We do theoretical and empirical studies of the population biology and evolution of bacteria and their accessory genetic elements and the population dynamics, evolution, and control of infectious disease.",
-  "office": "Rollins 1109",
-  "phone": "404-727-2826"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/liu.jpg",
-  "name": "Robert Liu",
-  "title": "Professor",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=35",
-  "email": "robert.liu@emory.edu",
-  "description": "",
-  "office": "Rollins 2131",
-  "phone": "404-727-5274"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/luchessi.jpg",
-  "name": "John Lucchesi, Emeritus",
-  "title": "Asa G. Candler Professor",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=36",
-  "email": "jclucch@emory.edu",
-  "description": "Chromatin is the complex of DNA and protein that makes up chromosomes. We study the chemical and structural changes that occur in chromatin in order to initiate and maintain gene expression.",
-  "office": "Rollins 1011",
-  "phone": "404-291-9924"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/lynn.jpg",
-  "name": "David Lynn",
-  "title": "Professor",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=37",
-  "email": "dlynn2@emory.edu",
-  "description": "My research interests include chemical biology, self-assembly, and signal transduction in cellular development and pathogenesis, conformation and molecular evolution, nanostructural synthesis and self-assembly, molecular skeletons for storing and reading information, and the origins of life.",
-  "office": "Emerson Hall E409",
-  "phone": "404-727-9348"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/marsteller.jpg",
-  "name": "Pat Marsteller",
-  "title": "Professor of Practice",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=361",
-  "email": "pmars@emory.edu",
-  "description": "I am currently a Professor of Practice in Biology and a half time Associate Dean.  I love teaching at all levels. With my dean hat, I help faculty find funding for undergraduate research and help faculty with curriculum grants.",
-  "office": "Rollins 1101",
-  "phone": "404-727-9696"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/morran.jpg",
-  "name": "Levi Morran",
-  "title": "Assistant Professor",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=381",
-  "email": "levi.morran@emory.edu",
-  "description": "We study sex and coevolution. We want to know why sex is so common in nature and how interactions between species alter the course of evolution.",
-  "office": "Rollins 1029",
-  "phone": "404-727-7092"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/murugan.jpg",
-  "name": "Malavika Murugan",
-  "title": "Assistant Professor",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=526",
-  "email": "malavika.murugan@gmail.com",
-  "description": "Social behavior is arguably one of the most essential sets of behaviors of all mammals (including humans). In our lab we are interested in understanding how the brain represents social sensory information and how this information is transformed to enable appropriate social interactions. By incorporating a wide range of techniques- cellular resolution imaging, electrophysiology, optogenetics, advanced analytical methods, and novel rodent behavioral paradigms - we aim to provide a comprehensive and mechanistic understanding of neural circuits underlying social behaviors.",
-  "office": "Rollins 2101",
-  "phone": ""
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/nemenman.jpg",
-  "name": "Ilya Nemenman",
-  "title": "Professor",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=283",
-  "email": "ilya.nemenman@emory.edu",
-  "description": "My group is applying methods of theoretical physics and information theory to understand how biological systems, such as molecular circuits, entire cellular networks, single neurons, whole brains, and entire populations learn from their surrounding environment and respond to it.",
-  "office": "Math & Science Center N240",
-  "phone": "404-727-9286"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/otoole.jpg",
-  "name": "Kate O'Toole",
-  "title": "Lecturer",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=408",
-  "email": "kate.k.otoole@emory.edu",
-  "description": "The biological world is amazing and learning about it should be interesting, and fun, and accessible to everyone. As an undergraduate biology lecturer, I strive to establish a student-centered learning environment in order to reach people with different learning preferences and different kinds of minds.",
-  "office": "Rollins 2009",
-  "phone": "404-727-7679"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/orloff.jpg",
-  "name": "Gregg Orloff, Emeritus",
-  "title": "Senior Lecturer",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=7",
-  "email": "gregg.orloff@emory.edu",
-  "description": "I teach Biology 141, 143, 350 and 415. My interests outside of the classroom include cancer education using my website, CancerQuest (www.cancerquest.org).",
-  "office": "gregg.orloff@emory.edu",
-  "phone": ""
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/prinz.jpg",
-  "name": "Astrid Prinz",
-  "title": "Associate Professor",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=39",
-  "email": "astrid.prinz@emory.edu",
-  "description": "We combine experimental and computational methods to study pattern generation, synchronization, and homeostasis in small neuronal networks. Our work relies on the collaboration of researchers from diverse backgrounds, including biologists, neuroscientists, physicists, engineers, computer scientists, and mathematicians.",
-  "office": "Rollins 2105",
-  "phone": "404-727-5191"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/real.jpg",
-  "name": "Leslie Real, Emeritus",
-  "title": "Asa G. Candler Professor",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=40",
-  "email": "lreal@emory.edu",
-  "description": "Interaction of genetic structure of populations and the ecological dynamics of infectious diseases; molecular evolution in rabies viruses.",
-  "office": "Rollins 1001A",
-  "phone": "404-727-4099"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/rieder.jpg",
-  "name": "Leila Rieder",
-  "title": "Assistant Professor",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=500",
-  "email": "leila.rieder@emory.edu",
-  "description": "Multiple meters of DNA are packaged into the nucleus of each cell, requiring highly interactive levels of organization. Our research focuses on how elegant genome organization, with emphasis on nuclear domains, leads to efficient and precise gene regulation.",
-  "office": "Coming to Emory Spring 2019",
-  "phone": ""
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/shepherd.jpg",
-  "name": "Iain Shepherd",
-  "title": "Associate Professor",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=42",
-  "email": "iain.shepherd@emory.edu",
-  "description": "My lab studies the genetic basis of the development of the enteric nervous system (ENS) - the nervous system of the intestine. We use genetic, cell biological, and embryological experimental techniques in our studies. These studies are clinically important. Hirschsprung's disease is a pediatric ENS condition that affects 1 in 5000 live births, the cause of which is only partly understood.",
-  "office": "Rollins 1131",
-  "phone": "404-727-2632"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/siegler.jpg",
-  "name": "Melody Siegler, Emeritus",
-  "title": "Associate Professor",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=43",
-  "email": "msiegle@emory.edu",
-  "description": "Our research concerns the developmental events that give rise to the mature nervous system, specifically the interplay of lineage and extrinsic influences in the formation of neural circuits.",
-  "office": "msiegle@emory.edu",
-  "phone": ""
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/sober.jpg",
-  "name": "Sam Sober",
-  "title": "Associate Professor",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=302",
-  "email": "samuel.j.sober@emory.edu",
-  "description": "Work in my lab uses the songbird vocal control system to investigate how the brain controls vocal behavior and learns from experience.",
-  "office": "Rollins 2103",
-  "phone": "404-727-5846"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/spell.jpg",
-  "name": "Rachelle Spell",
-  "title": "Professor of Pedagogy",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=44",
-  "email": "rachelle.spell@emory.edu",
-  "description": "I help students learn; I help teachers teach. I strive to both help my students develop as\nscientists and support faculty develop as educators.  My work on faculty and curriculum development has launched a research emphasis on how institutional factors can affect teaching practices.",
-  "office": "Rollins 2015",
-  "phone": "404-727-5828"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/starnes.jpg",
-  "name": "Amanda Starnes",
-  "title": "Senior Lecturer",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=45",
-  "email": "amanda.starnes@emory.edu",
-  "description": "Maintaining student interest (in \"Comparative Vertebrate Anatomy\" and \"The Biology of Parasites\") is a principle teaching goal. Using an organismal approach, students are encouraged to offer answers to class questions and their knowledge is further enhanced through student-led presentations.",
-  "office": "Rollins 2125",
-  "phone": "404-727-6932"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/stokes.jpg",
-  "name": "Darrell Stokes, Emeritus",
-  "title": "Professor",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=46",
-  "email": "darrell.stokes@emory.edu",
-  "description": "My laboratory has focused on structural, biochemical, and biophysical studies of insect and crustacean muscles.",
-  "office": "Rollins 2127",
-  "phone": "404-727-4213"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/vega.jpg",
-  "name": "Nic Vega",
-  "title": "Assistant Professor",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=470",
-  "email": "nicole.marie.vega@emory.edu",
-  "description": "Our lab is interested in microbial ecology in the host environment, and we use a combination of experiments and modeling to understand these complex systems. We are particularly interested in understanding the assembly and evolution of commensal microbial communities and in determining the factors that make host-associated communities resilient to stress, including antibiotic perturbation and invasion by pathogens. To this end, we use the nematode worm C. elegans as a tractable experimental system for microbial community assembly.",
-  "office": "Rollins 2019",
-  "phone": ""
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/weissman.jpg",
-  "name": "Daniel Weissman",
-  "title": "Assistant Professor",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=468",
-  "email": "dbweissman@gmail.com",
-  "description": "We want to have a theory of evolution that will predict how populations will evolve from a reasonable set of measurements. Towards this goal, we work on how populations explore the fitness landscape, and how evolutionary dynamics can be inferred from sequencing data from natural and experimental populations.",
-  "office": "Math & Science Center N244",
-  "phone": "404-727-4296"
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/yedvobnick.jpg",
-  "name": "Barry Yedvobnick, Emeritus",
-  "title": "Professor",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=48",
-  "email": "barry.yedvobnick@emory.edu",
-  "description": "Notch is a major signaling pathway within metazoa that has been implicated in an array of developmental and disease mechanisms.  Using genetic and molecular methods, our lab has been screening for novel loci that contribute to Notch signaling.",
-  "office": "barry.yedvobnick@emory.edu",
-  "phone": ""
-}, {
-  "institution": "Emory",
-  "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/yokoyama.jpg",
-  "name": "Shozo Yokoyama, Emeritus",
-  "title": "Asa G. Candler Professor",
-  "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=49",
-  "email": "shozo.yokoyama@emory.edu",
-  "description": "We study the molecular genetics and adaptive evolution of color and dim-light vision in various vertebrate species.  To elucidate the molecular mechanisms of these adaptive events, we use methods of molecular/cell biology, protein modeling, quantum chemistry, psychophysics, and molecular evolution.",
-  "office": "shozo.yokoyama@emory.edu",
-  "phone": ""
-},
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/abreu.jpg",
+      "name": "Eladio Abreu",
+      "title": "Lecturer",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=410",
+      "email": "eladio.b.abreu@emory.edu",
+      "description": "My research has focused on understanding the consequences of epigenetic silencing on primary ciliogenesis. I am currently shifting my research interests toward pedagogy. More specifically, I\u00bfm interested in the application of active learning in science education. My aim is to teach scientific concepts in an engaging manner that captivates my students. I design my lectures in a way that encourages students to ponder these concepts outside of my classroom.",
+      "office": "Rollins 2013",
+      "phone": "404-727-7948"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/antia.jpg",
+      "name": "Rustom Antia",
+      "title": "Samuel C. Dobbs Professor",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=17",
+      "email": "rustom.antia@emory.edu",
+      "description": "I am interested in developing a quantitative understanding of the dynamics of pathogens and immune responses.",
+      "office": "Rollins 1107",
+      "phone": "404-727-1015"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/arbilly.jpg",
+      "name": "Michal Arbilly",
+      "title": "Lecturer",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=429",
+      "email": "michal.arbilly@emory.edu",
+      "description": "I am a behavioral ecologist, and I use theoretical models to try and understand how cognition and behavior evolve. I'm especially interested in how group-living shapes learning and decision-making processes.",
+      "office": "Rollins 2127",
+      "phone": "404-727-0815"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/beck.jpg",
+      "name": "Chris Beck",
+      "title": "Professor of Pedagogy",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=19",
+      "email": "christopher.beck@emory.edu",
+      "description": "I am working on improving inquiry-based learning in laboratory classes by developing the bean beetle as a new model system for teaching.",
+      "office": "Rollins 1105",
+      "phone": "404-712-9012"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/berman.jpg",
+      "name": "Gordon Berman",
+      "title": "Assistant Professor",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=423",
+      "email": "gordon.berman@emory.edu",
+      "description": "Our lab attempts to reveal new insights into animal behavior through developing novel theoretical and computational techniques.  We have a particular emphasis on data-driven approaches, pursuing quantitative understanding into entire repertoires of behaviors and aiming to make connections to the genetics, neurobiology, and evolutionary histories that underlie them.",
+      "office": "Rollins 2107",
+      "phone": "404-727-0071"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/cafferty.jpg",
+      "name": "Patrick Cafferty",
+      "title": "Senior Lecturer",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=345",
+      "email": "patrick.w.cafferty@emory.edu",
+      "description": "The ultimate goal for my classes is to make learning biology interesting, engaging, and fun.  Over the years, I have worked with excellent athletic coaches who provided assistance, encouragement, and helped to plan my training.  I approach classroom teaching with the qualities of these coaches in mind as I aim to guide my students through problems using active learning methods.",
+      "office": "Rollins 2011",
+      "phone": "404-727-7587"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/calabrese.jpg",
+      "name": "Ronald Calabrese, Senior Associate Dean for Research",
+      "title": "Samuel C. Dobbs Professor",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=20",
+      "email": "ronald.calabrese@emory.edu",
+      "description": "We are interested in how rhythmic motor patterns are generated and modulated by the central nervous system. We study the heartbeat network of medicinal leeches as a model because the interneurons and motor neurons that control the hearts have been identified and are experimentally accessible for electrophysiological analyses, and the quantitative data generated lends itself to computational modeling and hybrid-systems analyses.",
+      "office": "Rollins 2113",
+      "phone": "404-727-0319"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/campbell.jpg",
+      "name": "Kathleen Campbell",
+      "title": "Senior Lecturer",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=21",
+      "email": "kathleen.campbell@emory.edu",
+      "description": "My teaching responsibilities run from a freshman seminar course on DNA and forensics, to the introductory biology series, and upper division microbiology lectures and labs.  The focus is introducing concepts, giving real life examples, and understanding how all of these pieces of the puzzle fit together and make up the exciting field of biology.",
+      "office": "Rollins 1025",
+      "phone": "404-727-2937"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/civitello.jpg",
+      "name": "Dave Civitello",
+      "title": "Assistant Professor",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=459",
+      "email": "david.james.civitello@emory.edu",
+      "description": "Why do epidemics grow large in some places but not others? Our current research aims to build new theory for disease outbreaks that can explain parasite transmission and reproduction in heterogeneous populations and dynamic environments. We combine field surveys, experiments, and mathematical modeling to improve predictions and control of disease outbreaks that are relevant for biodiversity conservation and human health.",
+      "office": "Rollins 1011",
+      "phone": "404-727-3336"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/cole.jpg",
+      "name": "Megan Cole",
+      "title": "Senior Lecturer",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=363",
+      "email": "megan.f.cole@emory.edu",
+      "description": "I strive to engage intro bio students in real research experiences where, with some guidance, they can design and implement their own lab experiments. I hope this early exposure to the true nature of scientific research, with all its complexity and confusion, instills a deeper appreciation for the excitement and creativity inherent to the study of biological systems.",
+      "office": "1462 Bldg. Room 104",
+      "phone": "404-727-4210"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/corbett.jpg",
+      "name": "Anita Corbett",
+      "title": "Professor",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=444",
+      "email": "acorbe2@emory.edu",
+      "description": "Research in our laboratory primarily focuses on determining the function of evolutionarily-conserved RNA binding proteins. These RNA binding proteins play critical roles at many steps in gene expression. Interestingly, mutations in genes that encode ubiquitously expressed RNA binding proteins often lead to tissue-specific diseases.",
+      "office": "Rollins 1021",
+      "phone": "404-727-4546"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/crouse.jpg",
+      "name": "Gray Crouse, Emeritus",
+      "title": "Professor",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=23",
+      "email": "gcrouse@emory.edu",
+      "description": "We study processes that cause DNA damage and mutation in the cell, and processes that repair the damage before it can cause mutations.  Our particular interest is in oxidative damage and we use that most perfect of model organisms, yeast.",
+      "office": "Rollins 1009",
+      "phone": "404-727-4236"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/deroode.jpg",
+      "name": "Jaap De Roode",
+      "title": "Professor",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=24",
+      "email": "jacobus.deroode@emory.edu",
+      "description": "We study the evolution of parasites and their hosts. One of our main questions is how environmental conditions can select for more or less harmful parasites.",
+      "office": "Rollins 1113",
+      "phone": "404-727-2340"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/deal.jpg",
+      "name": "Roger Deal",
+      "title": "Associate Professor",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=339",
+      "email": "roger.deal@emory.edu",
+      "description": "Our research is driven by a desire to understand the fundamental mechanisms of chromatin-based gene regulation. We strive to elucidate how these mechanisms are used to shape the gene expression profiles of individual cell types during cell differentiation and organ formation.",
+      "office": "Rollins 2017",
+      "phone": "404-727-8087"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/eisen.jpg",
+      "name": "Arri Eisen",
+      "title": "Professor of Pedagogy",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=25",
+      "email": "arri.eisen@emory.edu",
+      "description": "I am especially interested in letting students, majors and non, experience the many amazing aspects of biology beyond the purely pre-med perspective.",
+      "office": "Rollins 1001C",
+      "phone": "404-727-8724"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/escobar.jpg",
+      "name": "Alexander Escobar",
+      "title": "Senior Lecturer",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=26",
+      "email": "alexander.escobar@emory.edu",
+      "description": "Life is dynamic. I try to bring the cell to life using the many animations and 3-D models available today so students can experience this for themselves.",
+      "office": "Rollins 1103",
+      "phone": "404-727-7525"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/fritz.jpg",
+      "name": "Andreas Fritz",
+      "title": "Associate Professor",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=28",
+      "email": "andreas.fritz@emory.edu",
+      "description": "The highly reproducible development of complex organisms from a single cell is one of the most amazing biological processes.  We use the zebrafish model system to investigate the genetic and molecular requirements underlying embryonic patterning and development.",
+      "office": "Rollins 1119",
+      "phone": "404-727-9012"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/gerardo.jpg",
+      "name": "Nicole Gerardo",
+      "title": "Professor",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=29",
+      "email": "nicole.gerardo@emory.edu",
+      "description": "Our lab is interested in how host and microbial traits shape the evolution of both beneficial and harmful associations. We are particularly interested in how host immune responses differ upon introduction of beneficial versus harmful microbes, and how\nthe presence of protective microbes alters host investment in immunity. We utilize insect microbe associations amenable to experimental manipulation.",
+      "office": "Rollins 1111",
+      "phone": "404-727-0394"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/hickman.jpg",
+      "name": "Meleah Hickman",
+      "title": "Assistant Professor",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=407",
+      "email": "meleah.hickman@emory.edu",
+      "description": "The Hickman lab investigates the strategies yeast species employ to generate genetic and phenotypic variation that facilitate environmental adaptation. We primarily focus on the genomic plasticity of Candida albicans, the leading fungal pathogen of humans and its ability to rapidly acquire resistance to antifungal drugs.",
+      "office": "Rollins 1027",
+      "phone": "404-727-6491"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/jaeger.jpg",
+      "name": "Dieter Jaeger",
+      "title": "Professor",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=30",
+      "email": "djaeger@emory.edu",
+      "description": "We study detailed realistic single cell models in conjunction with slice and in vivo electrophysiology to examine computational properties of cerebellar and basal ganglia networks.",
+      "office": "Rollins 2129",
+      "phone": "404-727-8139"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/jones.jpg",
+      "name": "George H. Jones, Emeritus",
+      "title": "Goodrich C. White Professor",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=31",
+      "email": "george.h.jones@emory.edu",
+      "description": "We are interested in the biochemistry and evolution of RNA degradation pathways in bacteria and the relationship of RNA degradation to antibiotic biosynthesis in Streptomyces . We are particulary interested in RNA polyadenylation in various bacterial species and in the role of double strand specific endoribonucleases in regulating antibiotic production. We utilize biochemical, genetic, and bioinformatic approaches to study these systems.",
+      "office": "Rollins 2001",
+      "phone": "404-727-0712"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/kelly.jpg",
+      "name": "William Kelly",
+      "title": "Professor",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=32",
+      "email": "william.kelly@emory.edu",
+      "description": "We study highly conserved and presumably ancient mechanisms that operate in the germ line to protect and maintain the integrity of the genome across generations. We have identified several of these mechanisms and study them using the nematode C. elegans as a model system.",
+      "office": "Rollins 2029",
+      "phone": "404-727-6461"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/koelle.jpg",
+      "name": "Katia Koelle",
+      "title": "Associate Professor",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=471",
+      "email": "katia.koelle@emory.edu",
+      "description": "We study the ecological, evolutionary, and within-host dynamics of RNA viruses. Our focus is on viruses affecting humans, particularly influenza and dengue viruses.",
+      "office": "Rollins 1015",
+      "phone": ""
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/lhernault.jpg",
+      "name": "Steven L'Hernault, Chairman",
+      "title": "Professor",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=163",
+      "email": "bioslh@emory.edu",
+      "description": "We study how the vesicular trafficking pathway in developing sperm alters the cell surface to allow it to interact with the egg surface.  Our studies are done in the nematode Caenorhabditis elegans using genetic, molecular and biochemical techniques.",
+      "office": "Rollins 2001C",
+      "phone": "404-727-4234"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/levin.jpg",
+      "name": "Bruce Levin",
+      "title": "Samuel C. Dobbs Professor",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=34",
+      "email": "blevin@emory.edu",
+      "description": "We do theoretical and empirical studies of the population biology and evolution of bacteria and their accessory genetic elements and the population dynamics, evolution, and control of infectious disease.",
+      "office": "Rollins 1109",
+      "phone": "404-727-2826"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/liu.jpg",
+      "name": "Robert Liu",
+      "title": "Professor",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=35",
+      "email": "robert.liu@emory.edu",
+      "description": "",
+      "office": "Rollins 2131",
+      "phone": "404-727-5274"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/luchessi.jpg",
+      "name": "John Lucchesi, Emeritus",
+      "title": "Asa G. Candler Professor",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=36",
+      "email": "jclucch@emory.edu",
+      "description": "Chromatin is the complex of DNA and protein that makes up chromosomes. We study the chemical and structural changes that occur in chromatin in order to initiate and maintain gene expression.",
+      "office": "Rollins 1011",
+      "phone": "404-291-9924"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/lynn.jpg",
+      "name": "David Lynn",
+      "title": "Professor",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=37",
+      "email": "dlynn2@emory.edu",
+      "description": "My research interests include chemical biology, self-assembly, and signal transduction in cellular development and pathogenesis, conformation and molecular evolution, nanostructural synthesis and self-assembly, molecular skeletons for storing and reading information, and the origins of life.",
+      "office": "Emerson Hall E409",
+      "phone": "404-727-9348"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/marsteller.jpg",
+      "name": "Pat Marsteller",
+      "title": "Professor of Practice",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=361",
+      "email": "pmars@emory.edu",
+      "description": "I am currently a Professor of Practice in Biology and a half time Associate Dean.  I love teaching at all levels. With my dean hat, I help faculty find funding for undergraduate research and help faculty with curriculum grants.",
+      "office": "Rollins 1101",
+      "phone": "404-727-9696"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/morran.jpg",
+      "name": "Levi Morran",
+      "title": "Assistant Professor",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=381",
+      "email": "levi.morran@emory.edu",
+      "description": "We study sex and coevolution. We want to know why sex is so common in nature and how interactions between species alter the course of evolution.",
+      "office": "Rollins 1029",
+      "phone": "404-727-7092"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/murugan.jpg",
+      "name": "Malavika Murugan",
+      "title": "Assistant Professor",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=526",
+      "email": "malavika.murugan@gmail.com",
+      "description": "Social behavior is arguably one of the most essential sets of behaviors of all mammals (including humans). In our lab we are interested in understanding how the brain represents social sensory information and how this information is transformed to enable appropriate social interactions. By incorporating a wide range of techniques- cellular resolution imaging, electrophysiology, optogenetics, advanced analytical methods, and novel rodent behavioral paradigms - we aim to provide a comprehensive and mechanistic understanding of neural circuits underlying social behaviors.",
+      "office": "Rollins 2101",
+      "phone": ""
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/nemenman.jpg",
+      "name": "Ilya Nemenman",
+      "title": "Professor",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=283",
+      "email": "ilya.nemenman@emory.edu",
+      "description": "My group is applying methods of theoretical physics and information theory to understand how biological systems, such as molecular circuits, entire cellular networks, single neurons, whole brains, and entire populations learn from their surrounding environment and respond to it.",
+      "office": "Math & Science Center N240",
+      "phone": "404-727-9286"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/otoole.jpg",
+      "name": "Kate O'Toole",
+      "title": "Lecturer",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=408",
+      "email": "kate.k.otoole@emory.edu",
+      "description": "The biological world is amazing and learning about it should be interesting, and fun, and accessible to everyone. As an undergraduate biology lecturer, I strive to establish a student-centered learning environment in order to reach people with different learning preferences and different kinds of minds.",
+      "office": "Rollins 2009",
+      "phone": "404-727-7679"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/orloff.jpg",
+      "name": "Gregg Orloff, Emeritus",
+      "title": "Senior Lecturer",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=7",
+      "email": "gregg.orloff@emory.edu",
+      "description": "I teach Biology 141, 143, 350 and 415. My interests outside of the classroom include cancer education using my website, CancerQuest (www.cancerquest.org).",
+      "office": "gregg.orloff@emory.edu",
+      "phone": ""
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/prinz.jpg",
+      "name": "Astrid Prinz",
+      "title": "Associate Professor",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=39",
+      "email": "astrid.prinz@emory.edu",
+      "description": "We combine experimental and computational methods to study pattern generation, synchronization, and homeostasis in small neuronal networks. Our work relies on the collaboration of researchers from diverse backgrounds, including biologists, neuroscientists, physicists, engineers, computer scientists, and mathematicians.",
+      "office": "Rollins 2105",
+      "phone": "404-727-5191"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/real.jpg",
+      "name": "Leslie Real, Emeritus",
+      "title": "Asa G. Candler Professor",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=40",
+      "email": "lreal@emory.edu",
+      "description": "Interaction of genetic structure of populations and the ecological dynamics of infectious diseases; molecular evolution in rabies viruses.",
+      "office": "Rollins 1001A",
+      "phone": "404-727-4099"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/rieder.jpg",
+      "name": "Leila Rieder",
+      "title": "Assistant Professor",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=500",
+      "email": "leila.rieder@emory.edu",
+      "description": "Multiple meters of DNA are packaged into the nucleus of each cell, requiring highly interactive levels of organization. Our research focuses on how elegant genome organization, with emphasis on nuclear domains, leads to efficient and precise gene regulation.",
+      "office": "Coming to Emory Spring 2019",
+      "phone": ""
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/shepherd.jpg",
+      "name": "Iain Shepherd",
+      "title": "Associate Professor",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=42",
+      "email": "iain.shepherd@emory.edu",
+      "description": "My lab studies the genetic basis of the development of the enteric nervous system (ENS) - the nervous system of the intestine. We use genetic, cell biological, and embryological experimental techniques in our studies. These studies are clinically important. Hirschsprung's disease is a pediatric ENS condition that affects 1 in 5000 live births, the cause of which is only partly understood.",
+      "office": "Rollins 1131",
+      "phone": "404-727-2632"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/siegler.jpg",
+      "name": "Melody Siegler, Emeritus",
+      "title": "Associate Professor",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=43",
+      "email": "msiegle@emory.edu",
+      "description": "Our research concerns the developmental events that give rise to the mature nervous system, specifically the interplay of lineage and extrinsic influences in the formation of neural circuits.",
+      "office": "msiegle@emory.edu",
+      "phone": ""
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/sober.jpg",
+      "name": "Sam Sober",
+      "title": "Associate Professor",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=302",
+      "email": "samuel.j.sober@emory.edu",
+      "description": "Work in my lab uses the songbird vocal control system to investigate how the brain controls vocal behavior and learns from experience.",
+      "office": "Rollins 2103",
+      "phone": "404-727-5846"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/spell.jpg",
+      "name": "Rachelle Spell",
+      "title": "Professor of Pedagogy",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=44",
+      "email": "rachelle.spell@emory.edu",
+      "description": "I help students learn; I help teachers teach. I strive to both help my students develop as\nscientists and support faculty develop as educators.  My work on faculty and curriculum development has launched a research emphasis on how institutional factors can affect teaching practices.",
+      "office": "Rollins 2015",
+      "phone": "404-727-5828"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/starnes.jpg",
+      "name": "Amanda Starnes",
+      "title": "Senior Lecturer",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=45",
+      "email": "amanda.starnes@emory.edu",
+      "description": "Maintaining student interest (in \"Comparative Vertebrate Anatomy\" and \"The Biology of Parasites\") is a principle teaching goal. Using an organismal approach, students are encouraged to offer answers to class questions and their knowledge is further enhanced through student-led presentations.",
+      "office": "Rollins 2125",
+      "phone": "404-727-6932"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/stokes.jpg",
+      "name": "Darrell Stokes, Emeritus",
+      "title": "Professor",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=46",
+      "email": "darrell.stokes@emory.edu",
+      "description": "My laboratory has focused on structural, biochemical, and biophysical studies of insect and crustacean muscles.",
+      "office": "Rollins 2127",
+      "phone": "404-727-4213"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/vega.jpg",
+      "name": "Nic Vega",
+      "title": "Assistant Professor",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=470",
+      "email": "nicole.marie.vega@emory.edu",
+      "description": "Our lab is interested in microbial ecology in the host environment, and we use a combination of experiments and modeling to understand these complex systems. We are particularly interested in understanding the assembly and evolution of commensal microbial communities and in determining the factors that make host-associated communities resilient to stress, including antibiotic perturbation and invasion by pathogens. To this end, we use the nematode worm C. elegans as a tractable experimental system for microbial community assembly.",
+      "office": "Rollins 2019",
+      "phone": ""
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/weissman.jpg",
+      "name": "Daniel Weissman",
+      "title": "Assistant Professor",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=468",
+      "email": "dbweissman@gmail.com",
+      "description": "We want to have a theory of evolution that will predict how populations will evolve from a reasonable set of measurements. Towards this goal, we work on how populations explore the fitness landscape, and how evolutionary dynamics can be inferred from sequencing data from natural and experimental populations.",
+      "office": "Math & Science Center N244",
+      "phone": "404-727-4296"
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/yedvobnick.jpg",
+      "name": "Barry Yedvobnick, Emeritus",
+      "title": "Professor",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=48",
+      "email": "barry.yedvobnick@emory.edu",
+      "description": "Notch is a major signaling pathway within metazoa that has been implicated in an array of developmental and disease mechanisms.  Using genetic and molecular methods, our lab has been screening for novel loci that contribute to Notch signaling.",
+      "office": "barry.yedvobnick@emory.edu",
+      "phone": ""
+    }, {
+      "institution": "Emory",
+      "image": "http://www.biology.emory.edu/multimedia/images/people/thumb/yokoyama.jpg",
+      "name": "Shozo Yokoyama, Emeritus",
+      "title": "Asa G. Candler Professor",
+      "personal_website": "http://www.biology.emory.edu/index.cfm?faculty=49",
+      "email": "shozo.yokoyama@emory.edu",
+      "description": "We study the molecular genetics and adaptive evolution of color and dim-light vision in various vertebrate species.  To elucidate the molecular mechanisms of these adaptive events, we use methods of molecular/cell biology, protein modeling, quantum chemistry, psychophysics, and molecular evolution.",
+      "office": "shozo.yokoyama@emory.edu",
+      "phone": ""
+    },
     {
       "institution": "UCLA",
       "name": "Dan Cohn",
