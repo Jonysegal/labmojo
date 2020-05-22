@@ -263,11 +263,11 @@ def set_email_host(pi):
 
 
 def create_email_from_website(pi):
-    if 'website' in pi:
+    if 'website' in pi and pi.get('website') != "":
         pi['email'] = "@" + urlparse(pi['website']).hostname
-    elif 'lab_website' in pi:
+    elif 'lab_website' in pi and pi.get('lab_website') != "":
         pi['email'] = "@" + urlparse(pi['lab_website']).hostname
-    elif 'personal_website' in pi:
+    elif 'personal_website' in pi and pi.get('personal_website') != "":
         pi['email'] = "@" + urlparse(pi['personal_website']).hostname
     else:
         pass
