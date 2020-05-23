@@ -1,0 +1,1817 @@
+{
+  "id": "_1WEgkIAAAAJ",
+  "citedby": 19815,
+  "citedby5y": 4894,
+  "hindex": 71,
+  "hindex5y": 37,
+  "i10index": 119,
+  "i10index5y": 81,
+  "coauthors": [],
+  "name": "Cory Abate-Shen",
+  "affiliation": "Columbia University",
+  "interests": ["cancer biology", "transcriptional regulation", "developmental biology"],
+  "cites_per_year": {
+    "1989": 69,
+    "1990": 148,
+    "1991": 269,
+    "1992": 335,
+    "1993": 394,
+    "1994": 424,
+    "1995": 437,
+    "1996": 418,
+    "1997": 394,
+    "1998": 362,
+    "1999": 399,
+    "2000": 414,
+    "2001": 378,
+    "2002": 447,
+    "2003": 583,
+    "2004": 636,
+    "2005": 689,
+    "2006": 749,
+    "2007": 636,
+    "2008": 822,
+    "2009": 701,
+    "2010": 833,
+    "2011": 969,
+    "2012": 1069,
+    "2013": 1145,
+    "2014": 1064,
+    "2015": 1060,
+    "2016": 968,
+    "2017": 829,
+    "2018": 822,
+    "2019": 863,
+    "2020": 346
+  },
+  "publications": [{
+    "bib": {
+      "title": "Redox regulation of fos and jun DNA-binding activity in vitro",
+      "year": "1990"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:dQ2og3OwTAUC",
+    "citedby": "1776"
+  }, {
+    "bib": {
+      "title": "Redox regulation of fos and jun DNA-binding activity in vitro",
+      "year": "1990"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:5awf1xo2G04C",
+    "citedby": "1776"
+  }, {
+    "bib": {
+      "title": "Molecular genetics of prostate cancer",
+      "year": "2000"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:M05iB0D1s5AC",
+    "citedby": "920"
+  }, {
+    "bib": {
+      "title": "Molecular genetics of prostate cancer: new prospects for old challenges",
+      "year": "2010"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:b0M2c_1WBrUC",
+    "citedby": "919"
+  }, {
+    "bib": {
+      "title": "Roles for Nkx3. 1 in prostate development and cancer",
+      "year": "1999"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:bEWYMUwI8FkC",
+    "citedby": "693"
+  }, {
+    "bib": {
+      "title": "A luminal epithelial stem cell that is a cell of origin for prostate cancer",
+      "year": "2009"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:7PzlFSSx8tAC",
+    "citedby": "672"
+  }, {
+    "bib": {
+      "title": "Deregulated homeobox gene expression in cancer: cause or consequence?",
+      "year": "2002"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:rO6llkc54NcC",
+    "citedby": "613"
+  }, {
+    "bib": {
+      "title": "Parallel association of Fos and Jun leucine zippers juxtaposes DNA binding domains",
+      "year": "1989"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:JQOojiI6XY0C",
+    "citedby": "582"
+  }, {
+    "bib": {
+      "title": "Pro-Leu-Ser/Thr-Pro is a consensus primary sequence for substrate protein phosphorylation. Characterization of the phosphorylation of c-myc and c-jun proteins by an epidermal \u2026",
+      "year": "1991"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:_Ybze24A_UAC",
+    "citedby": "520"
+  }, {
+    "bib": {
+      "title": "Composition and histone substrates of polycomb repressive group complexes change during cellular differentiation",
+      "year": "2005"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:HE397vMXCloC",
+    "citedby": "483"
+  }, {
+    "bib": {
+      "title": "Targeting AKT/mTOR and ERK MAPK signaling inhibits hormone-refractory prostate cancer in a preclinical mouse model",
+      "year": "2008"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:O3NaXMp0MMsC",
+    "citedby": "445"
+  }, {
+    "bib": {
+      "title": "A Novel Human Prostate-Specific, Androgen-Regulated Homeobox Gene (NKX3.1) That Maps to 8p21, a Region Frequently Deleted in Prostate Cancer",
+      "year": "1997"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:QIV2ME_5wuYC",
+    "citedby": "433"
+  }, {
+    "bib": {
+      "title": "Phosphorylation of the c-Fos transrepression domain by mitogen-activated protein kinase and 90-kDa ribosomal S6 kinase",
+      "year": "1993"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:WqliGbK-hY8C",
+    "citedby": "392"
+  }, {
+    "bib": {
+      "title": "Cooperativity of Nkx3. 1 and Pten loss of function in a mouse model of prostate carcinogenesis",
+      "year": "2002"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:Tyk-4Ss8FVUC",
+    "citedby": "373"
+  }, {
+    "bib": {
+      "title": "Heterodimerization of Msx and Dlx homeoproteins results in functional antagonism.",
+      "year": "1997"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:OU6Ihb5iCvQC",
+    "citedby": "309"
+  }, {
+    "bib": {
+      "title": "Inactivation of p53 and Pten promotes invasive bladder cancer",
+      "year": "2009"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:GnPB-g6toBAC",
+    "citedby": "300"
+  }, {
+    "bib": {
+      "title": "Roles for Msx and Dlx homeoproteins in vertebrate development",
+      "year": "2000"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:_xSYboBqXhAC",
+    "citedby": "288"
+  }, {
+    "bib": {
+      "title": "Expression and purification of the leucine zipper and DNA-binding domains of Fos and Jun: both Fos and Jun contact DNA directly.",
+      "year": "1990"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:PELIpwtuRlgC",
+    "citedby": "278"
+  }, {
+    "bib": {
+      "title": "Nkx3. 1 mutant mice recapitulate early stages of prostate carcinogenesis",
+      "year": "2002"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:-f6ydRqryjwC",
+    "citedby": "277"
+  }, {
+    "bib": {
+      "title": "Nkx3. 1; Pten mutant mice develop invasive prostate adenocarcinoma and lymph node metastases",
+      "year": "2003"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:vRqMK49ujn8C",
+    "citedby": "263"
+  }, {
+    "bib": {
+      "title": "MSX1 cooperates with histone H1b for inhibition of transcription and myogenesis",
+      "year": "2004"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:B3FOqHPlNUQC",
+    "citedby": "255"
+  }, {
+    "bib": {
+      "title": "Direct cloning of leucine zipper proteins: Jun binds cooperatively to the CRE with CRE-BP1.",
+      "year": "1990"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:tzM49s52ZIMC",
+    "citedby": "245"
+  }, {
+    "bib": {
+      "title": "Msx homeobox genes inhibit differentiation through upregulation of cyclin D1",
+      "year": "2001"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:4fKUyHm3Qg0C",
+    "citedby": "238"
+  }, {
+    "bib": {
+      "title": "Lineage analysis of basal epithelial cells reveals their unexpected plasticity and supports a cell-of-origin model for prostate cancer heterogeneity",
+      "year": "2013"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:70eg2SAEIzsC",
+    "citedby": "231"
+  }, {
+    "bib": {
+      "title": "Nucleotides flanking a conserved TAAT core dictate the DNA binding specificity of three murine homeodomain proteins.",
+      "year": "1993"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:ZfRJV9d4-WMC",
+    "citedby": "225"
+  }, {
+    "bib": {
+      "title": "Coordinate occupancy of AP-1 sites in the vitamin D-responsive and CCAAT box elements by Fos-Jun in the osteocalcin gene: model for phenotype suppression of transcription",
+      "year": "1990"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:9vf0nzSNQJEC",
+    "citedby": "216"
+  }, {
+    "bib": {
+      "title": "Transcriptional regulation by Fos and Jun in vitro: interaction among multiple activator and regulatory domains.",
+      "year": "1991"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:uLbwQdceFCQC",
+    "citedby": "210"
+  }, {
+    "bib": {
+      "title": "Dual roles of Cripto as a ligand and coreceptor in the nodal signaling pathway",
+      "year": "2002"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:RHpTSmoSYBkC",
+    "citedby": "203"
+  }, {
+    "bib": {
+      "title": "Altered protein conformation on DNA binding by Fos and Jun",
+      "year": "1990"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:LjlpjdlvIbIC",
+    "citedby": "203"
+  }, {
+    "bib": {
+      "title": "Tissue\u2010specific expression of murine Nkx3.1 in the male urogenital system",
+      "year": "1997"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:M3ejUd6NZC8C",
+    "citedby": "202"
+  }, {
+    "bib": {
+      "title": "BMP controls proximodistal outgrowth, via induction of the apical ectodermal ridge, and dorsoventral patterning in the vertebrate limb",
+      "year": "2001"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:TFP_iSt0sucC",
+    "citedby": "191"
+  }, {
+    "bib": {
+      "title": "Transcriptional repression by Msx-1 does not require homeodomain DNA-binding sites.",
+      "year": "1995"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:hkOj_22Ku90C",
+    "citedby": "190"
+  }, {
+    "bib": {
+      "title": "Cross-Species Regulatory Network Analysis Identifies a Synergistic Interaction between FOXM1 and CENPF that Drives Prostate Cancer Malignancy",
+      "year": "2014"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:Mojj43d5GZwC",
+    "citedby": "186"
+  }, {
+    "bib": {
+      "title": "Mouse models of prostate carcinogenesis",
+      "year": "2002"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:UxriW0iASnsC",
+    "citedby": "177"
+  }, {
+    "bib": {
+      "title": "Loss-of-function of Nkx3. 1 promotes increased oxidative damage in prostate carcinogenesis",
+      "year": "2005"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:nb7KW1ujOQ8C",
+    "citedby": "171"
+  }, {
+    "bib": {
+      "title": "Phenylethanolamine N-methyltransferase-containing terminals synapse directly on sympathetic preganglionic neurons in the rat",
+      "year": "1988"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:SdhP9T11ey4C",
+    "citedby": "169"
+  }, {
+    "bib": {
+      "title": "Prostatic intraepithelial neoplasia in genetically engineered mice",
+      "year": "2002"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:HDshCWvjkbEC",
+    "citedby": "166"
+  }, {
+    "bib": {
+      "title": "Pten inactivation and the emergence of androgen-independent prostate cancer",
+      "year": "2007"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:isC4tDSrTZIC",
+    "citedby": "158"
+  }, {
+    "bib": {
+      "title": "Integrating differentiation and cancer: the Nkx3. 1 homeobox gene in prostate organogenesis and carcinogenesis",
+      "year": "2008"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:IWHjjKOFINEC",
+    "citedby": "156"
+  }, {
+    "bib": {
+      "title": "A role for the Msx-1 homeodomain in transcriptional regulation: residues in the N-terminal arm mediate TATA binding protein interaction and transcriptional repression",
+      "year": "1996"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:Y5dfb0dijaUC",
+    "citedby": "149"
+  }, {
+    "bib": {
+      "title": "Msx1 antagonizes the myogenic activity of Pax3 in migrating limb muscle precursors",
+      "year": "1999"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:qjMakFHDy7sC",
+    "citedby": "147"
+  }, {
+    "bib": {
+      "title": "Combinatorial activities of Akt and B-Raf/Erk signaling in a mouse model of androgen-independent prostate cancer",
+      "year": "2006"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:J-pR_7NvFogC",
+    "citedby": "146"
+  }, {
+    "bib": {
+      "title": "Comparison of MSX-1 and MSX-2 suggests a molecular basis for functional redundancy",
+      "year": "1996"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:u-x6o8ySG0sC",
+    "citedby": "142"
+  }, {
+    "bib": {
+      "title": "A critical role for p27kip1 gene dosage in a mouse model of prostate carcinogenesis",
+      "year": "2004"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:Zph67rFs4hoC",
+    "citedby": "141"
+  }, {
+    "bib": {
+      "title": "Roles for Hedgehog signaling in androgen production and prostate ductal morphogenesis",
+      "year": "2004"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:35N4QoGY0k4C",
+    "citedby": "141"
+  }, {
+    "bib": {
+      "title": "Jun is phosphorylated by several protein kinases at the same sites that are modified in serum-stimulated fibroblasts.",
+      "year": "1992"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:Fu2w8maKXqMC",
+    "citedby": "136"
+  }, {
+    "bib": {
+      "title": "Encounters with Fos and Jun on the road to AP-1.",
+      "year": "1990"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:fEOibwPWpKIC",
+    "citedby": "135"
+  }, {
+    "bib": {
+      "title": "Tumor evolution and drug response in patient-derived organoid models of bladder cancer",
+      "year": "2018"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:eJXPG6dFmWUC",
+    "citedby": "129"
+  }, {
+    "bib": {
+      "title": "Activator protein-1 transcription factors are associated with progression and recurrence of prostate cancer",
+      "year": "2008"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:tS2w5q8j5-wC",
+    "citedby": "125"
+  }, {
+    "bib": {
+      "title": "A molecular signature predictive of indolent prostate cancer",
+      "year": "2013"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:2P1L_qKh6hAC",
+    "citedby": "122"
+  }, {
+    "bib": {
+      "title": "The current state of preclinical prostate cancer animal models",
+      "year": "2008"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:UeHWp8X0CEIC",
+    "citedby": "120"
+  }, {
+    "bib": {
+      "title": "Transdifferentiation as a mechanism of treatment resistance in a mouse model of castration-resistant prostate cancer",
+      "year": "2017"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:TQgYirikUcIC",
+    "citedby": "113"
+  }, {
+    "bib": {
+      "title": "An early phase of embryonic Dlx5 expression defines the rostral boundary of the neural plate",
+      "year": "1998"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:qxL8FJ1GzNcC",
+    "citedby": "113"
+  }, {
+    "bib": {
+      "title": "Haploinsufficiency of MSX1: a mechanism for selective tooth agenesis",
+      "year": "1998"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:P5F9QuxV20EC",
+    "citedby": "112"
+  }, {
+    "bib": {
+      "title": "1, 2, 4 1 Departments of Urology and Medicine"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:M3NEmzRMIkIC",
+    "citedby": "111"
+  }, {
+    "bib": {
+      "title": "Roles of the Nkx3.1 homeobox gene in prostate organogenesis and carcinogenesis",
+      "year": "2003"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:blknAaTinKkC",
+    "citedby": "106"
+  }, {
+    "bib": {
+      "title": "PIAS1 confers DNA-binding specificity on the Msx1 homeoprotein",
+      "year": "2006"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:q3oQSFYPqjQC",
+    "citedby": "100"
+  }, {
+    "bib": {
+      "title": "Fos is phosphorylated by p34cdc2, cAMP-dependent protein kinase and protein kinase C at multiple sites clustered within regulatory regions.",
+      "year": "1991"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:j8SEvjWlNXcC",
+    "citedby": "97"
+  }, {
+    "bib": {
+      "title": "Emergence of androgen independence at early stages of prostate cancer progression in Nkx3. 1; Pten mice",
+      "year": "2006"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:5ugPr518TE4C",
+    "citedby": "96"
+  }, {
+    "bib": {
+      "title": "DNA-PKcs-mediated transcriptional regulation drives prostate cancer progression and metastasis",
+      "year": "2015"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:hqOjcs7Dif8C",
+    "citedby": "94"
+  }, {
+    "bib": {
+      "title": "A ubiquitous nuclear protein stimulates the DNA-binding activity of fos and jun indirectly.",
+      "year": "1990"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:JoZmwDi-zQgC",
+    "citedby": "91"
+  }, {
+    "bib": {
+      "title": "Hox proteins have different affinities for a consensus DNA site that correlate with the positions of their genes on the hox cluster.",
+      "year": "1994"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:eq2jaN3J8jMC",
+    "citedby": "89"
+  }, {
+    "bib": {
+      "title": "ETV4 promotes metastasis in response to activation of PI3-kinase and Ras signaling in a mouse model of advanced prostate cancer",
+      "year": "2013"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:8k81kl-MbHgC",
+    "citedby": "88"
+  }, {
+    "bib": {
+      "title": "Clinical outcomes after radical prostatectomy in diabetic patients treated with metformin",
+      "year": "2010"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:UebtZRa9Y70C",
+    "citedby": "88"
+  }, {
+    "bib": {
+      "title": "Vitamin D inhibits the formation of prostatic intraepithelial neoplasia in Nkx3. 1; Pten mutant mice",
+      "year": "2006"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:L8Ckcad2t8MC",
+    "citedby": "88"
+  }, {
+    "bib": {
+      "title": "Prolonged exposure to reduced levels of androgen accelerates prostate cancer progression in Nkx3. 1; Pten mutant mice",
+      "year": "2007"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:eQOLeE2rZwMC",
+    "citedby": "86"
+  }, {
+    "bib": {
+      "title": "Fos and jun cooperate in transcriptional regulation via heterologous activation domains.",
+      "year": "1990"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:W5xh706n7nkC",
+    "citedby": "84"
+  }, {
+    "bib": {
+      "title": "The Msx1 homeoprotein recruits polycomb to the nuclear periphery during development",
+      "year": "2011"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:NMxIlDl6LWMC",
+    "citedby": "74"
+  }, {
+    "bib": {
+      "title": "B-Raf activation cooperates with PTEN loss to drive c-Myc expression in advanced prostate cancer",
+      "year": "2012"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:Wp0gIr-vW9MC",
+    "citedby": "73"
+  }, {
+    "bib": {
+      "title": "Modelling bladder cancer in mice: opportunities and challenges",
+      "year": "2015"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:IjCSPb-OGe4C",
+    "citedby": "72"
+  }, {
+    "bib": {
+      "title": "Dimerization and DNA binding alter phosphorylation of Fos and Jun",
+      "year": "1993"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:PR6Y55bgFSsC",
+    "citedby": "72"
+  }, {
+    "bib": {
+      "title": "Ultrastructural characterization of substance P\u2010like immunoreactive neurons in the rostral ventrolateral medulla in relation to neurons containing catecholamine\u2010synthesizing \u2026",
+      "year": "1988"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:tkaPQYYpVKoC",
+    "citedby": "72"
+  }, {
+    "bib": {
+      "title": "Dual targeting of the Akt/mTOR signaling pathway inhibits castration-resistant prostate cancer in a genetically engineered mouse model",
+      "year": "2012"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:f2IySw72cVMC",
+    "citedby": "68"
+  }, {
+    "bib": {
+      "title": "Intravesical delivery of rapamycin suppresses tumorigenesis in a mouse model of progressive bladder cancer",
+      "year": "2009"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:Se3iqnhoufwC",
+    "citedby": "68"
+  }, {
+    "bib": {
+      "title": "Crystal Structure of the Msx-1 Homeodomain/DNA Complex,",
+      "year": "2001"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:fQNAKQ3IYiAC",
+    "citedby": "65"
+  }, {
+    "bib": {
+      "title": "The prostate-cancer metabolome",
+      "year": "2009"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:bFI3QPDXJZMC",
+    "citedby": "61"
+  }, {
+    "bib": {
+      "title": "Modeling prostate cancer in mice: something old, something new, something premalignant, something metastatic",
+      "year": "2013"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:aqlVkmm33-oC",
+    "citedby": "59"
+  }, {
+    "bib": {
+      "title": "Homology modeling using simulated annealing of restrained molecular dynamics and conformational search calculations with CONGEN: Application in predicting the three\u2010dimensional \u2026",
+      "year": "1997"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:WbkHhVStYXYC",
+    "citedby": "59"
+  }, {
+    "bib": {
+      "title": "Design of a\" minimAl\" homeodomain: the N-terminal arm modulates DNA binding affinity and stabilizes homeodomain structure",
+      "year": "1994"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:UHK10RUVsp4C",
+    "citedby": "59"
+  }, {
+    "bib": {
+      "title": "A single homeodomain binding site restricts spatial expression of Wnt-1 in the developing brain",
+      "year": "1995"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:4TOpqqG69KYC",
+    "citedby": "57"
+  }, {
+    "bib": {
+      "title": "Homeobox genes and cancer: new OCTaves for an old tune",
+      "year": "2003"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:LkGwnXOMwfcC",
+    "citedby": "54"
+  }, {
+    "bib": {
+      "title": "BRAF activation initiates but does not maintain invasive prostate adenocarcinoma",
+      "year": "2008"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:ZHo1McVdvXMC",
+    "citedby": "53"
+  }, {
+    "bib": {
+      "title": "Limited proteolysis of rat brain tyrosine hydroxylase defines an N-terminal region required for regulation of cofactor binding and directing substrate specificity.",
+      "year": "1991"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:VLnqNzywnoUC",
+    "citedby": "53"
+  }, {
+    "bib": {
+      "title": "AACR cancer progress report 2013",
+      "year": "2013"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:D03iK_w7-QYC",
+    "citedby": "52"
+  }, {
+    "bib": {
+      "title": "Protein complex formation between Msx1 and Lhx2 homeoproteins is incompatible with DNA binding activity",
+      "year": "1998"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:V3AGJWp-ZtQC",
+    "citedby": "51"
+  }, {
+    "bib": {
+      "title": "Molecular biology of prostate development and prostate cancer",
+      "year": "1998"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:JV2RwH3_ST0C",
+    "citedby": "51"
+  }, {
+    "bib": {
+      "title": "Repression by HoxA7 is mediated by the homeodomain and the modulatory action of its N-terminal-arm residues.",
+      "year": "1996"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:j3f4tGmQtD8C",
+    "citedby": "51"
+  }, {
+    "bib": {
+      "title": "Inducible proto-oncogene transcription factors: third messengers in the brain?",
+      "year": "1990"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:evX43VCCuoAC",
+    "citedby": "50"
+  }, {
+    "bib": {
+      "title": "Dlx5 regulates chondrocyte differentiation at multiple stages.",
+      "year": "2003"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:HoB7MX3m0LUC",
+    "citedby": "46"
+  }, {
+    "bib": {
+      "title": "Identification of an NKX3. 1-G9a-UTY transcriptional regulatory network that controls prostate differentiation",
+      "year": "2016"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:3s1wT3WcHBgC",
+    "citedby": "45"
+  }, {
+    "bib": {
+      "title": "Atg7 cooperates with Pten loss to drive prostate cancer tumor growth",
+      "year": "2016"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:K3LRdlH-MEoC",
+    "citedby": "45"
+  }, {
+    "bib": {
+      "title": "A new generation of mouse models of cancer for translational research",
+      "year": "2006"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:roLk4NBRz8UC",
+    "citedby": "45"
+  }, {
+    "bib": {
+      "title": "Ultrastructural localization of phenylethanolamine N-methyltransferase-like immunoreactivity in the rat locus coeruleus",
+      "year": "1989"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:1yQoGdGgb4wC",
+    "citedby": "44"
+  }, {
+    "bib": {
+      "title": "Characterization of the catalytic domain of bovine adrenal tyrosine hydroxylase",
+      "year": "1988"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:VL0QpB8kHFEC",
+    "citedby": "39"
+  }, {
+    "bib": {
+      "title": "FGF signaling in prostate tumorigenesis\u2014new insights into epithelial-stromal interactions",
+      "year": "2007"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:LPZeul_q3PIC",
+    "citedby": "38"
+  }, {
+    "bib": {
+      "title": "Optimizing mouse models for precision cancer prevention",
+      "year": "2016"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:SP6oXDckpogC",
+    "citedby": "37"
+  }, {
+    "bib": {
+      "title": "Simultaneous haploinsufficiency of Pten and Trp53 tumor suppressor genes accelerates tumorigenesis in a mouse model of prostate cancer",
+      "year": "2009"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:KlAtU1dfN6UC",
+    "citedby": "37"
+  }, {
+    "bib": {
+      "title": "The MSX1 homeoprotein recruits G9a methyltransferase to repressed target genes in myoblast cells",
+      "year": "2012"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:kRWSkSYxWN8C",
+    "citedby": "36"
+  }, {
+    "bib": {
+      "title": "Cytoplasmic to nuclear signal transduction by mitogen-activated protein kinase and 90 kDa ribosomal S6 kinase",
+      "year": "1993"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:dTyEYWd-f8wC",
+    "citedby": "36"
+  }, {
+    "bib": {
+      "title": "DNA affinity cleaving analysis of homeodomain-DNA interaction: identification of homeodomain consensus sites in genomic DNA",
+      "year": "1994"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:N5tVd3kTz84C",
+    "citedby": "33"
+  }, {
+    "bib": {
+      "title": "Dlx genes integrate positive and negative signals during feather bud development",
+      "year": "2004"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:ns9cj8rnVeAC",
+    "citedby": "30"
+  }, {
+    "bib": {
+      "title": "ERK and AKT signaling drive MED1 overexpression in prostate cancer in association with elevated proliferation and tumorigenicity",
+      "year": "2013"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:738O_yMBCRsC",
+    "citedby": "29"
+  }, {
+    "bib": {
+      "title": "ARF regulates the stability of p16 protein via REG\u03b3-dependent proteasome degradation",
+      "year": "2013"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:hFOr9nPyWt4C",
+    "citedby": "26"
+  }, {
+    "bib": {
+      "title": "The untapped potential of genetically engineered mouse models in chemoprevention research: opportunities and challenges",
+      "year": "2008"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:tOudhMTPpwUC",
+    "citedby": "26"
+  }, {
+    "bib": {
+      "title": "The regulation of c-fos: too much is never enough.",
+      "year": "1993"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:ye4kPcJQO24C",
+    "citedby": "26"
+  }, {
+    "bib": {
+      "title": "Multiple amino acids determine the DNA binding specificity of the Msx-1 homeodomain",
+      "year": "1995"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:ZuybSZzF8UAC",
+    "citedby": "25"
+  }, {
+    "bib": {
+      "title": "Species\u2010specific distribution of aromatic L\u2010amino acid decarboxylase in the rodent adrenal gland, cerebellum, and olfactory bulb",
+      "year": "1991"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:_B80troHkn4C",
+    "citedby": "25"
+  }, {
+    "bib": {
+      "title": "Predicting drug response in human prostate cancer from preclinical analysis of in vivo mouse models",
+      "year": "2015"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:fPk4N6BV_jEC",
+    "citedby": "23"
+  }, {
+    "bib": {
+      "title": "Preclinical analyses of intravesical chemotherapy for prevention of bladder cancer progression",
+      "year": "2013"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:8AbLer7MMksC",
+    "citedby": "23"
+  }, {
+    "bib": {
+      "title": "Steps toward understanding the inheritance of repressive methyl-lysine marks in histones",
+      "year": "2004"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:Y0pCki6q_DkC",
+    "citedby": "23"
+  }, {
+    "bib": {
+      "title": "Progenitor cells for the prostate epithelium: roles in development, regeneration, and cancer",
+      "year": "2008"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:5nxA0vEk-isC",
+    "citedby": "21"
+  }, {
+    "bib": {
+      "title": "Canonical Wnt signaling regulates Nkx3. 1 expression and luminal epithelial differentiation during prostate organogenesis",
+      "year": "2013"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:xtRiw3GOFMkC",
+    "citedby": "19"
+  }, {
+    "bib": {
+      "title": "Transcriptional repression by the Msx1 homeoprotein is associated with global redistribution of the H3K27me3 repressive mark to the nuclear periphery",
+      "year": "2012"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:e5wmG9Sq2KIC",
+    "citedby": "17"
+  }, {
+    "bib": {
+      "title": "A novel PF/PN motif inhibits nuclear localization and DNA binding activity of the ESX1 homeoprotein",
+      "year": "2000"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:iH-uZ7U-co4C",
+    "citedby": "17"
+  }, {
+    "bib": {
+      "title": "Rapid Identification of Homeodomain Binding Sites in theWnt-5aGene Using an Immunoprecipitation Strategy",
+      "year": "1996"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:4OULZ7Gr8RgC",
+    "citedby": "16"
+  }, {
+    "bib": {
+      "title": "Phenylalanine hydroxylase, tyrosine hydroxylase, and tryptophan hydroxylase",
+      "year": "1986"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:ipzZ9siozwsC",
+    "citedby": "16"
+  }, {
+    "bib": {
+      "title": "Lineage plasticity in cancer progression and treatment",
+      "year": "2018"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:BqipwSGYUEgC",
+    "citedby": "14"
+  }, {
+    "bib": {
+      "title": "Cross-species analysis of genome-wide regulatory networks identifies a synergistic interaction between FOXM1 and CENPF that drives prostate cancer malignancy",
+      "year": "2014"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:0KyAp5RtaNEC",
+    "citedby": "13"
+  }, {
+    "bib": {
+      "title": "Effective utilization and appropriate selection of genetically engineered mouse models for translational integration of mouse and human trials",
+      "year": "2013"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:p2g8aNsByqUC",
+    "citedby": "12"
+  }, {
+    "bib": {
+      "title": "Use of fluorescence resonance energy transfer to estimate intramolecular distances in the Msx-1 homeodomain",
+      "year": "1995"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:t6usbXjVLHcC",
+    "citedby": "10"
+  }, {
+    "bib": {
+      "title": "A phase I trial for the use of intravesical cabazitaxel, gemcitabine, and cisplatin (CGC) in the treatment of BCG-refractory nonmuscle invasive urothelial carcinoma of the bladder.",
+      "year": "2017"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:4DMP91E08xMC",
+    "citedby": "9"
+  }, {
+    "bib": {
+      "title": "ARF confers a context-dependent response to chemotherapy in muscle-invasive bladder cancer",
+      "year": "2017"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:k_IJM867U9cC",
+    "citedby": "9"
+  }, {
+    "bib": {
+      "title": "The promise of dual targeting Akt/mTOR signaling in lethal prostate cancer",
+      "year": "2012"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:eflP2zaiRacC",
+    "citedby": "9"
+  }, {
+    "bib": {
+      "title": "Mouse models of human bladder cancer as a tool for drug discovery",
+      "year": "2010"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:RGFaLdJalmkC",
+    "citedby": "9"
+  }, {
+    "bib": {
+      "title": "Mouse Fem1b interacts with the Nkx3. 1 homeoprotein and is required for proper male secondary sexual development",
+      "year": "2008"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:_Qo2XoVZTnwC",
+    "citedby": "9"
+  }, {
+    "bib": {
+      "title": "NSD2 is a conserved driver of metastatic prostate cancer progression",
+      "year": "2018"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:2osOgNQ5qMEC",
+    "citedby": "8"
+  }, {
+    "bib": {
+      "title": "AACR White Paper: Shaping the Future of Cancer Prevention\u2013A Roadmap for Advancing Science and Public Health",
+      "year": "2018"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:WF5omc3nYNoC",
+    "citedby": "7"
+  }, {
+    "bib": {
+      "title": "Encyclopedia of Cancer",
+      "year": "1997"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:AvfA0Oy_GE0C",
+    "citedby": "7"
+  }, {
+    "bib": {
+      "title": "ARID1A promotes genomic stability through protecting telomere cohesion",
+      "year": "2019"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:Z5m8FVwuT1cC",
+    "citedby": "6"
+  }, {
+    "bib": {
+      "title": "Prostate cancer metastasis\u2014fueled by fat?",
+      "year": "2018"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:pqnbT2bcN3wC",
+    "citedby": "6"
+  }, {
+    "bib": {
+      "title": "Co-clinical analysis of a genetically engineered mouse model and human prostate cancer reveals significance of NKX3. 1 expression for response to 5\u03b1-reductase inhibition",
+      "year": "2017"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:wbdj-CoPYUoC",
+    "citedby": "6"
+  }, {
+    "bib": {
+      "title": "[6] Rigorous and quantitative assay of transcription in vitro",
+      "year": "1996"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:D_sINldO8mEC",
+    "citedby": "6"
+  }, {
+    "bib": {
+      "title": "Different charge forms of aromatic-l-amino-acid decar\u2610 ylase",
+      "year": "1986"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:XD-gHx7UXLsC",
+    "citedby": "6"
+  }, {
+    "bib": {
+      "title": "Genetically engineered mouse models of prostate cancer in the postgenomic era",
+      "year": "2019"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:1qzjygNMrQYC",
+    "citedby": "5"
+  }, {
+    "bib": {
+      "title": "Phenotype-specificity of the membrane-associated forms of the catecholamine synthesizing enzymes",
+      "year": "1985"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:4MWp96NkSFoC",
+    "citedby": "5"
+  }, {
+    "bib": {
+      "title": "MP43-14 A PHASE 1 TRIAL OF INTRAVESICAL CABAZITAXEL, GEMCITABINE, AND CISPLATIN (CGC) FOR THE TREATMENT OF NON-MUSCLE INVASIVE BCG UNRESPONSIVE UROTHELIAL CARCINOMA OF THE BLADDER",
+      "year": "2019"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:zLWjf1WUPmwC",
+    "citedby": "4"
+  }, {
+    "bib": {
+      "title": "Cooperation of loss of NKX3. 1 and inflammation in prostate cancer initiation",
+      "year": "2018"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:XiSMed-E-HIC",
+    "citedby": "4"
+  }, {
+    "bib": {
+      "title": "An Unusual Gene Dosage Effect of p27kip1 in a Mouse Model of Prostate Cancer",
+      "year": "2005"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:WA5NYHcadZ8C",
+    "citedby": "4"
+  }, {
+    "bib": {
+      "title": "Analyses of tumor-suppressor genes in germline mouse models of cancer",
+      "year": "2014"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:cFHS6HbyZ2cC",
+    "citedby": "3"
+  }, {
+    "bib": {
+      "title": "Mouse Models of Cancer: A Laboratory Manual",
+      "year": "2014"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:hMod-77fHWUC",
+    "citedby": "3"
+  }, {
+    "bib": {
+      "title": "Development and differentiation of the prostate gland",
+      "year": "2003"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:YFjsv_pBGBYC",
+    "citedby": "2"
+  }, {
+    "bib": {
+      "title": "A phase I/II study of albumin-bound rapamycin nanoparticles in the treatment of bacillus calmette-guerin refractory non-muscle invasive transitional cell bladder cancer.",
+      "year": "2016"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:AXPGKjj_ei8C",
+    "citedby": "1"
+  }, {
+    "bib": {
+      "title": "LB-S&T-03 A PHASE 1/2 STUDY OF ALBUMIN-BOUND RAPAMYCIN NANOPARTICLES IN BACILLUS CALMETTE-GUERIN REFRACTORY NON-MUSCLE INVASIVE BLADDER CANCER",
+      "year": "2016"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:mvPsJ3kp5DgC",
+    "citedby": "1"
+  }, {
+    "bib": {
+      "title": "ERK and AKT signaling pathways promote MED1 overexpression in prostate cancer cells in association with elevated proliferation and tumorigenicity",
+      "year": "2013"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:ML0RJ9NH7IQC",
+    "citedby": "1"
+  }, {
+    "bib": {
+      "title": "Genetically engineered mouse models in prostate cancer research",
+      "year": "2011"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:u5HHmVD_uO8C",
+    "citedby": "1"
+  }, {
+    "bib": {
+      "title": "259 THE IMPACT OF DIABETES AND METFORMIN USE IN CLINICALLY LOCALIZED PROSTATE CANCER TREATED BY RADICAL PROSTATECTOMY",
+      "year": "2010"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:sSrBHYA8nusC",
+    "citedby": "1"
+  }, {
+    "bib": {
+      "title": "MP73-09 EFFECTIVENESS OF COMBINATION CISPLATIN-BASED INTRAVESICAL CHEMOTHERAPY FOR BCG-REFRACTORY BLADDER CANCER",
+      "year": "2020"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:p__nRnzSRKYC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "A Phase 1 Trial of Intravesical Cabazitaxel, Gemcitabine, and Cisplatin for the Treatment of Non-muscle Invasive BCG Unresponsive or Recurrent/Relapsing Urothelial Carcinoma of \u2026",
+      "year": "2020"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:BwyfMAYsbu0C",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Somatic tissue engineering in mouse models reveals an actionable role for WNT pathway alterations in prostate cancer metastasis",
+      "year": "2020"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:ILKRHgRFtOwC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Discovering and targeting driver pathways in urothelial carcinoma",
+      "year": "2018"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:NhqRSupF_l8C",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "The nuclear homeoprotein NKX3. 1, has a novel function in the mitochondria in regulation of prostate cancer initiation",
+      "year": "2018"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:08ZZubdj9fEC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Identifying drivers for advanced prostate cancer by a transposon-based genetic screen",
+      "year": "2018"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:CHSYGLWDkRkC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Abstract B01: A genetically engineered mouse model of de novo bone metastasis",
+      "year": "2018"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:9ZlFYXVOiuMC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "A genetically engineered mouse model of de novo bone metastasis.",
+      "year": "2018"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:ufrVoPGSRksC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "ARF confers a context-dependent resistance to chemotherapy in muscle-invasive bladder cancer",
+      "year": "2018"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:VOx2b1Wkg3QC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "The PNAS editors would like to thank all the individuals who dedicated their considerable time and expertise to the journal by serving as reviewers in 2017. Their generous \u2026",
+      "year": "2017"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:URolC5Kub84C",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Context-dependent role of ARF for response to chemotherapy in muscle invasive bladder cancer",
+      "year": "2017"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:maZDTaKrznsC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Epigenetic mechanisms and therapeutic opportunities in metastatic castration resistant prostate cancer",
+      "year": "2017"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:qUcmZB5y_30C",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "The PNAS editors would like to thank all the individuals who dedicated their considerable time and expertise to the journal by serving as reviewers in 2016. Their generous \u2026",
+      "year": "2016"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:uWiczbcajpAC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Alterations of TP53 mediate resistance to abiraterone in castration-resistant prostate cancer",
+      "year": "2016"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:R3hNpaxXUhUC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Identification of an NKX3. 1-G9a-UTY regulatory network that controls proper prostate differentiation",
+      "year": "2016"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:0EnyYjriUFMC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "The Nkx3. 1 homeobox gene maintains prostatic identity while its loss leads to prostate cancer initiation",
+      "year": "2015"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:bnK-pcrLprsC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "A KEY ROLE FOR ARF IN DRUG RESISTANCE IN INVASIVE BLADDER CANCER: OP. 5.8 Dec. 75",
+      "year": "2014"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:a0OBvERweLwC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Abstract B45: Combinatorial activation of PI3-kinase and Ras-Raf signaling in mouse models of advanced prostate cancer",
+      "year": "2014"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:olpn-zPbct0C",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Abstract IA5: Using cross-species analysis of genome-wide regulatory networks to identify drivers of cancer malignancy",
+      "year": "2014"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:KxtntwgDAa4C",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Abstract A29: Interrogating therapeutic response for advanced prostate cancer in vivo using cross-species regulatory models",
+      "year": "2014"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:YOwf2qJgpHMC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "ARF regulates the stability of p16 protein via REG\u03b3-dependent proteasome degradation",
+      "year": "2014"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:eMMeJKvmdy0C",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "A molecular signature predictive of indolent prostate cancer",
+      "year": "2014"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:_FxGoFyzp5QC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Roles for Nkx3. 1 in prostate development and cancer",
+      "year": "2014"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:epqYDVWIO7EC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Virtual prostate biopsy and biopsy simulation: lessons to be learned",
+      "year": "2013"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:nrtMV_XWKgEC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "To Treat or Not to Treat...",
+      "year": "2013"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:lSLTfruPkqcC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Cross-species analysis of genome-wide regulatory models elucidates master regulators of prostate cancer progression and treatment response",
+      "year": "2013"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:yB1At4FlUx8C",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Abstract A26: Cross-species analysis of genome-wide regulatory models elucidates master regulators of prostate cancer progression and treatment response",
+      "year": "2013"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:SeFeTyx0c_EC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Acknowledgment to Reviewers",
+      "year": "2012"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:vDijr-p_gm4C",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Identification of master regulators driving advanced prostate cancer and treatment response through the assembly of mouse and human prostate cancer interactomes",
+      "year": "2012"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:9Nmd_mFXekcC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "A key role for ARF in drug resistance in invasive bladder cancer",
+      "year": "2012"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:zA6iFVUQeVQC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Abstract LB-405: Identification of master regulators driving advanced prostate cancer and treatment response through the assembly of mouse and human prostate cancer interactomes",
+      "year": "2012"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:9yKSN-GCB0IC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "554 A KEY ROLE FOR ARF IN DRUG RESISTANCE IN INVASIVE BLADDER CANCER",
+      "year": "2012"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:4JMBOYKVnBMC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Abstract A36: Identification of master regulators driving advanced prostate cancer and treatment response through the assembly of mouse and human prostate cancer interactomes",
+      "year": "2012"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:ZeXyd9-uunAC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "B-Raf Activation Cooperates with PTEN Loss to Drive c-Myc Expression in Advanced Prostate Cancer",
+      "year": "2012"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:EkHepimYqZsC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Abstract SY22-01: Interrogating gene expression programs from preclinical analyses of genetically engineered mouse models",
+      "year": "2011"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:abG-DnoFyZgC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "367 NOVEL P53-INDEPENDENT FUNCTIONS OF ARF IN THE CONTEXT OF COMBINED FUNCTINAL LOSS OF P53 AND PTEN IN A MOUSE MODEL OF INVASIVE BLADDER CANCER",
+      "year": "2011"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:5Ul4iDaHHb8C",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Stem cells in prostate regeneration and cancer",
+      "year": "2011"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:RYcK_YlVTxYC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Abstract B75: Herbal extract amalgam Zyflamend suppresses prostate cancer cell growth and survival through inducing androgen receptor degradation and inhibiting AR signaling",
+      "year": "2010"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:zYLM7Y9cAGgC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Acknowledgment to Reviewers",
+      "year": "2009"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:BUYA1_V_uYcC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "COMBINATORIAL P53 AND PTEN INACTIVATION PROMOTES INVASIVE BLADDER CANCER",
+      "year": "2009"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:kNdYIx-mwKoC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "7 INVITED Developing combination therapies for hormone-refractory prostate cancer in a pre-clinical mouse model of the disease",
+      "year": "2008"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:mVmsd5A6BfQC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Combinatorial activities of Akt and B-Raf/Erk signaling in a mouse model of androgen-independent prostate cancer (vol 103, pg 14477, 2006)",
+      "year": "2007"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:uc_IGeMz5qoC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Identification of progenitor cells for the regenerating mouse prostate epithelium",
+      "year": "2007"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:pyW8ca7W8N0C",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Histologic analysis of bladder cancer: A new mouse model",
+      "year": "2007"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:hC7cP41nSMkC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Modeling chemoprevention of prostate cancer in mice.",
+      "year": "2005"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:ldfaerwXgEUC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Hoxb13 and Nkx3. 1 have overlapping and distinct functions in the mouse prostate.",
+      "year": "2005"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:J_g5lzvAfSwC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Development of New Treatments for Prostate Cancer",
+      "year": "2005"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:1sJd4Hv_s6UC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Loss of function of Nkx3. 1 predisposes to prostate cancer through increased oxidative damage as a consequence of aging",
+      "year": "2004"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:XiVPGOgt02cC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Heterozygosity of p27kip1 promotes prostate carcinogenesis through up-regulation of cyclin D1",
+      "year": "2004"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:dfsIfKJdRG4C",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Cumulative Author Index for Volumes 265\u2013276",
+      "year": "2004"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:yD5IFk8b50cC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Monoclonal antibody for Nkx3. 1 and method for detecting the same",
+      "year": "2004"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:YsMSGLbcyi4C",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Homeoproteins in prostate development.",
+      "year": "2003"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:mB3voiENLucC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Monoclonal antibody for NKX3. 1 and method for detecting same",
+      "year": "2003"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:g5m5HwL7SMYC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Dlx5 regulates chondrocyte differentiation at multiples stages",
+      "year": "2003"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:EUQCXRtRnyEC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Roles for Nkx3. 1 in prostate development and cancer",
+      "year": "2002"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:u_35RYKgDlwC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "A Mouse Model for Prostate Cancer",
+      "year": "2001"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:geHnlv5EZngC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Mechanisms of gene regulation by the Msx1 homeoprotein in vitro and in vivo",
+      "year": "2000"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:3fE2CSJIrl8C",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Crystal structure of the MSX-1 homeodomain/DNA complex.",
+      "year": "2000"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:dhFuZR0502QC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Crystal structure of the Msx-1 homeodomain/DNA complex.",
+      "year": "2000"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:r0BpntZqJG4C",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Esx1: A paired-like homeoprotein localized to the cytoplasm in the chorion and placenta by a novel PF PN domain",
+      "year": "1999"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:BrmTIyaxlBUC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Pax3 blocks the repressor activity and biological actions of Msx1.",
+      "year": "1998"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:dshw04ExmUIC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Haploinsufficiency of",
+      "year": "1998"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:d1gkVwhDpl0C",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Gene transcription: the next generation",
+      "year": "1996"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:ULOm3_A8WrAC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "A MOLECULAR-BASIS FOR FUNCTIONAL REDUNDANCY BETWEEN 2 MEMBERS OF THE MSX HOMEODOMAIN FAMILY",
+      "year": "1995"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:7T2F9Uy0os0C",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "HOT PAPERS-MOLECULAR-BIOLOGY-TRANSCRIPTIONAL REGULATION BY FOS AND JUN INVITRO-INTERACTION AMONG MULTIPLE ACTIVATOR AND REGULAR DOMAINS BY ABATE, C., LUK, D., CURRAN, T.",
+      "year": "1993"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:NJ774b8OgUMC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "TRANSCRIPTIONAL REGULATION BY MURINE HOX PROTEINS-ISOLATION OF POTENTIAL TARGET GENES",
+      "year": "1993"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:_Re3VWB3Y0AC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Corrections: Expression and Purification of the Leucine Zipper and DNA-Binding Domains of Fos and Jun: Both Fos and Jun Contact DNA Directly",
+      "year": "1990"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:uJ-U7cs_P_0C",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "FOS AND JUN DIMERIZE VIA A LEUCINE ZIPPER AND BIND COOPERATIVELY TO THE AP-1 SITE",
+      "year": "1990"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:35r97b3x0nAC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Inturrisi, CE, LaGamma, EF, Franklin, SO, Huang, T., Nip, TJ and Yoburn, BC, Characterization of enkepha-lins in rat adrenal medullary explants, 23 (I Irwin, I., see Forno, LS \u2026",
+      "year": "1988"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:2KloaMYe4IUC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "MECHANISM OF ACTIVATION OF TYROSINE-HYDROXYLASE",
+      "year": "1987"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:kzcrU_BdoSEC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Dual Targeting of the Akt/mTOR Signaling Pathway Inhibits Castration-Resistant Prostate Cancer in a Genetically Engineered Mouse Model"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:t7zJ5fGR-2UC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "RESEARCH GRANTS"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:Tiz5es2fbqcC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Numbers preceded by V represent video numbers, preceded by P represent page numbers, preceded by LBA represent late breaking"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:uWQEDVKXjbEC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Supplemental Information The Msx1 Homeoprotein Recruits Polycomb to the Nuclear Periphery during Development"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:NaGl4SEjCO4C",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "Hox Genes and Leukemia"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:MXK_kJrjxJIC",
+    "citedby": "0"
+  }, {
+    "bib": {
+      "title": "DBP 10"
+    },
+    "source": "citations",
+    "id_citations": "_1WEgkIAAAAJ:W7OEmFMy1HYC",
+    "citedby": "0"
+  }]
+}

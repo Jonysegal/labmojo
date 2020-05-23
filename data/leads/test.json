@@ -1,0 +1,17 @@
+{
+  "data": [{
+      "institution": "Duke",
+      "image": "https://biology.duke.edu/sites/biology.duke.edu/files/styles/faculty_thumbnail_120_wide/public/externals/00fb0ada9307ac3cac24ee2143ac3237.gif?itok=mRZVIyv-",
+      "name": "Bennett Galef",
+      "title": "Adjunct Professor of Biology",
+      "personal_website": "https://biology.duke.edu/people/dr-bennett-galef-phd",
+      "email": "galef@mcmaster.ca",
+      "description": "",
+      "office": "",
+      "phone": "+1 919 613 7372",
+      "email_host": "mcmaster.ca",
+      "cleaned_name": "Bennett Galef",
+      "firstname": "Bennett",
+      "lastname": "Galef"
+    }]
+}
