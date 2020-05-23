@@ -18,8 +18,8 @@ Search Scholar for the Researchers
 
 name = 'test'
 LEADS = 'data/leads/%s.json' % name
-RESULTS = 'data/results/%s-results.json' % name
-NO_RESULTS = 'data/noresults/%s-noresults.json' % name
+RESULTS = 'data/scholar/gs_profile/%s-results.json' % name
+NO_RESULTS = 'data/scholar/no_gs_profile/%s-noresults.json' % name
 
 ################################################################################
 # Master File Writing function
